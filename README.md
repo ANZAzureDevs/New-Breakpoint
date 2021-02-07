@@ -1,4 +1,4 @@
-![new breakpoint logo and text](media/new-breakpoint.png)
+![new breakpoint logo](media/new-breakpoint.PNG 'new breakpoint logo')
 
 New Breakpoint is a weekly livestream show for Autsralian developers produced by Australian developers at Microsoft and in the local community.
 
