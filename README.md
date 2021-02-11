@@ -25,8 +25,9 @@ Here are the follow-up links for the episode
 - Anthony's great demo can be found on his [GitHub repository](https://github.com/tonybaloney/ants-azure-demos/tree/master/python-functions)
 - Get your hands on the tools to try out the demos!
     - [Visual Studio Code](https://aka.ms/vscode) + these extensions:
-            - [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
-            - [Azurerite](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite)
+        - [Jupyter Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+        - [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+        - [Azurerite](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite)
     - [Azure Storage Explorer](https://azure.microsoft.com/features/storage-explorer/)
     - [Git Client](https://aka.ms/vscode)
     - [GitHub Account](https://github.com/signup)
