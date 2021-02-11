@@ -27,9 +27,11 @@ Here are the follow-up links for the episode
     - [Visual Studio Code](https://aka.ms/vscode) + these extensions:
             - [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
             - [Azurerite](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite)
+    - [Azure Storage Explorer](https://azure.microsoft.com/features/storage-explorer/)
     - [Git Client](https://aka.ms/vscode)
     - [GitHub Account](https://github.com/signup)
     - [Azure Free Account](https://aka.ms/azure-free)
+
 - Azure Functions Python quickstart https://docs.microsoft.com/azure/azure-functions/create-first-function-vs-code-python
 - Sign up for Microsoft Ignite (March 2-4, 2021) to attend our special event: https://aka.ms/ignite/
 - Enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
