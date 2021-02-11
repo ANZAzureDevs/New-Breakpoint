@@ -16,7 +16,7 @@ More to come... 😎
 
 If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/pxSS9KRPUto).
 
-In this episode we introduced New Breakpoint to Australian developers and met with Sydney-based Microsoft Cloud Advocate [Anthony Shaw](https://tonybaloney.github.io/) whose focus in Python. 
+In this episode we introduced New Breakpoint to Australian developers and met with Sydney-based Microsoft Cloud Advocate [Anthony Shaw](https://tonybaloney.github.io/) whose focus is Open Source and Python. 
 
 Anthony showed us how you can quickly build serverless solutions using [Python 3](https://www.python.org/downloads/) and [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview) with Visual Studio Code using a great demo scenario.
 
