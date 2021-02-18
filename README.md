@@ -6,7 +6,7 @@ This repository hosts useful follow ups, links and other information from each e
 
 We want everyone who comes along to feel welcome and safe. Please make sure to review our [Code of Conduct](https://docs.microsoft.com/legal/learntv/codeofconduct) before joining in and contributing to our discussion.
 
-You can watch our shows via [Microsoft Australia's YouTube Channel](https://www.youtube.com/MicrosoftAustralia) or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
+You can watch all our episodes via a playlist on [Microsoft Australia's YouTube Channel](https://aka.ms/new-breakpoint/playlist) or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
 
 ***
 
