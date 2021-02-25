@@ -10,6 +10,27 @@ You can watch all our episodes via a playlist on [Microsoft Australia's YouTube 
 
 ***
 
+## 2021-02-18 - Episode 3: Community discussion - how has the last year affected communities?
+
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/TVjeIg9yn7Q). Come along to our [Microsoft Ignite show](https://aka.ms/new-breakpoint/ignite-march-2021) (3.30pm AEDT, 3 March) next week! 
+
+Without a doubt the last year has been one like none of us has experienced before! In this show we meet with five Australian community members and leaders to find out what it has meant for them and their communities.
+
+We heard from [Melissa Houghton](https://twitter.com/meliss_houghton), [Sammy Herbert](https://twitter.com/SammyHerbert), [David Gardiner](https://twitter.com/DavidRGardiner), [Somy Ayazi](https://twitter.com/SomyAyazi) and [Ross Mullen](https://twitter.com/MrRossMullen) about what's changed about the way their communities operate.
+
+Learn about how going online has changed the way people come together, how has accessibility to content been delivered (or not) and what insights have people gained about how to keep communities together.
+
+Here's some great community and other useful links provided by our guests today.
+
+- Melb.NET: https://www.meetup.com/en-AU/Melb-NET-Meetup
+- DDD Melbourne "By Night": https://www.meetup.com/en-AU/DDD-Melbourne-By-Night/
+- Adelaide .NET User Group: https://www.adnug.net/
+- DDD Adelaide: https://dddadelaide.com/
+ 
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
+
+***
+
 ## 2021-02-18 - Episode 2: "Truck or Not Truck" with Angela, Dinc and Stuart
 
 If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/WQT3Bt6R5io).
