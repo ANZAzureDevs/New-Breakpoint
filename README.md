@@ -10,7 +10,7 @@ You can watch all our episodes via a playlist on [Microsoft Australia's YouTube 
 
 ***
 
-## 2021-02-18 - Episode 3: Community discussion - how has the last year affected communities?
+## 2021-02-25 - Episode 3: Community discussion - how has the last year affected communities?
 
 If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/TVjeIg9yn7Q). Come along to our [Microsoft Ignite show](https://aka.ms/new-breakpoint/ignite-march-2021) (3.30pm AEDT, 3 March) next week! 
 
