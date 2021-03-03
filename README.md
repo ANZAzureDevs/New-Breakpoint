@@ -10,9 +10,29 @@ You can watch all our episodes via a playlist on [Microsoft Australia's YouTube 
 
 ***
 
+## 2021-03-03 - Microsoft Ignite Special - Quantum Computing | Tips and tricks for career development
+
+If you missed the livestream you can catch the episode on the [Microsoft Ignite Website](https://myignite.microsoft.com/sessions/04115eee-8a9f-4956-b871-2bdc128bde6a).
+
+Our show this week focused on two distinct topics - (1) quantum computing and (2) career development.
+
+[Dr Chris Granade](https://www.cgranade.com/) and [Dr David Reilly](https://equs.org/users/prof-david-reilly), both from Microsoft, joined us to talk about [quantum computing](https://azure.microsoft.com/overview/what-is-quantum-computing/) and [Microsoft MVPs](https://mvp.microsoft.com/Overview) [Lisa Crosbie](https://lisacrosbie.com/about/) and [Amey Holden](https://twitter.com/ameyholden) had a discussion on tips and techniques that they've found useful for developing their careers in tech.
+
+If you want to dig deeper on either topic here are some great places to start:
+
+- [Quantum computing foundations](https://docs.microsoft.com/learn/paths/quantum-computing-fundamentals/) is a good place to get started with learning about this topic
+- [Control Hardware announcement](https://www.microsoft.com/en-us/research/blog/full-stack-ahead-pioneering-quantum-hardware-allows-for-controlling-up-to-thousands-of-qubits-at-cryogenic-temperatures/) - see the cutting edge work Dr Reilly's team is doing at University of Sydney.
+- [Azure Quantum Service](https://azure.microsoft.com/services/quantum/) (currently in public preview)
+- [Microsft Cloud Training Events](https://www.microsoft.com/cloud-training-events) includes all webinars and other similar events where you can attend (and sometimes receive free exam vounchers)
+- [Microsoft Learn](https://docs.microsoft.com/learn/) is a great place to get hands-on guided training online
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
+
+***
+
 ## 2021-02-25 - Episode 3: Community discussion - how has the last year affected communities?
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/TVjeIg9yn7Q). Come along to our [Microsoft Ignite show](https://aka.ms/new-breakpoint/ignite-march-2021) (3.30pm AEDT, 3 March) next week! 
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/TVjeIg9yn7Q).
 
 Without a doubt the last year has been one like none of us has experienced before! In this show we meet with five Australian community members and leaders to find out what it has meant for them and their communities.
 
@@ -26,6 +46,8 @@ Here's some great community and other useful links provided by our guests today.
 - DDD Melbourne "By Night": https://www.meetup.com/en-AU/DDD-Melbourne-By-Night/
 - Adelaide .NET User Group: https://www.adnug.net/
 - DDD Adelaide: https://dddadelaide.com/
+- AI - The Podcast - Down Under Edtion: https://globalai.live/ai-the-podcast/
+- Muses Australia: https://musescodejs.org/
  
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
 
