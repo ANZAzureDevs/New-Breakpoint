@@ -23,8 +23,8 @@ If you want to dig deeper on either topic here are some great places to start:
 - [Quantum computing foundations](https://docs.microsoft.com/learn/paths/quantum-computing-fundamentals/) is a good place to get started with learning about this topic
 - [Control Hardware announcement](https://www.microsoft.com/en-us/research/blog/full-stack-ahead-pioneering-quantum-hardware-allows-for-controlling-up-to-thousands-of-qubits-at-cryogenic-temperatures/) - see the cutting edge work Dr Reilly's team is doing at University of Sydney.
 - [Azure Quantum Service](https://azure.microsoft.com/services/quantum/) (currently in public preview)
-- [Microsft Cloud Training Events](https://www.microsoft.com/cloud-training-events) includes all webinars and other similar events where you can attend (and sometimes receive free exam vounchers)
-- [Microsoft Learn](https://docs.microsoft.com/learn/) is a great place to get hands-on guided training online
+- [Microsft Cloud Training Events](https://www.microsoft.com/cloud-training-events) includes all webinars and other similar events where you can attend (and sometimes receive free exam vouchers)
+- [Microsoft Learn](https://docs.microsoft.com/learn/) is a great place to get hands-on guided training online.
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
 
