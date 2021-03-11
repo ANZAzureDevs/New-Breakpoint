@@ -10,9 +10,29 @@ You can watch all our episodes via a playlist on [Microsoft Australia's YouTube 
 
 ***
 
+## 2021-03-11 - Episode 4: MLOps with Damian Brady
+
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/TVjeIg9yn7Q).
+
+Every developer is a budding data scientist or engineer, but as a developer it can be hard to find a way into the world of machine learning.
+
+Australian Senior Cloud Advocate [Damian Brady](https://twitter.com/damovisa) was our guest this week and ran us through the world of [MLOps](https://en.wikipedia.org/wiki/MLOps) which tackles the same basic challenges for machine learning as [DevOps](https://en.wikipedia.org/wiki/DevOps) does for software development.
+
+You can dig into the following if you want to know more about MLOps
+
+- [MLOps on Azure](https://github.com/Microsoft/MLOps): official GitHub repository from Microsoft
+- [MLOps - DevOps for Machine Learning](https://youtu.be/8UhKbDiMCMk?t=57): Damian's session on MLOps from DevOps Unicorns!
+- [Microsoft Learn module on MLOps](https://docs.microsoft.com/learn/modules/start-ml-lifecycle-mlops/): hands-on learning about MLOps
+- [MLOps - One Dev Question video series](https://damianbrady.com.au/2020/10/06/machine-learning-and-mlops-one-dev-question/): understand MLOps in 2 minute chunks!
+- [Using Azure Machine Learning from GitHub Actions](https://devblogs.microsoft.com/devops/using-azure-machine-learning-from-github-actions/?WT.mc_id=devops-19729-dabrady): great read from Damian on using GitHub Actions for MLOps.
+ 
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
+
+***
+
 ## 2021-03-03 - Microsoft Ignite Special - Quantum Computing | Tips and tricks for career development
 
-If you missed the livestream you can catch the episode on the [Microsoft Ignite Website](https://myignite.microsoft.com/sessions/04115eee-8a9f-4956-b871-2bdc128bde6a).
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/OD3vbOyFnao).
 
 Our show this week focused on two distinct topics - (1) quantum computing and (2) career development.
 
