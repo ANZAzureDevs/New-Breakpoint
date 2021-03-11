@@ -12,7 +12,7 @@ You can watch all our episodes via a playlist on [Microsoft Australia's YouTube 
 
 ## 2021-03-11 - Episode 4: MLOps with Damian Brady
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/TVjeIg9yn7Q).
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/BUmWddDGJQ0?t=21).
 
 Every developer is a budding data scientist or engineer, but as a developer it can be hard to find a way into the world of machine learning.
 
