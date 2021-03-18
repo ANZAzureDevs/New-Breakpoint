@@ -20,6 +20,10 @@ This week [Valeriia Savenko](https://twitter.com/valesavenko), Microsoft Austral
 
 As developers we love to fiddle and get hands-on 🙂, so here are some great ways to get started with AI:
 
+- [Transcription Viewer demo](https://github.com/timleyden/speechtotextdemo/tree/transcriptionviewerv3): demo from Val's talk - deploy to Azure and try yourself
+- [Automated transcription spells savings, speed and security for Griffith University researchers](https://news.microsoft.com/en-au/features/automated-transcription-spells-savings-speed-and-security-for-griffith-university-researchers/): news article detailing how the transcription service can be used
+- [Audio Content Creation website](https://speech.microsoft.com/audiocontentcreation): explore Microsoft's Neural Text-to-Speech capabilities
+
 - [30-day AI learning path for developers](https://azure.microsoft.com/overview/ai-platform/dev-resources/#learning-journey): grow your skills and prepare for the Azure AI Fundamentals Certification
 - [Build "Rock-paper-scissors" using Azure Custom Vision](https://docs.microsoft.com/samples/azure-samples/rock-paper-scissors-customvision/rock-paper-scissors-customvision/): hands-on workshop on how to build this classic game
 - [A bit of AI](https://www.abitofai.show/): 30-minute weekly show on working in the field of AI
