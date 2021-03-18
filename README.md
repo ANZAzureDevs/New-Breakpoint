@@ -6,7 +6,30 @@ This repository hosts useful follow ups, links and other information from each e
 
 We want everyone who comes along to feel welcome and safe. Please make sure to review our [Code of Conduct](https://docs.microsoft.com/legal/learntv/codeofconduct) before joining in and contributing to our discussion.
 
-You can watch all our episodes via a playlist on [Microsoft Australia's YouTube Channel](https://aka.ms/new-breakpoint/playlist) or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
+You can watch all our episodes via our playlist on [Microsoft Australia's YouTube Channel](https://aka.ms/new-breakpoint/playlist) or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
+
+***
+
+## 2021-03-18 - Episode 5: AI for Developers with Valeriia Savenko
+
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/qss0yrJ50is).
+
+Artificial Intelligence (AI) and the technologies that drive it, such as Machine Learning (ML) can appear a bit daunting to developers when they start investigating how to use them in their solutions.
+
+This week [Valeriia Savenko](https://twitter.com/valesavenko), Microsoft Australia's IoT Business Lead (and passionate developer and AI technologist), joined us to show developers how get orientated in the world of AI.
+
+As developers we love to fiddle and get hands-on 🙂, so here are some great ways to get started with AI:
+
+- [30-day AI learning path for developers](https://azure.microsoft.com/overview/ai-platform/dev-resources/#learning-journey): grow your skills and prepare for the Azure AI Fundamentals Certification
+- [Build "Rock-paper-scissors" using Azure Custom Vision](https://docs.microsoft.com/samples/azure-samples/rock-paper-scissors-customvision/rock-paper-scissors-customvision/): hands-on workshop on how to build this classic game
+- [A bit of AI](https://www.abitofai.show/): 30-minute weekly show on working in the field of AI
+- [AI - The Podcast - Down Under Edition](https://globalai.live/ai-the-podcast/): monthly Australian community podcast on all things AI 
+- Some great Microsoft Learn Learning Paths:
+    - [Explore natural language processing](https://docs.microsoft.com/learn/paths/explore-natural-language-processing/)
+    - [Create no-code predictive models with Azure Machine Learning](https://docs.microsoft.com/learn/paths/create-no-code-predictive-models-azure-machine-learning/)
+    - [Analyse receipts with the Form Recognizer service](https://docs.microsoft.com/learn/modules/analyze-receipts-form-recognizer/)
+ 
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
 
 ***
 
