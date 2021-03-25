@@ -12,7 +12,7 @@ You can watch all our episodes via our playlist on [Microsoft Australia's YouTub
 
 ## 2021-03-25 - Episode 6: Community discussion - tangible ways to help women in tech
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/qss0yrJ50is).
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/FG-as0lDEyA).
 
 Creating a diverse and inclusive tech industry should be a full-time focus for all of us, but sadly in many instances it is only a once-a-year focus when International Women's Day happens.
 
