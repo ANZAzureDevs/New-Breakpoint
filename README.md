@@ -10,6 +10,33 @@ You can watch all our episodes via our playlist on [Microsoft Australia's YouTub
 
 ***
 
+## 2021-03-18 - Episode 5: Community discussion - tangible ways to help women in tech
+
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/qss0yrJ50is).
+
+Creating a diverse and inclusive tech industry should be a full-time focus for all of us, but sadly in many instances it is only a once-a-year focus when International Women's Day happens.
+
+Two members of our community team, [Melissa Houghton](https://twitter.com/meliss_houghton) and [Sammy Herbert](https://twitter.com/SammyHerbert) were joined by leads of women in tech communities around Australia - [Akanksha Malik](https://twitter.com/akankshamalik96), [Bronwen Zande](https://twitter.com/BronwenZ), [Kate Kirwin](https://twitter.com/KateKirwin) and Katrin Schmidt - to look how we can go beyond the hashtags and morning teas and make tangible differences to help support women in tech.
+
+Read more on International Women's Day: https://www.internationalwomensday.com/
+
+Women in Tech Communities worth checking out (did we miss any? let us know!):
+
+- [Code Like A Girl](https://www.codelikeagirl.com/)
+- [Girl Geek Sydney](https://www.meetup.com/Girl-Geek-Sydney/)
+- [Girls In Tech Australia](https://australia.girlsintech.org/)
+- [IWD Coding Challenge](https://www.robertwaltersgroup.com/sustainability/diversity/international-womens-day-2021-coding-challenge.html)
+- [Muses Code JS](https://musescodejs.org/)
+- [She Codes](https://shecodes.com.au/)
+- [Tech Girls Movement](https://www.techgirlsmovement.org/)
+- [Women in Technology](https://www.wit.org.au/)
+- [Women Who Code](https://www.womenwhocode.com/)
+- [Women Tech Makers](https://www.womentechmakers.com/)
+- [Women In IT WA](https://www.witwa.org.au/)
+- [YOW! New Voices in Tech](https://yowconference.com/newvoices/)
+
+***
+
 ## 2021-03-18 - Episode 5: AI for Developers with Valeriia Savenko
 
 If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/qss0yrJ50is).
