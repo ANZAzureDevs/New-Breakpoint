@@ -10,7 +10,7 @@ You can watch all our episodes via our playlist on [Microsoft Australia's YouTub
 
 ***
 
-## 2021-03-18 - Episode 5: Community discussion - tangible ways to help women in tech
+## 2021-03-18 - Episode 6: Community discussion - tangible ways to help women in tech
 
 If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/qss0yrJ50is).
 
