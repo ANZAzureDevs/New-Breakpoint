@@ -27,6 +27,7 @@ Women in Tech Communities worth checking out (did we miss any? let us know!):
 - [Girls In Tech Australia](https://australia.girlsintech.org/)
 - [IWD Coding Challenge](https://www.robertwaltersgroup.com/sustainability/diversity/international-womens-day-2021-coding-challenge.html)
 - [Muses Code JS](https://musescodejs.org/)
+- [Paths Uncovered Podcast](https://my.link.gallery/pathsuncovered)
 - [She Codes](https://shecodes.com.au/)
 - [Tech Girls Movement](https://www.techgirlsmovement.org/)
 - [Women in Technology](https://www.wit.org.au/)
