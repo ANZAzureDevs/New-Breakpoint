@@ -10,6 +10,33 @@ You can watch all our episodes via our playlist on [Microsoft Australia's YouTub
 
 ***
 
+## 2021-04-15 - Episode 7: Azure Cloud Adoption Framework (CAF) and Well-Architected Framework (WAF) for developers
+
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/W1tAala3WbY).
+
+Azure provides such a large canvas for developers to build solutions that it can often times be hard to know where to start, or if you are using Azure effectively.
+
+Microsoft built the Cloud Adoption (CAF) and Well-Architected (WAF) Frameworks as a way to help those moving to, and building on Azure ensure they are on the right track.
+
+This episode we are joined by two of Microsoft Australia's [FastTrack](https://azure.microsoft.com/programs/azure-fasttrack/) Senior PM team - [Rupal Mudholkar](https://www.linkedin.com/in/rupal-thakkar-mudholkar/) and [Ronel Vosloo](https://www.linkedin.com/in/ronel-vosloo-7131305/) - who will walk us though CAF and WAF and what they mean for developers.
+
+We only had a short period to cover CAF and WAF at a high level so here are a few follow-up links so you can go deeper where you want to.
+
+The Microsoft [Well-Architected Framework](http://aka.ms/wellarchitected/framework), with its five pillars - cost optimisation, operational excellence, performance efficiency, reliability, security - is complemented by critical resources including:
+- Microsoft Azure [Well-Architected Review](https://aka.ms/wellarchitected/review) - Assess workload architecture design across the five pillars
+- [Design Principles](https://aka.ms/wellarchitected/designprinciples) and [Reference Architecture](https://aka.ms/wellarchitected/referencearch) – Technical guidance to build well-architected workloads
+- [Azure Advisor](https://docs.microsoft.com/azure/advisor/), now including [Advisor Score](https://docs.microsoft.com/azure/advisor/azure-advisor-score) – Identify and prioritise where to focus to optimise deployed resources
+- Documentation for the Microsoft [Cloud Adoption Framework](https://docs.microsoft.com/azure/cloud-adoption-framework/) for Azure along with our fantastic [Azure Architecture Centre](https://docs.microsoft.com/azure/architecture/)
+- Find [Partners](https://www.microsoft.com/azure/partners/well-architected) who can support you in achieving and maintaining a well-architected state for your workloads
+
+Readiness/Training
+- Well-Architected [Learning Path](http://aka.ms/wellarchitected/learn) - Microsoft Learn self-paced learning
+- [Channel 9 Show](https://aka.ms/azenable) - Azure Enablement Show on Microsoft's Channel 9.
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
+
+***
+
 ## 2021-03-25 - Episode 6: Community discussion - tangible ways to help women in tech
 
 If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/FG-as0lDEyA).
