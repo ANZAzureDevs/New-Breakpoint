@@ -10,6 +10,28 @@ You can watch all our episodes via our playlist on [Microsoft Australia's YouTub
 
 ***
 
+## 2021-04-22 - Episode 8: Building resilient applications with Azure SQL Database 
+
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/W1tAala3WbY).
+
+Whether your application is a monolith, a set of micro-services, or somewhere in between, the one design challenge you will always face is building resilience into it.
+
+Developers sometimes overlook how to improve the resilience of their data store, so in this show we're joined by [Mohamed Kabiruddin](https://twitter.com/mdkabir), Senior PM on the Azure SQL Database team, along with two of our Cloud Solution Architecture (CSA) team [Adnan Akram](https://www.linkedin.com/in/adnan-akram-6538953/) and [Junchi Liu](https://www.linkedin.com/in/junchi-liu-83631671/) to discuss how you can build resilient multi-Region applications while using Azure SQL Database. 
+
+Want to try out what you saw, or read more about resilient applications with Azure SQL Database? Here are some great follow-up links:
+
+- Sample application code with resilient database connections: https://github.com/yorek/azure-sql-db-samples/tree/master/samples/02-resilient-connections
+- Overview of Business continuity with Azure SQL Database: https://docs.microsoft.com/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview
+- Use auto-failover groups to enable transparent and coordinated failover of multiple databases: https://docs.microsoft.com/azure/azure-sql/database/auto-failover-group-overview?tabs=azure-powershell
+- For Java applications - Improve JDBC application reliability with Azure SQL Database and connection pooling: https://devblogs.microsoft.com/azure-sql/improve-jdbc-application-reliability-with-azure-sql-and-connection-pooling/
+- Azure Well-Architected Framework (WAF) - Principles of the reliability pillar: https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview (also see Episode 7 below which covered WAF).
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
+
+***
+
+mdkabir
+
 ## 2021-04-15 - Episode 7: Azure Cloud Adoption Framework (CAF) and Well-Architected Framework (WAF) for developers
 
 If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/W1tAala3WbY).
