@@ -12,7 +12,7 @@ You can watch all our episodes via our playlist on [Microsoft Australia's YouTub
 
 ## 2021-04-22 - Episode 8: Building resilient applications with Azure SQL Database 
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/W1tAala3WbY).
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/vEdvUxULf8A).
 
 Whether your application is a monolith, a set of micro-services, or somewhere in between, the one design challenge you will always face is building resilience into it.
 
@@ -22,6 +22,7 @@ Want to try out what you saw, or read more about resilient applications with Azu
 
 - Sample application code with resilient database connections: https://github.com/yorek/azure-sql-db-samples/tree/master/samples/02-resilient-connections
 - Overview of Business continuity with Azure SQL Database: https://docs.microsoft.com/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview
+- Replay Markup Langauge (RML) Utilities for SQL Server: https://docs.microsoft.com/troubleshoot/sql/tools/replay-markup-language-utility - Adnan used OStress from the RML Utilities.
 - Use auto-failover groups to enable transparent and coordinated failover of multiple databases: https://docs.microsoft.com/azure/azure-sql/database/auto-failover-group-overview?tabs=azure-powershell
 - For Java applications - Improve JDBC application reliability with Azure SQL Database and connection pooling: https://devblogs.microsoft.com/azure-sql/improve-jdbc-application-reliability-with-azure-sql-and-connection-pooling/
 - Azure Well-Architected Framework (WAF) - Principles of the reliability pillar: https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview (also see Episode 7 below which covered WAF).
