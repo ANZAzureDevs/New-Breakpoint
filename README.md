@@ -31,8 +31,6 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ***
 
-mdkabir
-
 ## 2021-04-15 - Episode 7: Azure Cloud Adoption Framework (CAF) and Well-Architected Framework (WAF) for developers
 
 If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/W1tAala3WbY).
