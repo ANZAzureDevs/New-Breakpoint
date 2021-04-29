@@ -8,6 +8,26 @@ We want everyone who comes along to feel welcome and safe. Please make sure to r
 
 You can watch all our episodes via our playlist on [Microsoft Australia's YouTube Channel](https://aka.ms/new-breakpoint/playlist) or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
 
+We would like to acknowledge that we record the show on the traditional lands of the Gadigal people of the Eora nation, and have guests from around Australia who join us from the traditional lands of their local people. We pay our respects to Elders past, present and future.
+
+***
+
+## 2021-04-29 - Episode 9: The Great Debate! Tabs versus Spaces! 
+
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/OzSv4ae6-Xo).
+
+So, do developers who use tabs take four or eight steps at a time, or do developers who use spaces care more for accuracy than tabs-based developers?
+
+In this episode we revisit this age-old debate that has existed since bugs were physical insects found in computers! What team are you on?
+
+Team Tabs and Team Spaces will debate the merit and drawbacks with each other's white space insertion method... watch out for sneak attacks and unexpected counter-points! 
+
+Do you get paid more for coding in spaces or tabs? Can we answer that in 15 minutes?!
+
+Perhaps you can find further answers in our monthly developer newsletter? Sign up here: https://aka.ms/DevNewsletterJoin
+
+Microsoft Build is coming up May 25 - 27. It's free, so make sure to register so you can attend our special show! https://aka.ms/build
+
 ***
 
 ## 2021-04-22 - Episode 8: Building resilient applications with Azure SQL Database 
@@ -27,7 +47,7 @@ Want to try out what you saw, or read more about resilient applications with Azu
 - For Java applications - Improve JDBC application reliability with Azure SQL Database and connection pooling: https://devblogs.microsoft.com/azure-sql/improve-jdbc-application-reliability-with-azure-sql-and-connection-pooling/
 - Azure Well-Architected Framework (WAF) - Principles of the reliability pillar: https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview (also see Episode 7 below which covered WAF).
 
-If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
 ***
 
@@ -54,7 +74,7 @@ Readiness/Training
 - Well-Architected [Learning Path](http://aka.ms/wellarchitected/learn) - Microsoft Learn self-paced learning
 - [Channel 9 Show](https://aka.ms/azenable) - Azure Enablement Show on Microsoft's Channel 9.
 
-If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
 ***
 
@@ -109,7 +129,7 @@ As developers we love to fiddle and get hands-on 🙂, so here are some great wa
     - [Create no-code predictive models with Azure Machine Learning](https://docs.microsoft.com/learn/paths/create-no-code-predictive-models-azure-machine-learning/)
     - [Analyse receipts with the Form Recognizer service](https://docs.microsoft.com/learn/modules/analyze-receipts-form-recognizer/)
  
-If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
 ***
 
@@ -129,7 +149,7 @@ You can dig into the following if you want to know more about MLOps
 - [MLOps - One Dev Question video series](https://damianbrady.com.au/2020/10/06/machine-learning-and-mlops-one-dev-question/): understand MLOps in 2 minute chunks!
 - [Using Azure Machine Learning from GitHub Actions](https://devblogs.microsoft.com/devops/using-azure-machine-learning-from-github-actions/?WT.mc_id=devops-19729-dabrady): great read from Damian on using GitHub Actions for MLOps.
  
-If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
 ***
 
@@ -149,7 +169,7 @@ If you want to dig deeper on either topic here are some great places to start:
 - [Microsft Cloud Training Events](https://www.microsoft.com/cloud-training-events) includes all webinars and other similar events where you can attend (and sometimes receive free exam vouchers)
 - [Microsoft Learn](https://docs.microsoft.com/learn/) is a great place to get hands-on guided training online.
 
-If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
 ***
 
@@ -172,7 +192,7 @@ Here's some great community and other useful links provided by our guests today.
 - AI - The Podcast - Down Under Edtion: https://globalai.live/ai-the-podcast/
 - Muses Australia: https://musescodejs.org/
  
-If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
 ***
 
@@ -208,7 +228,7 @@ Here are the follow-up links for the episode:
         - [Azure Functions Python quickstart]( https://docs.microsoft.com/azure/azure-functions/create-first-function-vs-code-python)
         
 - Sign up for Microsoft Ignite (March 2-4, 2021) to attend our special event: https://aka.ms/ignite/
-- Enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
+- Enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
 ***
 
@@ -235,4 +255,4 @@ Here are the follow-up links for the episode:
 
 - Azure Functions Python quickstart https://docs.microsoft.com/azure/azure-functions/create-first-function-vs-code-python
 - Sign up for Microsoft Ignite (March 2-4, 2021) to attend our special event: https://aka.ms/ignite/
-- Enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevCommunityJoin
+- Enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
