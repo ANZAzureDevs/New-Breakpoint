@@ -6,9 +6,27 @@ This repository hosts useful follow ups, links and other information from each e
 
 We want everyone who comes along to feel welcome and safe. Please make sure to review our [Code of Conduct](https://docs.microsoft.com/legal/learntv/codeofconduct) before joining in and contributing to our discussion.
 
-You can watch all our episodes via our playlist on [Microsoft Australia's YouTube Channel](https://aka.ms/new-breakpoint/playlist) or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
+You can watch all our episodes via our [Twitter Moment](https://twitter.com/i/events/1385081425146257409), our playlist on [Microsoft Australia's YouTube Channel](https://aka.ms/new-breakpoint/playlist), or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
 
 We would like to acknowledge that we record the show on the traditional lands of the Gadigal people of the Eora nation, and have guests from around Australia who join us from the traditional lands of their local people. We pay our respects to Elders past, present and future.
+
+***
+
+## 2021-05-13 - Episode 10: A day in the life of an API with Todd Whitehead
+
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/g7kTCEADd04).
+
+Application Programming Interfaces (APIs) are one of the keys to modern development. In this episode Microsoft Cloud Solution Architect [Todd Whitehead](http://twitter.com/todwhitehead) demonstrates how Azure can accelerate the design, development and deployment of public and private APIs.  
+
+In just 15 minutes he will walk through the development lifecycle of an API from prototype to production, using just a handful of Azure services along with tools developers are already familiar with.
+
+Learn how easy it is to build your own APIs and make them available to both pro developer and low/no-code consumers.
+
+Here is Todd's one-stop-shop for all the links and demo code from his talk: https://github.com/toddwhitehead/api-day-in-the-life
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+Microsoft Build is coming up May 25 - 27. We have a special show during Build that we'd love to see you at! Build is free, so make sure to register so you can attend our special show! https://aka.ms/build
 
 ***
 
