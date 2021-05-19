@@ -12,6 +12,31 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ***
 
+## 2021-05-20 - Episode 11: Automation with Power Platform, Azure Functions and Static Websites
+
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/oXZrYeCkE7M).
+
+Cloud technology offers developers a smorgasboard of services to help them build solutions to solve all types of problems.
+
+What if you were rolling out a competition program that your customers sign up for? You'd need to be able scale things like collection of customer preferences, generation of personalised resources, and making sure all the legal T&C's matched up to the customer.
+
+This week [JT](https://twitter.com/jtango18) from Microsoft joins us to walk through how he used Power Platform, Azure Functions and Azure Static Websites to solve just this scenario when rolling out Cloud Skills Challenges in Australia.
+
+Want to learn more? Here are some great next steps:
+
+- Power Apps documentation: https://docs.microsoft.com/powerapps/
+- What are Power Apps Portals? https://docs.microsoft.com/powerapps/maker/portals/overview
+- Learning path for Power Apps Portals: https://docs.microsoft.com/learn/paths/get-started-power-apps-portals/
+- Create serverles applications learning path: https://docs.microsoft.com/learn/paths/create-serverless-applications/
+- Quickstart: Building C# Functions: https://docs.microsoft.com/azure/azure-functions/create-first-function-vs-code-csharp
+- Azure Storage Static Web Sites tutorial: https://docs.microsoft.com/azure/storage/blobs/storage-blob-static-website-host
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+Microsoft Build is coming up May 25 - 27. We have a special show during Build that we'd love to see you at! Build is free, so make sure to register so you can attend our special show! https://aka.ms/build
+
+***
+
 ## 2021-05-13 - Episode 10: A day in the life of an API with Todd Whitehead
 
 If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/g7kTCEADd04).
