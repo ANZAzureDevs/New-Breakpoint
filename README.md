@@ -30,6 +30,7 @@ Want to learn more? Here are some great next steps:
 - Create serverles applications learning path: https://docs.microsoft.com/learn/paths/create-serverless-applications/
 - Quickstart: Building C# Functions: https://docs.microsoft.com/azure/azure-functions/create-first-function-vs-code-csharp
 - Azure Storage Static Web Sites tutorial: https://docs.microsoft.com/azure/storage/blobs/storage-blob-static-website-host
+- Australian Cloud Skills Challenge (valid through until 17 June 2021): https://aka.ms/CSCAustralia
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
