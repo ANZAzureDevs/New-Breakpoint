@@ -14,7 +14,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ## 2021-05-20 - Episode 11: Automation with Power Platform, Azure Functions and Static Websites
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/oXZrYeCkE7M).
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/Iv9yaBHjq6E).
 
 Cloud technology offers developers a smorgasboard of services to help them build solutions to solve all types of problems.
 
