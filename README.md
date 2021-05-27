@@ -12,6 +12,32 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ***
 
+## 2021-05-26 - Microsoft Build Special - Next Generation Techonologists with Girl Geek Academy and "Dads Taxi" with Stu and Nick
+
+If you missed the livestream you can catch it on demand once Build has finshed. We'll update this post with details.
+
+We kicked off the show with [Sarah](https://twitter.com/SarahMoran), [Luera](https://www.linkedin.com/in/leura-smith-1939aa200/) and Rubii from Girl Geek Academy joining Microsoft's [Liz Fuller](https://www.linkedin.com/in/elizabethbfuller1/) and [Matt Furse](https://www.linkedin.com/in/mattfurse/) to talk about the work Girl Geek Academy is supporting the next generation of technologists from traditionally underrepresented groups.
+
+In the second half of our show we heard from Microsoft Cloud Solution Architects [Stu](https://www.linkedin.com/in/seggerton/) and [Nick](https://www.linkedin.com/in/nickckprice/) as they showed us how to take a startup idea "Dads Taxi" from zero to global in under 15 minutes. The solution is build using Azure Maps, Azure Static Web Apps, Azure Functions, Azure Front Door and GitHub Actions.
+
+
+If you enjoyed the show and want to find out more here are some useful links:
+
+- Check out Girl Geek Acadmey's website - https://www.girlgeekacademy.com/
+- Microsoft Monday hosted by Girl Geek Academy - https://girlgeekacademy.com/microsoft/
+- Dads Taxi source on GitHub - https://github.com/gitstua/DadsTaxi/
+- Using Headless Chrome browser with Azure Functions - https://github.com/gitstua/functions-headless-chromium
+- GitHub Actions overview - https://docs.github.com/actions
+- Azure Maps Web SDK Samples - https://azuremapscodesamples.azurewebsites.net/
+- Quickstart: Building you first static web site with Azure - https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript
+- Quickstart: Create a JavaScript function in Azure using Visual Studio Code - https://docs.microsoft.com/azure/azure-functions/create-first-function-vs-code-node
+- Quickstart: Create a Front Door for a highly available global web application - https://docs.microsoft.com/azure/frontdoor/quickstart-create-front-door
+
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+***
+
 ## 2021-05-20 - Episode 11: Automation with Power Platform, Azure Functions and Static Websites
 
 If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/Iv9yaBHjq6E).
