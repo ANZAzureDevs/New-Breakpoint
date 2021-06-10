@@ -12,9 +12,26 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ***
 
+## 2021-06-10 - Episode 12: ARM versus Bicep - what to use for automating your Azure deployments
+
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/CCC).
+
+Australian Advanced Azure Specialist [Scott Holden](hhttps://twitter.com/ScottDotMS) joins us this week to run through how you can deploy your resources to Azure using the new Bicep language and how it compares to the more traditional Azure Resource Manager (ARM) templates. Learn about the advantages of Bicep when compared to ARM and to other deployment methods and see how you can quickly benefit from shifting to using Bicep for all your deployments. 
+
+Want to learn more? Here are some great next steps:
+
+- What is Infrastructure-as-Code? https://docs.microsoft.com/devops/deliver/what-is-infrastructure-as-code
+- Overview of Bicep: https://docs.microsoft.com/azure/azure-resource-manager/bicep/overview
+- Learning Path for Bicep: https://docs.microsoft.com/learn/paths/bicep-deploy/
+- Bicep on GitHub: https://github.com/Azure/bicep
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+***
+
 ## 2021-05-26 - Microsoft Build Special - Next Generation Techonologists with Girl Geek Academy and "Dads Taxi" with Stu and Nick
 
-If you missed the livestream you can catch it on demand once Build has finshed. We'll update this post with details.
+If you missed the livestream you can catch it on demand [on YouTube](https://youtu.be/AvEbYiaP9FE).
 
 We kicked off the show with [Sarah](https://twitter.com/SarahMoran), [Luera](https://www.linkedin.com/in/leura-smith-1939aa200/) and Rubii from Girl Geek Academy joining Microsoft's [Liz Fuller](https://www.linkedin.com/in/elizabethbfuller1/) and [Matt Furse](https://www.linkedin.com/in/mattfurse/) to talk about the work Girl Geek Academy is supporting the next generation of technologists from traditionally underrepresented groups.
 
