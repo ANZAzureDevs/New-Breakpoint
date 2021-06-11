@@ -14,7 +14,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ## 2021-06-10 - Episode 12: ARM versus Bicep - what to use for automating your Azure deployments
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/CCC).
+If you missed the livestream you can catch the episode [on YouTube](hhttps://youtu.be/apBKJmoKc7I).
 
 Australian Advanced Azure Specialist [Scott Holden](hhttps://twitter.com/ScottDotMS) joins us this week to run through how you can deploy your resources to Azure using the new Bicep language and how it compares to the more traditional Azure Resource Manager (ARM) templates. Learn about the advantages of Bicep when compared to ARM and to other deployment methods and see how you can quickly benefit from shifting to using Bicep for all your deployments. 
 
