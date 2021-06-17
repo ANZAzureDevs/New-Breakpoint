@@ -12,6 +12,29 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ***
 
+## 2021-06-17 - Episode 13: DrumBeat.ai and Azure AI - helping identify ear disease early 
+
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/xLzlaJl4IWI).
+
+What if we could broaden the impact of medicine by empowering non-specialist practitioners to pre-screen people using technology developed using AI? Artificial Intelligence (AI) is best used as an augmentation to human capabilities, and not as a replacement, and in this episode, Microsoft's [Kris Bock](https://www.linkedin.com/in/krisbock/) is joined by leading investigators [Associate Professor Narinder Singh](https://www.linkedin.com/in/narinder-singh-95595a13/) and [Dr Al-Rahim Habib](https://www.linkedin.com/in/al-rahim-habib-584957177/) to talk about how DrumBeat.ai is making use of Azure's AI capabilities to build such a screening tool.
+
+Want to learn more? Here are some great next steps:
+
+- DrumBeat - https://www.drumbeat.ai/
+- Queensland Deadly Ears Program - https://www.childrens.health.qld.gov.au/chq/our-services/community-health-services/deadly-ears/
+- Australian Institute of Health and Welfare (AIHW) Indigenous hearing health - https://www.aihw.gov.au/reports/australias-health/indigenous-hearing-health
+- The Garnett Passe and Rodney William Foundation Research Scholarship - https://gprwmf.org.au/awarded/drumbeat-ai-artificial-intelligence-to-triage-rural-and-remote-paediatric-indigenous-ear-disease/
+- The Australian Newspaper (rego required) - [Artificial intelligence technology set to reduce indigenous ear disease](https://www.theaustralian.com.au/news/artificial-intelligence-technology-set-to-reduce-indigenous-ear-disease/news-story/633ece0f1ce7c8343526ba74911cd79f)
+- Microsoft Cognitive Services Custom Vision website: https://www.customvision.ai/
+- Export your model for use with mobile devices: https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/export-your-model
+- Sample: ONNX models exported from Custom Vision Service: https://github.com/Azure-Samples/cognitive-services-onnx-customvision-sample
+
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+
+***
+
 ## 2021-06-10 - Episode 12: ARM versus Bicep - what to use for automating your Azure deployments
 
 If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/apBKJmoKc7I).
