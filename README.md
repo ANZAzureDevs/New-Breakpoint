@@ -1,6 +1,6 @@
 ![new breakpoint logo](media/new-breakpoint.PNG 'new breakpoint logo')
 
-New Breakpoint is a weekly livestream show for Australian developers produced by Australian developers at Microsoft and in the local community.
+New Breakpoint is a regular online show for Australian developers produced by Australian developers at Microsoft and in the local community.
 
 This repository hosts useful follow ups, links and other information from each episode.
 
@@ -9,6 +9,26 @@ We want everyone who comes along to feel welcome and safe. Please make sure to r
 You can watch all our episodes via our [Twitter Moment](https://twitter.com/i/events/1385081425146257409), our playlist on [Microsoft Australia's YouTube Channel](https://aka.ms/new-breakpoint/playlist), or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
 
 We would like to acknowledge that we record the show on the traditional lands of the Gadigal people of the Eora nation, and have guests from around Australia who join us from the traditional lands of their local people. We pay our respects to Elders past, present and future.
+
+***
+
+## 2021-06-24 - Episode 14: Global AI - THe Podcast 
+
+If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/0nxb911j7W4).
+
+Hear from the team - [Akanksha](https://twitter.com/akankshamalik96), [Arafat](https://twitter.com/arafattehsin), [JK](https://twitter.com/jernej_kavka) and [Somy](https://twitter.com/SomyAyazi) - who run the podcast as they explore lessons learned from creating and running a podcast, including finding guests through to the challenges of recording when everyone is in different locations.
+
+Want to learn more? Here are some great next steps:
+
+- Pick up the podcast on your favourite platform:
+    - [Direct on site](https://globalai.live/ai-the-podcast/) or [on YouTube](https://www.youtube.com/playlist?list=PLMjtoLHNjR0tSHbJTmRGr-af-j2pud3-T) 
+    - [Anchor FM](https://anchor.fm/global-ai-podcast/) and [Spotify](https://open.spotify.com/show/5qVleSNEBd1uwRq7rU7kkQ) 
+    - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NDM4NjhhYy9wb2RjYXN0L3Jzcw==) 
+    - [Apple Podcasts](https://podcasts.apple.com/us/podcast/global-ai-the-podcast/id1545886595) 
+- Microsoft AI: https://www.microsoft.com/ai/ai-platform
+- Azure Cognitive Services: https://azure.microsoft.com/services/cognitive-services/
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
 ***
 
@@ -29,9 +49,7 @@ Want to learn more? Here are some great next steps:
 - Export your model for use with mobile devices: https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/export-your-model
 - Sample: ONNX models exported from Custom Vision Service: https://github.com/Azure-Samples/cognitive-services-onnx-customvision-sample
 
-
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
-
 
 ***
 
@@ -63,7 +81,7 @@ In the second half of our show we heard from Microsoft Cloud Solution Architects
 
 If you enjoyed the show and want to find out more here are some useful links:
 
-- Check out Girl Geek Acadmey's website - https://www.girlgeekacademy.com/
+- Check out Girl Geek Academy's website - https://www.girlgeekacademy.com/
 - Microsoft Monday hosted by Girl Geek Academy - https://girlgeekacademy.com/microsoft/
 - Dads Taxi source on GitHub - https://github.com/gitstua/DadsTaxi/
 - Using Headless Chrome browser with Azure Functions - https://github.com/gitstua/functions-headless-chromium
@@ -82,7 +100,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/Iv9yaBHjq6E).
 
-Cloud technology offers developers a smorgasboard of services to help them build solutions to solve all types of problems.
+Cloud technology offers developers a smorgasbord of services to help them build solutions to solve all types of problems.
 
 What if you were rolling out a competition program that your customers sign up for? You'd need to be able scale things like collection of customer preferences, generation of personalised resources, and making sure all the legal T&C's matched up to the customer.
 
@@ -93,7 +111,7 @@ Want to learn more? Here are some great next steps:
 - Power Apps documentation: https://docs.microsoft.com/powerapps/
 - What are Power Apps Portals? https://docs.microsoft.com/powerapps/maker/portals/overview
 - Learning path for Power Apps Portals: https://docs.microsoft.com/learn/paths/get-started-power-apps-portals/
-- Create serverles applications learning path: https://docs.microsoft.com/learn/paths/create-serverless-applications/
+- Create serverless applications learning path: https://docs.microsoft.com/learn/paths/create-serverless-applications/
 - Quickstart: Building C# Functions: https://docs.microsoft.com/azure/azure-functions/create-first-function-vs-code-csharp
 - Azure Storage Static Web Sites tutorial: https://docs.microsoft.com/azure/storage/blobs/storage-blob-static-website-host
 - Australian Cloud Skills Challenge (valid through until 17 June 2021): https://aka.ms/CSCAustralia
@@ -152,7 +170,7 @@ Want to try out what you saw, or read more about resilient applications with Azu
 
 - Sample application code with resilient database connections: https://github.com/yorek/azure-sql-db-samples/tree/master/samples/02-resilient-connections
 - Overview of Business continuity with Azure SQL Database: https://docs.microsoft.com/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview
-- Replay Markup Langauge (RML) Utilities for SQL Server: https://docs.microsoft.com/troubleshoot/sql/tools/replay-markup-language-utility - Adnan used OStress from the RML Utilities.
+- Replay Markup Language (RML) Utilities for SQL Server: https://docs.microsoft.com/troubleshoot/sql/tools/replay-markup-language-utility - Adnan used OStress from the RML Utilities.
 - Use auto-failover groups to enable transparent and coordinated failover of multiple databases: https://docs.microsoft.com/azure/azure-sql/database/auto-failover-group-overview?tabs=azure-powershell
 - For Java applications - Improve JDBC application reliability with Azure SQL Database and connection pooling: https://devblogs.microsoft.com/azure-sql/improve-jdbc-application-reliability-with-azure-sql-and-connection-pooling/
 - Azure Well-Architected Framework (WAF) - Principles of the reliability pillar: https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview (also see Episode 7 below which covered WAF).
@@ -276,7 +294,7 @@ If you want to dig deeper on either topic here are some great places to start:
 - [Quantum computing foundations](https://docs.microsoft.com/learn/paths/quantum-computing-fundamentals/) is a good place to get started with learning about this topic
 - [Control Hardware announcement](https://www.microsoft.com/en-us/research/blog/full-stack-ahead-pioneering-quantum-hardware-allows-for-controlling-up-to-thousands-of-qubits-at-cryogenic-temperatures/) - see the cutting edge work Dr Reilly's team is doing at University of Sydney.
 - [Azure Quantum Service](https://azure.microsoft.com/services/quantum/) (currently in public preview)
-- [Microsft Cloud Training Events](https://www.microsoft.com/cloud-training-events) includes all webinars and other similar events where you can attend (and sometimes receive free exam vouchers)
+- [Microsoft Cloud Training Events](https://www.microsoft.com/cloud-training-events) includes all webinars and other similar events where you can attend (and sometimes receive free exam vouchers)
 - [Microsoft Learn](https://docs.microsoft.com/learn/) is a great place to get hands-on guided training online.
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
@@ -299,7 +317,7 @@ Here's some great community and other useful links provided by our guests today.
 - DDD Melbourne "By Night": https://www.meetup.com/en-AU/DDD-Melbourne-By-Night/
 - Adelaide .NET User Group: https://www.adnug.net/
 - DDD Adelaide: https://dddadelaide.com/
-- AI - The Podcast - Down Under Edtion: https://globalai.live/ai-the-podcast/
+- AI - The Podcast - Down Under Edition: https://globalai.live/ai-the-podcast/
 - Muses Australia: https://musescodejs.org/
  
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
