@@ -28,7 +28,7 @@ Want to learn more? Here are some great next steps:
 
 🔥 _Hot tip_ 🔥 : Codespaces is free to use for all organisations on a GitHub Team or GitHub Enterprise Cloud plan until September 10, 2021.
 
-Wes have a free Low+Pro Code Skills Bootcamp coming up from 30 August - 3 September 2021 > [Register your free spot now](https://www.microsoft.com/en-au/business/learn/cloud-training-events/developer-cloud-skills-in-a-week).
+We have a free Low+Pro Code Skills Bootcamp coming up from 30 August - 3 September 2021 > [Register your free spot now](https://www.microsoft.com/en-au/business/learn/cloud-training-events/developer-cloud-skills-in-a-week).
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
