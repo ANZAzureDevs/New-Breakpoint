@@ -14,7 +14,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ## 2021-08-12 - Series 2 - Episode 1: Modernising your CI/CD pipelines
 
-If you missed the live show we'll be publishing it on YouTube in a couple of weeks. We'll update this page with the link.
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/OtQh-8mcc4g).
 
 [Anthony Borton](https://twitter.com/AnthonyBorton) from GitHub walked us through GitHub Actions triggered from a Pull Request (PR) and how Actions can be used to drive easier PR validation. We also saw how to add sophisticated security scanning that looks for both secrets and code vulnerabilities to our deployments to Azure (or any destination!)
 
@@ -34,6 +34,8 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ***
 
-## Series 1
+## Check out Series 1
 
-If you're looking for Series 1 shows, you can find them listed on our [Series 1 page](series-01.md).
+We had some great talks covering a range of developer and AI topics, including DevOps, MLOps, Python and Serverless.
+
+All Series 1 shows are listed on our [Series 1 page](series-01.md).

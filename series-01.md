@@ -10,7 +10,7 @@ If you're looking for our more recent shows, you'll find them on the [main page]
 
 ## 2021-06-24 - Episode 14: Global AI - The Podcast 
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/0nxb911j7W4).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/0nxb911j7W4).
 
 Hear from the team - [Akanksha](https://twitter.com/akankshamalik96), [Arafat](https://twitter.com/arafattehsin), [JK](https://twitter.com/jernej_kavka) and [Somy](https://twitter.com/SomyAyazi) - who run the podcast as they explore lessons learned from creating and running a podcast, including finding guests through to the challenges of recording when everyone is in different locations.
 
@@ -30,7 +30,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2021-06-17 - Episode 13: DrumBeat.ai and Azure AI - helping identify ear disease early 
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/xLzlaJl4IWI).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/xLzlaJl4IWI).
 
 What if we could broaden the impact of medicine by empowering non-specialist practitioners to pre-screen people using technology developed using AI? Artificial Intelligence (AI) is best used as an augmentation to human capabilities, and not as a replacement, and in this episode, Microsoft's [Kris Bock](https://www.linkedin.com/in/krisbock/) is joined by leading investigators [Associate Professor Narinder Singh](https://www.linkedin.com/in/narinder-singh-95595a13/) and [Dr Al-Rahim Habib](https://www.linkedin.com/in/al-rahim-habib-584957177/) to talk about how DrumBeat.ai is making use of Azure's AI capabilities to build such a screening tool.
 
@@ -51,7 +51,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2021-06-10 - Episode 12: ARM versus Bicep - what to use for automating your Azure deployments
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/apBKJmoKc7I).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/apBKJmoKc7I).
 
 Australian Advanced Azure Specialist [Scott Holden](hhttps://twitter.com/ScottDotMS) joins us this week to run through how you can deploy your resources to Azure using the new Bicep language and how it compares to the more traditional Azure Resource Manager (ARM) templates. Learn about the advantages of Bicep when compared to ARM and to other deployment methods and see how you can quickly benefit from shifting to using Bicep for all your deployments. 
 
@@ -68,7 +68,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2021-05-26 - Microsoft Build Special - Next Generation Techonologists with Girl Geek Academy and "Dads Taxi" with Stu and Nick
 
-If you missed the livestream you can catch it on demand [on YouTube](https://youtu.be/AvEbYiaP9FE).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/AvEbYiaP9FE).
 
 We kicked off the show with [Sarah](https://twitter.com/SarahMoran), [Luera](https://www.linkedin.com/in/leura-smith-1939aa200/) and Rubii from Girl Geek Academy joining Microsoft's [Liz Fuller](https://www.linkedin.com/in/elizabethbfuller1/) and [Matt Furse](https://www.linkedin.com/in/mattfurse/) to talk about the work Girl Geek Academy is supporting the next generation of technologists from traditionally underrepresented groups.
 
@@ -94,7 +94,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2021-05-20 - Episode 11: Automation with Power Platform, Azure Functions and Static Websites
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/Iv9yaBHjq6E).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/Iv9yaBHjq6E).
 
 Cloud technology offers developers a smorgasbord of services to help them build solutions to solve all types of problems.
 
@@ -120,7 +120,7 @@ Microsoft Build is coming up May 25 - 27. We have a special show during Build th
 
 ## 2021-05-13 - Episode 10: A day in the life of an API with Todd Whitehead
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/g7kTCEADd04).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/g7kTCEADd04).
 
 Application Programming Interfaces (APIs) are one of the keys to modern development. In this episode Microsoft Cloud Solution Architect [Todd Whitehead](http://twitter.com/todwhitehead) demonstrates how Azure can accelerate the design, development and deployment of public and private APIs.  
 
@@ -138,7 +138,7 @@ Microsoft Build is coming up May 25 - 27. We have a special show during Build th
 
 ## 2021-04-29 - Episode 9: The Great Debate! Tabs versus Spaces! 
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/OzSv4ae6-Xo).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/OzSv4ae6-Xo).
 
 So, do developers who use tabs take four or eight steps at a time, or do developers who use spaces care more for accuracy than tabs-based developers?
 
@@ -156,7 +156,7 @@ Microsoft Build is coming up May 25 - 27. It's free, so make sure to register so
 
 ## 2021-04-22 - Episode 8: Building resilient applications with Azure SQL Database 
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/vEdvUxULf8A).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/vEdvUxULf8A).
 
 Whether your application is a monolith, a set of micro-services, or somewhere in between, the one design challenge you will always face is building resilience into it.
 
@@ -177,7 +177,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2021-04-15 - Episode 7: Azure Cloud Adoption Framework (CAF) and Well-Architected Framework (WAF) for developers
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/W1tAala3WbY).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/W1tAala3WbY).
 
 Azure provides such a large canvas for developers to build solutions that it can often times be hard to know where to start, or if you are using Azure effectively.
 
@@ -204,7 +204,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2021-03-25 - Episode 6: Community discussion - tangible ways to help women in tech
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/FG-as0lDEyA).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/FG-as0lDEyA).
 
 Creating a diverse and inclusive tech industry should be a full-time focus for all of us, but sadly in many instances it is only a once-a-year focus when International Women's Day happens.
 
@@ -232,7 +232,7 @@ Women in Tech Communities worth checking out (did we miss any? let us know!):
 
 ## 2021-03-18 - Episode 5: AI for Developers with Valeriia Savenko
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/qss0yrJ50is).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/qss0yrJ50is).
 
 Artificial Intelligence (AI) and the technologies that drive it, such as Machine Learning (ML) can appear a bit daunting to developers when they start investigating how to use them in their solutions.
 
@@ -259,7 +259,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2021-03-11 - Episode 4: MLOps with Damian Brady
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/BUmWddDGJQ0?t=21).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/BUmWddDGJQ0?t=21).
 
 Every developer is a budding data scientist or engineer, but as a developer it can be hard to find a way into the world of machine learning.
 
@@ -279,7 +279,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2021-03-03 - Microsoft Ignite Special - Quantum Computing | Tips and tricks for career development
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/OD3vbOyFnao).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/OD3vbOyFnao).
 
 Our show this week focused on two distinct topics - (1) quantum computing and (2) career development.
 
@@ -299,7 +299,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2021-02-25 - Episode 3: Community discussion - how has the last year affected communities?
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/TVjeIg9yn7Q).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/TVjeIg9yn7Q).
 
 Without a doubt the last year has been one like none of us has experienced before! In this show we meet with five Australian community members and leaders to find out what it has meant for them and their communities.
 
@@ -322,7 +322,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2021-02-18 - Episode 2: "Truck or Not Truck" with Angela, Dinc and Stuart
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/WQT3Bt6R5io).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/WQT3Bt6R5io).
 
 This week New Breakpoint featured three of Microsoft Australia's Cloud Solution Architecture team from Canberra - [Angela Cibiras](https://www.linkedin.com/in/angelacibiras/), [Dinc Kaniskan](https://www.linkedin.com/in/dinc-kaniskan-0bb1b434/) and [Stuart Eggerton](https://www.linkedin.com/in/seggerton/). 
 
@@ -358,7 +358,7 @@ Here are the follow-up links for the episode:
 
 ## 2021-02-11 - Episode 1: Python and Azure Functions with Anthony Shaw
 
-If you missed the livestream you can catch the episode [on YouTube](https://youtu.be/pxSS9KRPUto).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/pxSS9KRPUto).
 
 In this episode we introduced New Breakpoint to Australian developers and met with Sydney-based Microsoft Cloud Advocate [Anthony Shaw](https://tonybaloney.github.io/) whose focus is Open Source and Python. 
 
