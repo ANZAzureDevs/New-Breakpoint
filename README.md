@@ -14,7 +14,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ## 2021-09-09 - Series 2 - Episode 2: Migrating PHP Laravel web apps to Azure App Service
 
-If you missed the live show you can catch the episode on YouTube in the next couple of weeks - we'll update this page with the link. The live segment Q&A is not included in this video, but we'll post a transcript of the questions and answers once we have episode on YouTube.
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/fdaZmUHCamI). All the questions raised during the live Q&A are already answered either in the video or in the list below.
 
 Azure App Service is a great place to host your web applications, and one of the most common web frameworks, PHP, is deeply supported on the platform. This episode we are joined by Microsoft's [Rajan Bhayana](https://www.linkedin.com/in/rajan-bhayana-3933b547/) to talk through App Service's PHP support and how you migrate your existing Laravel applications to Azure. 
 
@@ -44,10 +44,6 @@ Want to learn more? Here are some great next steps:
 - Explore the community of GitHub Actions in the marketplace: https://github.com/marketplace?type=actions
 - Learn more about GitHub Copilot (currently in technology preview): https://copilot.github.com/
 - GitHub Codespaces is now Generally Available as this episode goes to air: https://docs.github.com/en/codespaces/overview
-
-🔥 _Hot tip_ 🔥 : Codespaces is free to use for all organisations on a GitHub Team or GitHub Enterprise Cloud plan until September 10, 2021.
-
-We have a free Low+Pro Code Skills Bootcamp coming up from 30 August - 3 September 2021 > [Register your free spot now](https://www.microsoft.com/en-au/business/learn/cloud-training-events/developer-cloud-skills-in-a-week).
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
