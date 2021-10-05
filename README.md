@@ -24,9 +24,9 @@ Want to learn more? Here are some great next steps:
 - Learn how to use Azure Custom Vision on Microsoft Learn: https://docs.microsoft.com/en-us/learn/browse/?terms=%22Custom%20Vision%22
 - Azure Machine Learning documentation: https://docs.microsoft.com/EN-US/azure/machine-learning/overview-what-is-azure-machine-learning
 - FastTrack for Azure(FTA for short): https://azure.microsoft.com/en-us/programs/azure-fasttrack/
-- AI for Earctht: https://www.microsoft.com/en-us/ai/ai-for-earth-tech-resources
+- AI for Earth: https://www.microsoft.com/en-us/ai/ai-for-earth-tech-resources
 - Global Biodiversity Information Facility: https://www.gbif.org/ 
-- Image Labelling Challange on Bruvnet: https://www.bruvnet.org/
+- Image Labelling Challenge on Bruvnet: https://www.bruvnet.org/
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
