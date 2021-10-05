@@ -12,6 +12,26 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ***
 
+## 2021-10-07 - Series 2 - Episode 3: BruvNet & Azure AI: Unravelling the Data in our fish community
+
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/<placeholder>). All the questions raised during the live Q&A are already answered either in the video or in the list below.
+
+Azure custom vision with machine learning is a great way to train and visualise data sets, operationalise machine learning models to save hundreds of hours of manual work and enable citizen scientists and power collaboration. In this episode, host [Michelle Sandford](https://www.linkedin.com/in/michellesandford/) is joined by [Rupal Mudholkar](https://www.linkedin.com/in/rupal-thakkar-mudholkar/) from the Microsoft Fasttrack Team, as well as [Andrew Jansen](https://www.linkedin.com/in/andrew-jansen-ecologist/) and [Keith Tayler](https://www.linkedin.com/in/keith-tayler-a4535284/) from the Australian Government's Supervising Scientist Branch (SSB) Project in Kakadu to learn how the team is using data, Azure AI and Machine Learning to extend the project’s capabilities, supporting scientists and researchers who are making a difference. 
+
+Want to learn more? Here are some great next steps:
+
+- Azure Custom Vision: https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/
+- Learn how to use Azure Custom Vision on Microsoft Learn: https://docs.microsoft.com/en-us/learn/browse/?terms=%22Custom%20Vision%22
+- Azure Machine Learning documentation: https://docs.microsoft.com/EN-US/azure/machine-learning/overview-what-is-azure-machine-learning
+- FastTrack for Azure(FTA for short): https://azure.microsoft.com/en-us/programs/azure-fasttrack/
+- AI for Earctht: https://www.microsoft.com/en-us/ai/ai-for-earth-tech-resources
+- Global Biodiversity Information Facility: https://www.gbif.org/ 
+- Image Labelling Challange on Bruvnet: https://www.bruvnet.org/
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+***
+
 ## 2021-09-09 - Series 2 - Episode 2: Migrating PHP Laravel web apps to Azure App Service
 
 If you missed the live show you can catch the episode [on YouTube](https://youtu.be/fdaZmUHCamI). All the questions raised during the live Q&A are already answered either in the video or in the list below.
