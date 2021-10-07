@@ -29,6 +29,7 @@ Want to learn more? Here are some great next steps:
 - Image Labelling Challenge on Bruvnet: https://www.bruvnet.org/
 - BRUVNet Open Source Scripts: https://github.com/ajansenn/BRUVNet
 - Supervising Scientist on Facebook: https://www.facebook.com/SSBgov/
+- Citizen scientists, AI and cloud monitor Kakadu billabongs, support Ranger uranium mine rehabilitation https://news.microsoft.com/en-au/features/citizen-scientists-ai-and-cloud-monitor-kakadu-billabongs-support-ranger-uranium-mine-rehabilitation/
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
