@@ -14,7 +14,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ## 2021-10-07 - Series 2 - Episode 3: BruvNet & Azure AI: Unravelling the Data in our fish community
 
-If you missed the live show you can catch the episode on [YouTube](https://www.youtube.com/playlist?list=PLz6RgUKX11CUvMg6poSZ36FRDi5tPLMg0). All the questions raised during the live Q&A are already answered either in the video or in the list below.
+If you missed the live show you can catch the episode on [YouTube](https://www.youtube.com/playlist?list=PLz6RgUKX11CU-AZ4N8PUD0lI-EDBtjOgK). All the questions raised during the live Q&A are already answered either in the video or in the list below.
 
 Azure custom vision with machine learning is a great way to train and visualise data sets, operationalise machine learning models to save hundreds of hours of manual work and enable citizen scientists and power collaboration. In this episode, host [Michelle Sandford](https://www.linkedin.com/in/michellesandford/) is joined by [Rupal Mudholkar](https://www.linkedin.com/in/rupal-thakkar-mudholkar/) from the Microsoft Fasttrack Team, as well as [Andrew Jansen](https://www.linkedin.com/in/andrew-jansen-ecologist/) and [Keith Tayler](https://www.linkedin.com/in/keith-tayler-a4535284/) from the Australian Government's Supervising Scientist Branch (SSB) Project in Kakadu to learn how the team is using data, Azure AI and Machine Learning to extend the project’s capabilities, supporting scientists and researchers who are making a difference. 
 
