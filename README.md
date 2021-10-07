@@ -27,6 +27,8 @@ Want to learn more? Here are some great next steps:
 - AI for Earth: https://www.microsoft.com/en-us/ai/ai-for-earth-tech-resources
 - Global Biodiversity Information Facility: https://www.gbif.org/ 
 - Image Labelling Challenge on Bruvnet: https://www.bruvnet.org/
+- BRUVNet Open Source Scripts: https://github.com/ajansenn/BRUVNet
+- Supervising Scientist on Facebook: https://www.facebook.com/SSBgov/
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
