@@ -6,29 +6,46 @@ This repository hosts useful follow ups, links and other information from each e
 
 We want everyone who comes along to feel welcome and safe. Please make sure to review our [Code of Conduct](https://docs.microsoft.com/legal/learntv/codeofconduct) before joining in and contributing to our discussion.
 
-You can watch all our episodes via our [Twitter Moment](https://twitter.com/i/events/1385081425146257409), our playlist on [Microsoft Australia's YouTube Channel](https://aka.ms/new-breakpoint/playlist), or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
+You can watch all our episodes via our [Twitter Moment](https://twitter.com/i/events/1385081425146257409), our playlists on Microsoft ANZ's YouTube Channel - [Season 1](https://aka.ms/new-breakpoint/s1) | [Season 2](https://aka.ms/new-breakpoint/s2) https://aka.ms/new-breakpoint/playlist), or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
 
 We would like to acknowledge that we record the show on the traditional lands of the Gadigal people of the Eora nation, and have guests from around Australia who join us from the traditional lands of their local people. We pay our respects to Elders past, present and future.
 
 ***
 
-## 2021-10-07 - Series 2 - Episode 3: BruvNet & Azure AI: Unravelling the Data in our fish community
+## 2021-11-18 - Series 2 - Episode 4: Azure Application Services on Kubernetes with Azure Arc
 
-If you missed the live show you can catch the episode on [YouTube](https://youtu.be/nnHmVKsERNw). All the questions raised during the live Q&A are already answered either in the video or in the list below.
+If you missed the live show you can catch the episode on YouTube (link published here when ready).
 
-Azure custom vision with machine learning is a great way to train and visualise data sets, operationalise machine learning models to save hundreds of hours of manual work and enable citizen scientists and power collaboration. In this episode, host [Michelle Sandford](https://www.linkedin.com/in/michellesandford/) is joined by [Rupal Mudholkar](https://www.linkedin.com/in/rupal-thakkar-mudholkar/) from the Microsoft Fasttrack Team, as well as [Andrew Jansen](https://www.linkedin.com/in/andrew-jansen-ecologist/) and [Keith Tayler](https://www.linkedin.com/in/keith-tayler-a4535284/) from the Australian Government's Supervising Scientist Branch (SSB) Project in Kakadu to learn how the team is using data, Azure AI and Machine Learning to extend the project’s capabilities, supporting scientists and researchers who are making a difference. 
+In this show, Microsoft's [Chris Reddington](https://www.linkedin.com/in/chrisreddington/) walked us through how to run Azure App Service, Functions, Logic Apps and more on an Azure Arc-enable Kubernetes cluster and these clusters can be run on-premises or hosted in a third-party cloud. We saw how this approach allows you to take advantage of App Service features while also maintaining corporate compliance by hosting apps on infrastructure you manage. This also allows you to buy applications to take advantage of Azure Application Services and run them in Azure and elsewhere which is great for business continuity or disaster recovery.
 
 Want to learn more? Here are some great next steps:
 
-- Azure Custom Vision: https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/
-- Learn how to use Azure Custom Vision on Microsoft Learn: https://docs.microsoft.com/en-us/learn/browse/?terms=%22Custom%20Vision%22
-- Azure Machine Learning documentation: https://docs.microsoft.com/EN-US/azure/machine-learning/overview-what-is-azure-machine-learning
-- FastTrack for Azure(FTA for short): https://azure.microsoft.com/en-us/programs/azure-fasttrack/
-- AI for Earth: https://www.microsoft.com/en-us/ai/ai-for-earth-tech-resources
-- Global Biodiversity Information Facility: https://www.gbif.org/ 
-- Image Labelling Challenge on Bruvnet: https://www.bruvnet.org/
+- Microsoft Learn module on implementing Azure App Service on Kubernetes with Arc - https://docs.microsoft.com/learn/modules/configure-application-kubernetes-arc/
+- Overview of App Service, Functions and Logic Apps on Azure Arc - https://docs.microsoft.com/azure/app-service/overview-arc-integration
+- Learn more about Event Grid on Kubernetes with Azure Arc - https://docs.microsoft.com/azure/event-grid/kubernetes/overview
+- API Management Gateway on Azure Arc - https://docs.microsoft.com/azure/api-management/how-to-deploy-self-hosted-gateway-azure-arc
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+***
+
+## 2021-10-07 - Series 2 - Episode 3: BRUVNet & Azure AI: Unravelling the Data in our fish community
+
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/nnHmVKsERNw). All the questions raised during the live Q&A are already answered either in the video or in the list below.
+
+Azure custom vision with machine learning is a great way to train and visualise data sets, operationalise machine learning models to save hundreds of hours of manual work and enable citizen scientists and power collaboration. In this episode, host [Michelle Sandford](https://www.linkedin.com/in/michellesandford/) is joined by [Rupal Mudholkar](https://www.linkedin.com/in/rupal-thakkar-mudholkar/) from the Microsoft FastTrack Team, as well as [Andrew Jansen](https://www.linkedin.com/in/andrew-jansen-ecologist/) and [Keith Tayler](https://www.linkedin.com/in/keith-tayler-a4535284/) from the Australian Government's Supervising Scientist Branch (SSB) Project in Kakadu to learn how the team is using data, Azure AI and Machine Learning to extend the project's capabilities, supporting scientists and researchers who are making a difference. 
+
+Want to learn more? Here are some great next steps:
+
 - BRUVNet Open Source Scripts: https://github.com/ajansenn/BRUVNet
+- Global Biodiversity Information Facility: https://www.gbif.org/ 
+- Image Labelling Challenge on BRUVnet: https://www.bruvnet.org/
 - Supervising Scientist on Facebook: https://www.facebook.com/SSBgov/
+- Azure Custom Vision: https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/
+- Learn how to use Azure Custom Vision  https://docs.microsoft.com/learn/browse/?terms=%22Custom%20Vision%22
+- Azure Machine Learning documentation: https://docs.microsoft.com/azure/machine-learning/overview-what-is-azure-machine-learning
+- FastTrack for Azure (FTA for short): https://azure.microsoft.com/programs/azure-fasttrack/
+- AI for Earth: https://www.microsoft.com/ai/ai-for-earth-tech-resources
 - Citizen scientists, AI and cloud monitor Kakadu billabongs, support Ranger uranium mine rehabilitation https://news.microsoft.com/en-au/features/citizen-scientists-ai-and-cloud-monitor-kakadu-billabongs-support-ranger-uranium-mine-rehabilitation/
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
