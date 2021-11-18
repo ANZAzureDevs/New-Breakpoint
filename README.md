@@ -6,7 +6,7 @@ This repository hosts useful follow ups, links and other information from each e
 
 We want everyone who comes along to feel welcome and safe. Please make sure to review our [Code of Conduct](https://docs.microsoft.com/legal/learntv/codeofconduct) before joining in and contributing to our discussion.
 
-You can watch all our episodes via our [Twitter Moment](https://twitter.com/i/events/1385081425146257409), our playlists on Microsoft ANZ's YouTube Channel - [Season 1](https://aka.ms/new-breakpoint/s1) | [Season 2](https://aka.ms/new-breakpoint/s2) https://aka.ms/new-breakpoint/playlist), or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
+You can watch all our episodes via our [Twitter Moment](https://twitter.com/i/events/1385081425146257409), our playlists on Microsoft ANZ's YouTube Channel - [Season 1](https://aka.ms/new-breakpoint/s1) | [Season 2](https://aka.ms/new-breakpoint/s2), or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
 
 We would like to acknowledge that we record the show on the traditional lands of the Gadigal people of the Eora nation, and have guests from around Australia who join us from the traditional lands of their local people. We pay our respects to Elders past, present and future.
 
