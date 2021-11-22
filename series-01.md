@@ -2,7 +2,7 @@
 
 The below shows make up our first series of New Breakpoint which ran from February - June 2021.
 
-You can watch all our episodes via our [Twitter Moment](https://twitter.com/i/events/1385081425146257409), our playlists on Microsoft ANZ's YouTube Channel - [Season 1](https://aka.ms/new-breakpoint/s1) | [Season 2](https://aka.ms/new-breakpoint/s2) https://aka.ms/new-breakpoint/playlist), or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
+You can watch all our episodes via our [Twitter Moment](https://twitter.com/i/events/1385081425146257409), our playlists on Microsoft ANZ's YouTube Channel - [Season 1](https://aka.ms/new-breakpoint/s1) | [Season 2](https://aka.ms/new-breakpoint/s2) https://aka.ms/new-breakpoint/playlist), or join our ongoing conversation on Twitter [@MicrosoftDevANZ](https://twitter.com/MicrosoftDevANZ).
 
 If you're looking for our more recent shows, you'll find them on the [main page](README.md).
 

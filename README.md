@@ -6,7 +6,7 @@ This repository hosts useful follow ups, links and other information from each e
 
 We want everyone who comes along to feel welcome and safe. Please make sure to review our [Code of Conduct](https://docs.microsoft.com/legal/learntv/codeofconduct) before joining in and contributing to our discussion.
 
-You can watch all our episodes via our [Twitter Moment](https://twitter.com/i/events/1385081425146257409), our playlists on Microsoft ANZ's YouTube Channel - [Season 1](https://aka.ms/new-breakpoint/s1) | [Season 2](https://aka.ms/new-breakpoint/s2), or join our ongoing conversation on Twitter [@MicrosoftAUDev](https://twitter.com/microsoftaudev).
+You can watch all our episodes via our [Twitter Moment](https://twitter.com/i/events/1385081425146257409), our playlists on Microsoft ANZ's YouTube Channel - [Season 1](https://aka.ms/new-breakpoint/s1) | [Season 2](https://aka.ms/new-breakpoint/s2), or join our ongoing conversation on Twitter [@MicrosoftDevANZ](https://twitter.com/MicrosoftDevANZ).
 
 We would like to acknowledge that we record the show on the traditional lands of the Gadigal people of the Eora nation, and have guests from around Australia who join us from the traditional lands of their local people. We pay our respects to Elders past, present and future.
 
@@ -14,7 +14,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ## 2021-11-18 - Series 2 - Episode 4: Azure Application Services on Kubernetes with Azure Arc
 
-If you missed the live show you can catch the episode on YouTube (link published here when ready).
+If you missed the live show you can catch the episode on YouTube (link published here when ready). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E04LiveQandA.md).
 
 In this show, Microsoft's [Chris Reddington](https://www.linkedin.com/in/chrisreddington/) walked us through how to run Azure App Service, Functions, Logic Apps and more on an Azure Arc-enable Kubernetes cluster and these clusters can be run on-premises or hosted in a third-party cloud. We saw how this approach allows you to take advantage of App Service features while also maintaining corporate compliance by hosting apps on infrastructure you manage. This also allows you to buy applications to take advantage of Azure Application Services and run them in Azure and elsewhere which is great for business continuity or disaster recovery.
 
