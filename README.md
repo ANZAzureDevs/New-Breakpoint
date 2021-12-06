@@ -12,9 +12,31 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ***
 
+## 2021-12-07 - Series 2 - Episode 5: Demystifying OAuth, JWTs and Azure AD for Developers
+
+If you missed the live show you can catch the episode on YouTube (this post will be updated when the video is published).
+
+Building applications to make use of Azure Active Directory (Azure AD) for authentication and authorisation requires developers to have familiarity with OAuth, Open ID Connect (OIDC) and JSON Web Tokens (JWTs). In this episode, [Graeme Foster](https://twitter.com/graefoster), Cloud Solution Architect from Microsoft, will use a fun interactive demonstration to familiarise developers with OAuth flows, Application Registrations and how to work with JWTs. 
+
+In the episode you'll learn about what's inside ID and Access tokens, what Scopes and Roles are and how to use them, and, intriguingly... why there’s a Pixie (PKCE) lurking in your Azure AD flows!
+
+Want to learn more? Here are some great next steps:
+
+
+- Microsoft identity platform and OAuth 2.0 authorization code flow: https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow
+- Migrate applications to the Microsoft Authentication Library (MSAL): https://docs.microsoft.com/azure/active-directory/develop/msal-migration
+- Add app roles to your application and receive them in the token: https://docs.microsoft.com/azure/active-directory/develop/howto-add-app-roles-in-azure-ad-apps
+- Summary of the main differences between Azure AD Endpoint v1 and v2, with a focus on client libraries and supportability: https://nicolgit.github.io/AzureAD-Endopoint-V1-vs-V2-comparison/
+- Interesting blog post 'The State of the Implicit Flow in OAuth2': https://brockallen.com/2019/01/03/the-state-of-the-implicit-flow-in-oauth2/
+- Graeme's fun "SantaWeb" demo application from the talk - https://github.com/graemefoster/WhatsInTheToken
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+***
+
 ## 2021-11-18 - Series 2 - Episode 4: Azure Application Services on Kubernetes with Azure Arc
 
-If you missed the live show you can catch the episode on YouTube (link published here when ready). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E04LiveQandA.md).
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/2mUpbTPUBh0). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E04LiveQandA.md).
 
 In this show, Microsoft's [Chris Reddington](https://www.linkedin.com/in/chrisreddington/) walked us through how to run Azure App Service, Functions, Logic Apps and more on an Azure Arc-enable Kubernetes cluster and these clusters can be run on-premises or hosted in a third-party cloud. We saw how this approach allows you to take advantage of App Service features while also maintaining corporate compliance by hosting apps on infrastructure you manage. This also allows you to buy applications to take advantage of Azure Application Services and run them in Azure and elsewhere which is great for business continuity or disaster recovery.
 
