@@ -16,7 +16,7 @@ Answer coming soon.
 
 ### ❔ Are app roles available in B2C or are they only available in AAD?
 
-Answer coming soon.
+Azure AD B2C (also known as Azure AD External Identities) supports Roles. This is enabled through adding or removing a user from a particular group membership. Group membership which is managed the same way as it is for standard Azure AD.
 
 ### ❔ What is the maximum number of roles a token can support? I believe some tokens can be too large?
 
@@ -24,7 +24,11 @@ Answer coming soon.
 
 ### ❔ How can we use this for "Users" that don't have Microsoft account?
 
-Answer coming soon.
+The short answer is 'yes'.
+
+The slightly longer answer is that you have a few choices to enable this capability, but at the most basic level you can invite guest users into your Azure AD tenant and they can be managed much like standard Azure AD accounts. You can read more about adding guest users [on our documentation site](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal).
+
+In addition to this business-centric capability we also provide Azure Active Directory External Identities (formerly B2C) which enables people to bring their own social identities to your applications. The behaves differently to inviting guest users and isn't aimed specifically at enabling consumers to use your corporate services, but rather for them to log into your consumer-facing apps (say, for example, your customer banking app). You can find more documentation on this capability [on Microsoft Docs](https://docs.microsoft.com/azure/active-directory-b2c/overview).
 
 ### ❔ How did you delete those sessions to logout the user?
 
