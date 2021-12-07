@@ -16,7 +16,7 @@ Answer coming soon.
 
 ### ❔ Are app roles available in B2C or are they only available in AAD?
 
-Azure AD B2C (also known as Azure AD External Identities) supports Roles. This is enabled through adding or removing a user from a particular group membership. Group membership which is managed the same way as it is for standard Azure AD.
+Azure AD B2C (also known as Azure AD External Identities) supports Roles. This is enabled through adding or removing a user from a particular group membership. Group membership is managed the same way as it is for standard Azure AD.
 
 ### ❔ What is the maximum number of roles a token can support? I believe some tokens can be too large?
 
@@ -34,9 +34,9 @@ In addition to this business-centric capability we also provide Azure Active Dir
 
 During the recorded demonstration, Graeme simply deleted the session cookies his browser was holding which contained the issued tokens for his user session.
 
-### ❔ Tokens over HSTS more secure
+### ❔ Tokens over HSTS more secure?
 
- requirement to ensure JWTs remain secure 
+Given the nature of how JWTs are served to clients, and the sensitive data they contain, it is best practices to only provide tokens over TLS/SSL. HTTP Strict Transport Security (HSTS) ensures that servers only provide responses to clients over secured HTTP connections which means using HSTS in your solution helps meet these best practices. HSTS isn't required, but it does help be ensuing the connection is only ever secure.
 
 ### ❔ How to configure CORS for logout to fix issue "origin has been blocked by CORS policy" in oidc / msal flow?
 
