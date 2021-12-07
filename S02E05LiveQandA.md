@@ -1,0 +1,71 @@
+## 2021-12-07 - Series 2 - Episode 5: Demystifying OAuth, JWTs and Azure AD for Developers - Q&A
+
+During the live session we did a live Q&A spot where attendees could ask questions. If you didn't manage to make it along, here are the ones that came up. We've included answers where possible.
+
+### ❔ Is there a migration guide from ADAL to MSAL for Angular applications?
+
+Microsoft has published a range of migration documentation. The documentation specically related to JavaScript-based SPAs is available on [Microsoft Docs](https://docs.microsoft.com/azure/active-directory/develop/msal-compare-msal-js-and-adal-js). One of our Australian Microsoft MVPs wrote a guide in 2018 on what's required and why you should make this move. [Check out his blog post](http://johnliu.net/blog/2018/11/migrate-angular-spa-from-adaljs-to-msal-because-it-is-awesome).
+
+### ❔ Is the React SPA wrapped in a .NET app for Azure AD?
+
+The demontsration (Santaweb) showed a simple web application that was calling a REST API. The REST API was built using .NET and is the actual resource being protected by Azure AD. In order for the web application to call the API any user must first authenticate via Azure AD so they have a valid Access Token for the REST API. 
+
+### ❔ I assume we can configure timeout for tokens, however I am not sure if there is a timeout attached to the code to retrieve the token in PKCE flow?
+
+Answer coming soon.
+
+### ❔ Are app roles available in B2C or are they only available in AAD?
+
+Answer coming soon.
+
+### ❔ What is the maximum number of roles a token can support? I believe some tokens can be too large?
+
+Answer coming soon.
+
+### ❔ How can we use this for "Users" that don't have Microsoft account?
+
+Answer coming soon.
+
+### ❔ How did you delete those sessions to logout the user?
+
+During the recorded demonstration, Graeme simply deleted the session cookies his browser was holding which contained the issued tokens for his user session.
+
+### ❔ Tokens over HSTS more secure
+
+ requirement to ensure JWTs remain secure 
+
+### ❔ How to configure CORS for logout to fix issue "origin has been blocked by CORS policy" in oidc / msal flow?
+
+Answer coming soon.
+
+### ❔ Is there any sort of 'inheritance' in app roles? eg. How would someone with an 'admin' role get access to endpoints protected with the 'santa' role?
+
+Answer coming soon.
+
+### ❔ In OAuth/OpenID how do we do "Act As" implementation flow across two enterprises B2B?
+
+Answer coming soon.
+
+### ❔ Would you have a different Azure ad application for each environment? Eg if you had prod and uat running from the same Azure ad, would you use one or two applications in Azure ad?
+
+Answer coming soon.
+
+### ❔ Would you have a different Azure ad application for each environment? Eg if you had prod and uat running from the same Azure ad, would you use one or two applications in Azure ad?
+
+Answer coming soon.
+
+### ❔ Does MSAL support implicit flow?
+
+Answer coming soon.
+
+### ❔ How can we use SignalR and function apps to fit into this pattern? Is there any reference links and sample codes?
+
+Answer coming soon.
+
+### ❔ When you add a scope, you specify who can consent. If you select "Admin only" does end users get a popup for consent? What should happen for "Admin only" consent?
+
+Answer coming soon.
+
+### ❔ I have a hosted Blazor application (Wasm) and I have used Azure AD for Authentication. This works as expected. I have also successfully used the Azure AD roles which the client application again works as expected. I am communicating to the server app using gRPC. Can you point me to documentation that shows me how to send Authentication and Authorisation data to the server app, when doing my gRPC calls?
+
+Answer coming soon.

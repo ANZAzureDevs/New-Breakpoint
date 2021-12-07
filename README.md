@@ -14,7 +14,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ## 2021-12-07 - Series 2 - Episode 5: Demystifying OAuth, JWTs and Azure AD for Developers
 
-If you missed the live show you can catch the episode on YouTube (this post will be updated when the video is published).
+If you missed the live show you can catch the episode on YouTube (this post will be updated when the video is published). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E05LiveQandA.md).
 
 Building applications to make use of Azure Active Directory (Azure AD) for authentication and authorisation requires developers to have familiarity with OAuth, Open ID Connect (OIDC) and JSON Web Tokens (JWTs). In this episode, [Graeme Foster](https://twitter.com/graefoster), Cloud Solution Architect from Microsoft, will use a fun interactive demonstration to familiarise developers with OAuth flows, Application Registrations and how to work with JWTs. 
 
@@ -29,6 +29,8 @@ Want to learn more? Here are some great next steps:
 - Summary of the main differences between Azure AD Endpoint v1 and v2, with a focus on client libraries and supportability: https://nicolgit.github.io/AzureAD-Endopoint-V1-vs-V2-comparison/
 - Interesting blog post 'The State of the Implicit Flow in OAuth2': https://brockallen.com/2019/01/03/the-state-of-the-implicit-flow-in-oauth2/
 - Graeme's fun "SantaWeb" demo application from the talk - https://github.com/graemefoster/WhatsInTheToken
+
+- B2C Custom Roles
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
