@@ -20,7 +20,7 @@ Azure AD B2C (also known as Azure AD External Identities) supports Roles. This i
 
 ### ❔ What is the maximum number of roles a token can support? I believe some tokens can be too large?
 
-In the context of JWTs it is recommended to keep group / role claims to less than 200. If you exceed this number you will receive back an "overage claim" and your application will have to query the Microsoft Graph API 
+In the context of JWTs and Azure AD it is recommended to keep group / role claims to less than 200. If you exceed this number you will receive back an "overage claim" and your application will have to query the Microsoft Graph API 
 
 The IETF Request for Comments ([RFC 7519](https://tools.ietf.org/html/rfc7519)) for JWTs does not specify a maximum size for a JWT. Having said this, you can run into problems if the JWT exceeds limits for HTTP headers for browser-based applications. This typically manifests itself with certain proxy or web servers returning errors to the browser (either 502 or 400 - Request Too Long)
 
