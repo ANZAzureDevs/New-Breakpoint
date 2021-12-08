@@ -4,23 +4,25 @@ During the live session we did a live Q&A spot where attendees could ask questio
 
 ### ❔ Is there a migration guide from ADAL to MSAL for Angular applications?
 
-Microsoft has published a range of migration documentation. The documentation specically related to JavaScript-based SPAs is available on [Microsoft Docs](https://docs.microsoft.com/azure/active-directory/develop/msal-compare-msal-js-and-adal-js). One of our Australian Microsoft MVPs wrote a guide in 2018 on what's required and why you should make this move. [Check out his blog post](http://johnliu.net/blog/2018/11/migrate-angular-spa-from-adaljs-to-msal-because-it-is-awesome).
+Microsoft has published a range of migration documentation. The documentation specifically related to JavaScript-based SPAs is available on [Microsoft Docs](https://docs.microsoft.com/azure/active-directory/develop/msal-compare-msal-js-and-adal-js). One of our Australian Microsoft MVPs wrote a guide in 2018 on what's required and why you should make this move. [Check out his blog post](http://johnliu.net/blog/2018/11/migrate-angular-spa-from-adaljs-to-msal-because-it-is-awesome).
 
 ### ❔ Is the React SPA wrapped in a .NET app for Azure AD?
 
-The demontsration (Santaweb) showed a simple web application that was calling a REST API. The REST API was built using .NET and is the actual resource being protected by Azure AD. In order for the web application to call the API any user must first authenticate via Azure AD so they have a valid Access Token for the REST API. 
+The demonstration (Santaweb) showed a simple web application that was calling a REST API. The REST API was built using .NET and is the actual resource being protected by Azure AD. In order for the web application to call the API any user must first authenticate via Azure AD so they have a valid Access Token for the REST API. 
 
 ### ❔ I assume we can configure timeout for tokens, however I am not sure if there is a timeout attached to the code to retrieve the token in PKCE flow?
 
-Answer coming soon.
+Azure AD currently has (at time of writing) in-preview capabilities around configuration of token timeouts. You can read the documentation on this feature [on the docs](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes). Also note that some of these capabilities are controlled via Azure AD's Conditional Access capabilities which is also [documented online](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-session-lifetime). Timeouts are controlled at the issuer and aren't affected by the OAuth2 flow (for example the PKCE flow) used. THe Microsoft Docs site also has a great quick start project that uses the [auth code flow with PKCE](https://docs.microsoft.com/azure/active-directory/develop/quickstart-v2-javascript-auth-code). 
 
 ### ❔ Are app roles available in B2C or are they only available in AAD?
 
-Azure AD B2C (also known as Azure AD External Identities) supports Roles. This is enabled through adding or removing a user from a particular group membership. Group membership is managed the same way as it is for standard Azure AD.
+Azure AD B2C (also known as Azure AD External Identities) supports Roles. This is enabled through adding or removing a user from a particular group membership. Group membership is managed the same way as it is for standard Azure AD. Where there is a difference is how groups are issued in claims, which requires you to use [custom policies](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows?pivots=b2c-custom-policy) so that the group membership is issued to the calling client.
 
 ### ❔ What is the maximum number of roles a token can support? I believe some tokens can be too large?
 
-Answer coming soon.
+In the context of JWTs it is recommended to keep group / role claims to less than 200. If you exceed this number you will receive back an "overage claim" and your application will have to query the Microsoft Graph API 
+
+The IETF Request for Comments ([RFC 7519](https://tools.ietf.org/html/rfc7519)) for JWTs does not specify a maximum size for a JWT. Having said this, you can run into problems if the JWT exceeds limits for HTTP headers for browser-based applications. This typically manifests itself with certain proxy or web servers returning errors to the browser (either 502 or 400 - Request Too Long)
 
 ### ❔ How can we use this for "Users" that don't have Microsoft account?
 
