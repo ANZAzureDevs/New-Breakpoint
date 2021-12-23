@@ -8,7 +8,7 @@ Microsoft has published a range of migration documentation. The documentation sp
 
 ### ❔ Is the React SPA wrapped in a .NET app for Azure AD?
 
-The demonstration (Santaweb) showed a simple web application that was calling a REST API. The REST API was built using .NET and is the actual resource being protected by Azure AD. In order for the web application to call the API any user must first authenticate via Azure AD so they have a valid Access Token for the REST API. 
+The demonstration (Santaweb) showed a simple web application that was calling a REST API. The REST API was built using .NET and is the actual resource being protected by Azure AD. In order for the web application to call the API the user must first authenticate via Azure AD so they have a valid Access Token for the REST API. 
 
 ### ❔ I assume we can configure timeout for tokens, however I am not sure if there is a timeout attached to the code to retrieve the token in PKCE flow?
 
@@ -40,38 +40,44 @@ During the recorded demonstration, Graeme simply deleted the session cookies his
 
 Given the nature of how JWTs are served to clients, and the sensitive data they contain, it is best practices to only provide tokens over TLS/SSL. HTTP Strict Transport Security (HSTS) ensures that servers only provide responses to clients over secured HTTP connections which means using HSTS in your solution helps meet these best practices. HSTS isn't required, but it does help be ensuing the connection is only ever secure.
 
-### ❔ How to configure CORS for logout to fix issue "origin has been blocked by CORS policy" in oidc / msal flow?
+### ❔ How to configure CORS for logout to fix issue "origin has been blocked by CORS policy" in OIDC / MSAL flow?
 
-Answer coming soon.
+Without understanding your full implementation it's hard to pinpoint the exact fix. CORS errors tend to be manifested in SPA / Angular applications where there is a mismatch between how the Web API is setup verses the Angular codebase. Check that your @azure/msal-angular and web API authentication schemes are configured the same way. You can see a sample of how sign-out works for non-Angular web applications in this sample on GitHub. 
+
+https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/tree/master/1-WebApp-OIDC/1-6-SignOut
 
 ### ❔ Is there any sort of 'inheritance' in app roles? eg. How would someone with an 'admin' role get access to endpoints protected with the 'santa' role?
 
-Answer coming soon.
+See the earlier answer on maximum roles to understand a bit more about how this works. Users can either be directly assigned to a Role, or a group the user is a part of can be assigned to the Role (this second one tends to be the standard in most large organisations). If we assume that the 'admin' role has not be granted the same rights as the 'santa' role then the only way for someone having just the 'admin' role to have the same access as 'santa' would be for that user (or a group they are in) to be explicitly granted the 'santa' role.
 
 ### ❔ In OAuth/OpenID how do we do "Act As" implementation flow across two enterprises B2B?
 
-Answer coming soon.
+Azure AD's B2B capabilities are quite deep so it's hard to cover this one question easily. When inviting users from another Azure AD tenant their identity remains in their home tenant and a guest user record is created in your Azure AD tenant. You can control what the guest user is able to do in services associated with your Azure AD tenant, but this does not affect what they are able to do in their home tenant. Items such as MFA and password management are all still controlled via the home tenant for the user.
 
-### ❔ Would you have a different Azure ad application for each environment? Eg if you had prod and uat running from the same Azure ad, would you use one or two applications in Azure ad?
+It's worth [reading up on Azure AD B2B](https://docs.microsoft.com/azure/active-directory/external-identities/what-is-b2b) to understand a bit more of the mechanics of how it works.
 
-Answer coming soon.
+### ❔ Would you have a different Azure AD application for each environment? Eg if you had prod and uat running from the same Azure AD, would you use one or two applications in Azure AD?
 
-### ❔ Would you have a different Azure ad application for each environment? Eg if you had prod and uat running from the same Azure ad, would you use one or two applications in Azure ad?
+Yes, register one application in Azure AD per environment. For example: Santaweb-prod, Santaweb-uat.
 
-Answer coming soon.
+Having different applications means you can apply changes to non-production environments without accidentally impacting production users.
+
+Many people aren't aware that you can spin up additional Azure AD tenants which you can use for testing or other purposes. It's important to note though, that if you want to use extended capabilities in these alternative environments that you will need to apply the appropriate licenses, even though the basic tier of Azure AD is free to use.
 
 ### ❔ Does MSAL support implicit flow?
 
-Answer coming soon.
+Yes it does. You can read more about that on [Microsoft Docs](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-implicit-grant-flow), along with a link to a sample application.
 
 ### ❔ How can we use SignalR and function apps to fit into this pattern? Is there any reference links and sample codes?
 
-Answer coming soon.
+OAuth is all about protecting a resource with tokens, so as long as you can authenticate a user and generate a token  and pass this token to a service that understands how to validate it then you can use OAuth anywhere. The best [recent example we've seen](https://brettmckenzie.net/2021/05/06/oauth-2-0-authorization-code-flow-with-azure-functions-and-microsoft-identity-part-1-getting-an-access-token/) relates to Azure Functions and was written by an Australian community member who goes deep into the process.
+
+Microsoft Docs has a [great article on SingalR Service authentication](https://docs.microsoft.com/azure/azure-signalr/signalr-concept-authenticate-oauth) options which includes OAuth.
 
 ### ❔ When you add a scope, you specify who can consent. If you select "Admin only" does end users get a popup for consent? What should happen for "Admin only" consent?
 
-Answer coming soon.
+The user will be served a screen that advises them that only an administrator can consent and that the user should speak to their local administrator. 
 
-### ❔ I have a hosted Blazor application (Wasm) and I have used Azure AD for Authentication. This works as expected. I have also successfully used the Azure AD roles which the client application again works as expected. I am communicating to the server app using gRPC. Can you point me to documentation that shows me how to send Authentication and Authorisation data to the server app, when doing my gRPC calls?
+### ❔ I have a hosted Blazor application (WASM) and I have used Azure AD for Authentication. This works as expected. I have also successfully used the Azure AD roles which the client application again works as expected. I am communicating to the server app using gRPC. Can you point me to documentation that shows me how to send Authentication and Authorisation data to the server app, when doing my gRPC calls?
 
-Answer coming soon.
+gRPC utilises HTTP/2 as its transport and when you create a gRPC client you can specify the necessary HTTP headers (Authorization in this case) you wish to pass to your server. You would first need to authenticate against Azure AD and obtain an access token which can then be passed to your gRPC client and ultimately the backend API. While this isn't gRPC specific, this example is a good place to start: https://devblogs.microsoft.com/microsoft365dev/how-to-build-a-blazor-web-app-with-azure-active-directory-authentication-and-microsoft-graph/
