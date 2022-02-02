@@ -12,9 +12,29 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ***
 
+## 2022-02-02 - Series 2 - Episode 6: Next-level Infrastructure-as-Code with Bicep and DevOps 
+
+If you missed the live show you can catch the episode on YouTube (this post will be updated when the video is published). 
+
+Bicep makes it easy to deploy your Azure resources as code. But deploying Bicep code automatically requires you to know about pipelines, service principals, source control, and many other concepts.
+
+In this episode, [John Downs](https://twitter.com/jdwns), Senior FastTrack Engineer from Microsoft, will talk through how you can get started building your own Azure deployment pipeline with Bicep, Azure Pipelines or GitHub Actions.
+
+Want to learn more? Here are some great next steps:
+
+- Learn how to work with Bicep: https://aka.ms/learnbicep
+- Bicep Playground: https://aka.ms/bicepdemo
+- Quickstart: Create Bicep files with Visual Studio Code: https://docs.microsoft.com/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code?tabs=CLI
+- Quickstart: Integrate Bicep with Azure Pipelines: https://docs.microsoft.com/azure/azure-resource-manager/bicep/add-template-to-azure-pipelines?tabs=CLI
+- Quickstart: Deploy Bicep files by using GitHub Actions: https://docs.microsoft.comazure/azure-resource-manager/bicep/deploy-github-actions?tabs=CLI
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+***
+
 ## 2021-12-07 - Series 2 - Episode 5: Demystifying OAuth, JWTs and Azure AD for Developers
 
-If you missed the live show you can catch the episode on YouTube (this post will be updated when the video is published). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E05LiveQandA.md).
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/mf7StZ62_R0). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E05LiveQandA.md).
 
 Building applications to make use of Azure Active Directory (Azure AD) for authentication and authorisation requires developers to have familiarity with OAuth, Open ID Connect (OIDC) and JSON Web Tokens (JWTs). In this episode, [Graeme Foster](https://twitter.com/graefoster), Cloud Solution Architect from Microsoft, will use a fun interactive demonstration to familiarise developers with OAuth flows, Application Registrations and how to work with JWTs. 
 
@@ -22,15 +42,12 @@ In the episode you'll learn about what's inside ID and Access tokens, what Scope
 
 Want to learn more? Here are some great next steps:
 
-
 - Microsoft identity platform and OAuth 2.0 authorization code flow: https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow
 - Migrate applications to the Microsoft Authentication Library (MSAL): https://docs.microsoft.com/azure/active-directory/develop/msal-migration
 - Add app roles to your application and receive them in the token: https://docs.microsoft.com/azure/active-directory/develop/howto-add-app-roles-in-azure-ad-apps
 - Summary of the main differences between Azure AD Endpoint v1 and v2, with a focus on client libraries and supportability: https://nicolgit.github.io/AzureAD-Endopoint-V1-vs-V2-comparison/
 - Interesting blog post 'The State of the Implicit Flow in OAuth2': https://brockallen.com/2019/01/03/the-state-of-the-implicit-flow-in-oauth2/
 - Graeme's fun "SantaWeb" demo application from the talk - https://github.com/graemefoster/WhatsInTheToken
-
-- B2C Custom Roles
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
