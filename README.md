@@ -14,7 +14,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ## 2022-02-02 - Series 2 - Episode 6: Next-level Infrastructure-as-Code with Bicep and DevOps 
 
-If you missed the live show you can catch the episode on YouTube (this post will be updated when the video is published). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E06LiveQandA.md).
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/K0BNRQQKvww). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E06LiveQandA.md).
 
 Bicep makes it easy to deploy your Azure resources as code. But deploying Bicep code automatically requires you to know about pipelines, service principals, source control, and many other concepts.
 
