@@ -12,6 +12,27 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ***
 
+## 2022-03-10 - Series 2 - Episode 7: Let's brew Java on Azure 
+
+If you missed the live show you can catch the episode on YouTube once published.
+
+Azure provides you with best-in-class solutions to build, test and deploy Java apps. With its managed services, Azure enables you to ship software faster — without worrying about infrastructure. Plus, you can take advantage of the extensibility of the Azure ecosystem to innovate and meet customer demands.
+
+Microsoft's [Manoj Ravikumar Nair](https://www.linkedin.com/in/powershellpro/) walked us through how you can migrate and scale Java apps on Azure using all your favourite tools and frameworks, such as Spring, Tomcat, WildFly, JBoss, WebLogic, WebSphere, Maven, Gradle, IntelliJ, Eclipse, Jenkins, Terraform and more.
+
+Want to learn more? Here are some great next steps:
+
+- Azure for Java developers documentation: https://docs.microsoft.com/azure/developer/java/
+- Quickstart: Deploy your first app to Azure Spring Cloud: https://docs.microsoft.com/azure/spring-cloud/quickstart?tabs=Azure-CLI&pivots=programming-language-java
+- Migrate Tomcat applications to Tomcat on Azure App Service: https://docs.microsoft.com/azure/developer/java/migration/migrate-tomcat-to-tomcat-app-service
+- Deploy a Spring app to App Service with MySQL: https://docs.microsoft.com/azure/developer/java/spring-framework/spring-app-service-e2e?tabs=bash
+- Deploy a Payara Micro Web App to Azure App Service with Maven: https://docs.microsoft.com/azure/developer/java/eclipse-microprofile/deploy-microprofile-payara-micro-java-app-with-maven-plugin
+- Attend Microsoft's Java Developer conference 2022: https://aka.ms/JDConf-2022/
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+***
+
 ## 2022-02-02 - Series 2 - Episode 6: Next-level Infrastructure-as-Code with Bicep and DevOps 
 
 If you missed the live show you can catch the episode on [YouTube](https://youtu.be/K0BNRQQKvww). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E06LiveQandA.md).
