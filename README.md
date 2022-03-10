@@ -23,6 +23,7 @@ Microsoft's [Manoj Ravikumar Nair](https://www.linkedin.com/in/powershellpro/) w
 Want to learn more? Here are some great next steps:
 
 - Azure for Java developers documentation: https://docs.microsoft.com/azure/developer/java/
+- Microsoft Learn - Java on Azure Learning Path: https://docs.microsoft.com/learn/paths/get-started-java-azure/
 - Quickstart: Deploy your first app to Azure Spring Cloud: https://docs.microsoft.com/azure/spring-cloud/quickstart?tabs=Azure-CLI&pivots=programming-language-java
 - Migrate Tomcat applications to Tomcat on Azure App Service: https://docs.microsoft.com/azure/developer/java/migration/migrate-tomcat-to-tomcat-app-service
 - Deploy a Spring app to App Service with MySQL: https://docs.microsoft.com/azure/developer/java/spring-framework/spring-app-service-e2e?tabs=bash
