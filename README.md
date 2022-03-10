@@ -29,6 +29,7 @@ Want to learn more? Here are some great next steps:
 - Deploy a Spring app to App Service with MySQL: https://docs.microsoft.com/azure/developer/java/spring-framework/spring-app-service-e2e?tabs=bash
 - Deploy a Payara Micro Web App to Azure App Service with Maven: https://docs.microsoft.com/azure/developer/java/eclipse-microprofile/deploy-microprofile-payara-micro-java-app-with-maven-plugin
 - Azure Spring Cloud disaster recovery: https://docs.microsoft.com/azure/spring-cloud/disaster-recovery
+- Deploying Azure Spring Cloud with VNet integration: https://docs.microsoft.com/azure/spring-cloud/how-to-deploy-in-azure-virtual-network?tabs=azure-portal
 - Attend Microsoft's Java Developer conference 2022: https://aka.ms/JDConf-2022/
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
