@@ -12,9 +12,26 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ***
 
-## 2022-03-10 - Series 2 - Episode 7: Let's brew Java on Azure 
+## 2022-04-14 - Series 2 - Episode 8: Improve your application resilience with Azure Chaos Studio
 
 If you missed the live show you can catch the episode on YouTube once published.
+
+In this episode of New Breakpoint, we are joined by Microsoft Azure Digital & App Innovation Specialist [Martin Abbott](https://twitter.com/martinabbott) to demonstrate how Azure Chaos Studio can help you test for potential points of failure at any phase of the service lifecycle – from development through to production.
+
+Want to learn more? Here are some great next steps:
+
+- The Principles of Chaos Engineering: https://principlesofchaos.org/
+- How to run and manage an experiment with Chaos Studio: https://docs.microsoft.com/azure/chaos-studio/chaos-studio-run-experiment
+- How to schedule an experiment: https://docs.microsoft.com/en-us/azure/chaos-studio/tutorial-schedule
+- Sample application used for the session demo: https://github.com/ScottHolden/LiveInstanceDemo
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+***
+
+## 2022-03-10 - Series 2 - Episode 7: Let's brew Java on Azure 
+
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/dEQoJza27ug).
 
 Azure provides you with best-in-class solutions to build, test and deploy Java apps. With its managed services, Azure enables you to ship software faster — without worrying about infrastructure. Plus, you can take advantage of the extensibility of the Azure ecosystem to innovate and meet customer demands.
 
