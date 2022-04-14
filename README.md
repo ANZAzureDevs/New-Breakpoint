@@ -14,7 +14,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ## 2022-04-14 - Series 2 - Episode 8: Improve your application resilience with Azure Chaos Studio
 
-If you missed the live show you can catch the episode on YouTube once published.
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/eEdGa3tjRDs).
 
 In this episode of New Breakpoint, we are joined by Microsoft Azure Digital & App Innovation Specialist [Martin Abbott](https://twitter.com/martinabbott) to demonstrate how Azure Chaos Studio can help you test for potential points of failure at any phase of the service lifecycle – from development through to production.
 
