@@ -12,6 +12,26 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ***
 
+## 2022-05-12 - Series 2 - Episode 9: Practical design steps architects can take to cost optimise their tech stack
+
+If you missed the live show you can catch the episode on YouTube once we publish it.
+
+Microsoft Australia's Chief Azure Architect, [Shane Baldacchino](https://www.linkedin.com/in/shanebaldacchino/) look at how you can manage costs by selecting Azure services based not only on their service capabilities, but also their cost profile. Nobody ever said they wanted to spend more money in the cloud!
+
+Want to learn more? Here are some great next steps:
+
+- Sample application we started with: https://github.com/sjwaight/PythonAussieDunnyDataAPI
+- Sample application running on Azure Functions: https://github.com/sjwaight/ServerlessDownunderDunnies
+- Microsoft Azure Well-Architected Framework (WAF) Cost Optimisation:
+    - Overview: https://docs.microsoft.com/azure/architecture/framework/cost/overview
+    - Design: Develop a cost model: https://docs.microsoft.com/azure/architecture/framework/cost/design-model
+    - Monitor: Set budgets and alerts: https://docs.microsoft.com/azure/architecture/framework/cost/monitor-alert
+    - Optimise: Checklist - optimise cost: https://docs.microsoft.com/azure/architecture/framework/cost/optimize-checklist
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+***
+
 ## 2022-04-14 - Series 2 - Episode 8: Improve your application resilience with Azure Chaos Studio
 
 If you missed the live show you can catch the episode on [YouTube](https://youtu.be/eEdGa3tjRDs).
