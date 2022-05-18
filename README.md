@@ -14,7 +14,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ## 2022-05-12 - Series 2 - Episode 9: Practical design steps architects can take to cost optimise their tech stack
 
-If you missed the live show you can catch the episode on YouTube once we publish it.
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/kW-pbYw_1QE).
 
 Microsoft Australia's Chief Azure Architect, [Shane Baldacchino](https://www.linkedin.com/in/shanebaldacchino/) look at how you can manage costs by selecting Azure services based not only on their service capabilities, but also their cost profile. Nobody ever said they wanted to spend more money in the cloud!
 
