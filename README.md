@@ -12,6 +12,25 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ***
 
+## 2022-06-09 - Series 2 - Episode 10: Stop worrying about Kubernetes with Azure Container Apps and Dapr
+
+If you missed the live show you can catch the episode on YouTube once it's available (we'll update here with the link).
+
+Friend of New Breakpoint, [Todd Whitehead](http://twitter.com/todwhitehead) is back, and this time he's covering Azure Container Apps and showing us how the service eases developer's lives when building cloud-native microservices solutions. You can build multi-language microservices and utilise Dapr to manage integration, along with having scale-to-zero capabilities driven by the use of KEDA.
+
+We had some great questions come out of the show during the live Q&A. We'll publish them and some answers shortly.
+
+Want to learn more? Here are some great next steps:
+
+- Container Apps overview: https://aka.ms/containerapps 
+- Container Apps quickstart: https://docs.microsoft.com/azure/container-apps/get-started
+- Learn more about Dapr: https://docs.dapr.io/
+- Learn more about KEDA: https://keda.sh/
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+***
+
 ## 2022-05-12 - Series 2 - Episode 9: Practical design steps architects can take to cost optimise their tech stack
 
 If you missed the live show you can catch the episode on [YouTube](https://youtu.be/kW-pbYw_1QE).
