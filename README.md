@@ -12,9 +12,30 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ***
 
+## 2022-09-15 - Series 2 - Episode 11: Event driven architectures and the power of asynchronous communications
+
+If you missed the live show you can catch the episode on YouTube once it's available (we'll update here with the link).
+
+As the services and apps we build become increasingly distributed, integrations between components become increasingly complicated, error prone and difficult to manage.
+
+In this episode of New Breakpoint, [Amit Kuckreja](https://www.linkedin.com/in/amitkuckreja/) from Microsoft will talk through how to solve these challenges using event-driven architectures and asynchronous communication. We'll also explore the right time to use them, the trade-offs that you make and some of the pain points.
+
+Want to learn more? Here are some great next steps:
+
+- What do you mean by “Event-Driven”? https://martinfowler.com/articles/201701-event-driven.html
+- The Many Meanings of Event-Driven Architecture (video): https://youtu.be/STKCRSUsyP0 
+- Event-Driven Architecture: A Primer: https://highalpha.com/event-driven-architecture-a-primer/
+- Event-drive architecture style: https://docs.microsoft.com/azure/architecture/guide/architecture-styles/event-driven 
+- Events, Data Points, and Messages - Choosing the right Azure messaging service for your data: https://azure.microsoft.com/en-us/blog/events-data-points-and-messages-choosing-the-right-azure-messaging-service-for-your-data/
+- Architecture patterns for event-driven applications using Azure Functions (video): https://www.youtube.com/watch?v=3hitbh6aCJc&t=12s
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+***
+
 ## 2022-06-09 - Series 2 - Episode 10: Stop worrying about Kubernetes with Azure Container Apps and Dapr
 
-If you missed the live show you can catch the episode on YouTube once it's available (we'll update here with the link). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E10LiveQandA.md).
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/vUVTnfXEYW8). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E10LiveQandA.md).
 
 Friend of New Breakpoint, [Todd Whitehead](http://twitter.com/todwhitehead) is back, and this time he's covering Azure Container Apps and showing us how the service eases developer's lives when building cloud-native microservices solutions. You can build multi-language microservices and utilise Dapr to manage integration, along with having scale-to-zero capabilities driven by the use of KEDA.
 
