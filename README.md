@@ -27,7 +27,7 @@ Want to learn more? Here are some great next steps:
 - Event-Driven Architecture: A Primer: https://highalpha.com/event-driven-architecture-a-primer/
 - Event-drive architecture style: https://docs.microsoft.com/azure/architecture/guide/architecture-styles/event-driven 
 - Events, Data Points, and Messages - Choosing the right Azure messaging service for your data: https://azure.microsoft.com/en-us/blog/events-data-points-and-messages-choosing-the-right-azure-messaging-service-for-your-data/
-- Architecture patterns for event-driven applications using Azure Functions (video): https://www.youtube.com/watch?v=3hitbh6aCJc&t=12s
+- Architecture patterns for event-driven applications using Azure Functions (video): https://youtu.be/3hitbh6aCJc
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
