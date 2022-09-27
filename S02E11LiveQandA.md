@@ -56,16 +56,19 @@ Depending on your specific needs you can look at the existing Azure Monitor metr
 
 ### ❔Q14: Any guidance on contract sharing/documentation tools?
 
-I would suggest taking a lot at AsyncAPI: https://www.asyncapi.com/
-This is a platform agnostic way to help define and build your EDA, including allowing you to define the interfaces of  you
-asynchronous APIs and is protocol agnostic.
+I would suggest taking a look at AsyncAPI: https://www.asyncapi.com/ 
+
+This is a platform and protocol agnostic way to help define and build your EDA, including allowing you to define the interfaces of your asynchronous APIs.
 
 ### ❔Q15: We have a producer that produces more than 2k messages per seconds and to process that we are planning to use multiple instances of our consumer to process that; however, we would like to process messages in sequence and exactly once. Should this responsibility be on consumer or we can share this with message queuing system and for this we are thinking of using Rabbit MQ. What's your take on this?
 
 Different systems may handle this is different ways. I first suggest you investigate a little more the requirements to process messages in sequence and exactly once. If possible, you should design your consumers, systems and messages such that they are idempotent, that is where there are not side effects of processing the message more than once. If you can do this, this will ultimately make your systems more resliant and performant.
-Processing messages in sequence may also result in a less performant system. As this effectively means that only one message can be processed at a time (caveat here, that if you can acknowledge the message before processing it, but that brings in other risks).
+
+Processing messages in sequence may also result in a less performant system as this requirement effectively means that only one message can be processed at a time (caveat here, that if you can acknowledge the message before processing it, but that brings in other risks).
+
 Systems such as Apache Kafka partition the messages on each topic, using the message key. So if you use a correlated message key (eg: order id), the consumers of a Kafka topic will then ensure processing in sequence on each topic (and therefor sequencing based on the message key as well). This approach allows you to scale consumers a little bit more easily.
-While I am not an expert on Rabbit MQ, i do believe it scales quite well, and has a lot of options around consumers and message acknowledgements. So if you are sure you need ordering and exactly once semantics, if your messages are small, and processing will be quick, then this could be a good approach.
+
+While I am not an expert on Rabbit MQ, I do believe it scales quite well, and has a lot of options around consumers and message acknowledgements. So if you are sure you need ordering and exactly once semantics, if your messages are small, and processing will be quick, then this could be a good approach.
 
 ### ❔Q16: Any update to Logic Apps having to poll service bus for msgs instead of receiving a callback?
 
