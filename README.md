@@ -14,7 +14,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ## 2022-09-15 - Series 2 - Episode 11: Event driven architectures and the power of asynchronous communications
 
-If you missed the live show you can catch the episode on YouTube once it's available (we'll update here with the link). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E11LiveQandA.md).
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/VHUcv35Qxr0). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E11LiveQandA.md).
 
 As the services and apps we build become increasingly distributed, integrations between components become increasingly complicated, error prone and difficult to manage.
 
