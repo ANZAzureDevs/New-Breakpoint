@@ -1,14 +1,41 @@
 ![new breakpoint logo](media/new-breakpoint.PNG 'new breakpoint logo')
 
-New Breakpoint is a regular online show for Australian developers produced by Australian developers at Microsoft and in the local community.
+New Breakpoint is a regular online show for Australian and New Zealand developers produced by local developers at Microsoft and in the community.
 
 This repository hosts useful follow ups, links and other information from each episode.
 
-We want everyone who comes along to feel welcome and safe. Please make sure to review our [Code of Conduct](https://docs.microsoft.com/legal/learntv/codeofconduct) before joining in and contributing to our discussion.
+We want everyone who comes along to feel welcome and safe. Please make sure to review our [Code of Conduct](https://learn.microsoft.com/legal/learnevents/codeofconduct) before joining in and contributing to our discussion.
 
-You can watch all our episodes via our [Twitter Moment](https://twitter.com/i/events/1385081425146257409), our playlists on Microsoft ANZ's YouTube Channel - [Season 1](https://aka.ms/new-breakpoint/s1) | [Season 2](https://aka.ms/new-breakpoint/s2), or join our ongoing conversation on Twitter [@MicrosoftDevANZ](https://twitter.com/MicrosoftDevANZ).
+You can watch all our episodes via playlists on Microsoft ANZ's YouTube Channel - [Season 1](https://aka.ms/new-breakpoint/s1) | [Season 2](https://aka.ms/new-breakpoint/s2).
 
 We would like to acknowledge that we record the show on the traditional lands of the Gadigal people of the Eora nation, and have guests from around Australia who join us from the traditional lands of their local people. We pay our respects to Elders past, present and future.
+
+***
+
+## 2022-11-22 - Series 2 - Episode 12: A GitOps approach to multi-microservice and environment apps with Azure Red Hat OpenShift
+
+If you missed the live show you can catch the episode on YouTube once it is published.
+
+Microservices assist in rapidly building and deploying distributed apps. But, with a distributed system comes added complexity. As your microservices grow, the headache of managing their environmental configuration can too – unless you get ahead of it.  
+
+With Azure Red Hat OpenShift (ARO), you can take a GitOps approach to managing the lifecycle of your Kubernetes platform and apps.  
+
+In this episode of New Breakpoint, [Paul Foster](https://www.linkedin.com/in/paul-foster-5751917/) from Red Hat ran us through how to configure a production-grade Kubernetes ecosystem in a day – powered by ARO and GitOps with Tekton, CI/CD and Istio using familiar tools such as Helm.  
+
+Want to learn more? Here are some great next steps:
+
+- OpenShift GitOps: https://docs.openshift.com/container-platform/4.11/cicd/gitops/understanding-openshift-gitops.html
+  - Upstream project - ArgoCD: https://argo-cd.readthedocs.io/en/stable/
+- OpenShift Pipelines: https://docs.openshift.com/container-platform/4.11/cicd/pipelines/understanding-openshift-pipelines.html
+  - Upstream project - Tekton: https://tekton.dev/docs/
+- OpenShift Service Mesh: https://docs.openshift.com/container-platform/4.11/service_mesh/v2x/ossm-about.html
+  - Upstream project - Istio: https://istio.io/latest/docs/
+- Help Package Management: https://helm.sh/docs/
+- Deploy Azure Bicep files using GitHub Actions: https://learn.microsoft.com/azure/azure-resource-manager/bicep/deploy-github-actions
+- Azure Red Hat OpenShift documentation: https://learn.microsoft.com/azure/openshift/
+- Tutorial: Create an Azure Red Hat OpenShift cluster: https://learn.microsoft.com/azure/openshift/tutorial-create-cluster
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
 ***
 
@@ -22,7 +49,7 @@ In this episode of New Breakpoint, [Amit Kuckreja](https://www.linkedin.com/in/a
 
 Want to learn more? Here are some great next steps:
 
-- What do you mean by “Event-Driven”? https://martinfowler.com/articles/201701-event-driven.html
+- What do you mean by "Event-Driven"? https://martinfowler.com/articles/201701-event-driven.html
 - The Many Meanings of Event-Driven Architecture (video): https://youtu.be/STKCRSUsyP0 
 - Event-Driven Architecture: A Primer: https://highalpha.com/event-driven-architecture-a-primer/
 - Event-drive architecture style: https://docs.microsoft.com/azure/architecture/guide/architecture-styles/event-driven 
