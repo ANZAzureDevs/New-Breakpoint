@@ -30,7 +30,7 @@ Want to learn more? Here are some great next steps:
   - Upstream project - Tekton: https://tekton.dev/docs/
 - OpenShift Service Mesh: https://docs.openshift.com/container-platform/4.11/service_mesh/v2x/ossm-about.html
   - Upstream project - Istio: https://istio.io/latest/docs/
-- Help Package Management: https://helm.sh/docs/
+- Helm Package Management: https://helm.sh/docs/
 - Deploy Azure Bicep files using GitHub Actions: https://learn.microsoft.com/azure/azure-resource-manager/bicep/deploy-github-actions
 - Azure Red Hat OpenShift documentation: https://learn.microsoft.com/azure/openshift/
 - Tutorial: Create an Azure Red Hat OpenShift cluster: https://learn.microsoft.com/azure/openshift/tutorial-create-cluster
