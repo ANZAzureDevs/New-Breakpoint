@@ -14,7 +14,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ## 2022-11-22 - Series 2 - Episode 12: A GitOps approach to multi-microservice and environment apps with Azure Red Hat OpenShift
 
-If you missed the live show you can catch the episode on YouTube once it is published.  The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E12LiveQandA.md).
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/SwSd85866NY). You can also check out the [episode Q&A page](S02E12LiveQandA.md).
 
 Microservices assist in rapidly building and deploying distributed apps. But, with a distributed system comes added complexity. As your microservices grow, the headache of managing their environmental configuration can too – unless you get ahead of it.  
 
