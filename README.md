@@ -12,7 +12,39 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ***
 
-## 2022-11-22 - Series 2 - Episode 12: A GitOps approach to multi-microservice and environment apps with Azure Red Hat OpenShift
+## 2023-02-16: Hey, GitHub! What’s new in the world of GitHub with Damian Brady
+
+If you missed the live show you can catch the episode on YouTube when it is published (we'll update here).
+
+There were a lot of announcements at GitHub Universe 2022, from free Codespaces for everyone, a new GitHub Actions Importer tool, improved security tooling, better project planning tools, and event support for careers in open source!
+
+This episode we had Head of Developer Advocacy at GitHub - [Damian Brady](http://twitter.com/damovisa) walk through some of these announcements including some a cool demo of using Stable Diffusion in a Codespace. 
+
+Want to learn more? Here are some great next steps:
+
+-	Major announcements summary of GitHub Universe - https://github.blog/2022-11-09-everything-new-from-github-universe-2022/
+- Research on use / non-use of copilot - https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/. 
+  - Also this one if you'd prefer a fun video: https://www.youtube.com/watch?v=jr38-yiTr8k
+-	GitHub Next - https://githubnext.com
+-	GitHub Projects - https://github.com/features/issues
+- GitHub Actions:
+  - Large Runners - https://github.blog/changelog/2022-09-01-github-actions-larger-runners-are-now-in-public-beta/
+  - Importer - https://github.blog/changelog/2022-11-16-introducing-github-actions-importer/
+  - ARM Virtual Hardware - https://resources.github.com/devops/actions/arm-virtual-hardware/
+  - Required workflows and configuration variables - https://github.blog/2023-01-10-introducing-required-workflows-and-configuration-variables-to-github-actions/
+- GitHub Security - private vulnerability reporting - https://github.blog/changelog/2022-11-09-privately-report-vulnerabilities-to-repository-maintainers/
+- Career and business development:
+	- Open source career accelerator - https://accelerator.github.com/
+  - M12 GitHub Fund - https://m12.vc/news/announcing-the-m12-github-fund/
+- GitHub Codespaces:
+  - Codespaces for everyone - https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/
+  - Jupyter Notebooks in Codespaces - Jupyter Lab - https://github.blog/changelog/2022-11-09-using-codespaces-with-jupyterlab-public-beta/
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+***
+
+## 2022-11-22: A GitOps approach to multi-microservice and environment apps with Azure Red Hat OpenShift
 
 If you missed the live show you can catch the episode on [YouTube](https://youtu.be/SwSd85866NY). You can also check out the [episode Q&A page](S02E12LiveQandA.md).
 
@@ -39,7 +71,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ***
 
-## 2022-09-15 - Series 2 - Episode 11: Event driven architectures and the power of asynchronous communications
+## 2022-09-15: Event driven architectures and the power of asynchronous communications
 
 If you missed the live show you can catch the episode on [YouTube](https://youtu.be/VHUcv35Qxr0). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E11LiveQandA.md).
 
@@ -60,7 +92,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ***
 
-## 2022-06-09 - Series 2 - Episode 10: Stop worrying about Kubernetes with Azure Container Apps and Dapr
+## 2022-06-09: Stop worrying about Kubernetes with Azure Container Apps and Dapr
 
 If you missed the live show you can catch the episode on [YouTube](https://youtu.be/vUVTnfXEYW8). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E10LiveQandA.md).
 
