@@ -32,6 +32,7 @@ Want to learn more? Here are some great next steps:
   - Importer - https://github.blog/changelog/2022-11-16-introducing-github-actions-importer/
   - ARM Virtual Hardware - https://resources.github.com/devops/actions/arm-virtual-hardware/
   - Required workflows and configuration variables - https://github.blog/2023-01-10-introducing-required-workflows-and-configuration-variables-to-github-actions/
+  - Required workflows docs (read about exclusions, etc): https://docs.github.com/en/actions/using-workflows/required-workflows
 - GitHub Security - private vulnerability reporting - https://github.blog/changelog/2022-11-09-privately-report-vulnerabilities-to-repository-maintainers/
 - Career and business development:
 	- Open source career accelerator - https://accelerator.github.com/
@@ -42,11 +43,21 @@ Want to learn more? Here are some great next steps:
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
+### Q&A segment
+
+- Question: GitHub Actions: with required workflows, can say a .net specific workflow automatically skip a NodeJS repo
+
+  Answer: Yes, you would need to set that required workflow for those repositories specifically though.
+
+- Question: GitHub Codespaces: If you had multiple repos that need to integrate with each other say via APIs - Is it possible to have Codespace A hit an API endpoint in Codespace B?
+
+  Answer: Within a Codespace, you are able to open ports and specify whether they're open publicly, to the organization (so you can connect if you have the other Codespace open), or keep them private.
+
 ***
 
 ## 2022-11-22: A GitOps approach to multi-microservice and environment apps with Azure Red Hat OpenShift
 
-If you missed the live show you can catch the episode on [YouTube](https://youtu.be/SwSd85866NY). You can also check out the [episode Q&A page](S02E12LiveQandA.md).
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/SwSd85866NY). You can also check out the [episode Q&A page](qanda/S02E12LiveQandA.md).
 
 Microservices assist in rapidly building and deploying distributed apps. But, with a distributed system comes added complexity. As your microservices grow, the headache of managing their environmental configuration can too – unless you get ahead of it.  
 
@@ -73,7 +84,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2022-09-15: Event driven architectures and the power of asynchronous communications
 
-If you missed the live show you can catch the episode on [YouTube](https://youtu.be/VHUcv35Qxr0). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E11LiveQandA.md).
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/VHUcv35Qxr0). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](qanda/S02E11LiveQandA.md).
 
 As the services and apps we build become increasingly distributed, integrations between components become increasingly complicated, error prone and difficult to manage.
 
@@ -94,7 +105,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2022-06-09: Stop worrying about Kubernetes with Azure Container Apps and Dapr
 
-If you missed the live show you can catch the episode on [YouTube](https://youtu.be/vUVTnfXEYW8). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E10LiveQandA.md).
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/vUVTnfXEYW8). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](qanda/S02E10LiveQandA.md).
 
 Friend of New Breakpoint, [Todd Whitehead](http://twitter.com/todwhitehead) is back, and this time he's covering Azure Container Apps and showing us how the service eases developer's lives when building cloud-native microservices solutions. You can build multi-language microservices and utilise Dapr to manage integration, along with having scale-to-zero capabilities driven by the use of KEDA.
 
@@ -192,7 +203,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2021-12-07 - Series 2 - Episode 5: Demystifying OAuth, JWTs and Azure AD for Developers
 
-If you missed the live show you can catch the episode on [YouTube](https://youtu.be/mf7StZ62_R0). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E05LiveQandA.md).
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/mf7StZ62_R0). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](qanda/S02E05LiveQandA.md).
 
 Building applications to make use of Azure Active Directory (Azure AD) for authentication and authorisation requires developers to have familiarity with OAuth, Open ID Connect (OIDC) and JSON Web Tokens (JWTs). In this episode, [Graeme Foster](https://twitter.com/graefoster), Cloud Solution Architect from Microsoft, will use a fun interactive demonstration to familiarise developers with OAuth flows, Application Registrations and how to work with JWTs. 
 
@@ -213,7 +224,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2021-11-18 - Series 2 - Episode 4: Azure Application Services on Kubernetes with Azure Arc
 
-If you missed the live show you can catch the episode on [YouTube](https://youtu.be/2mUpbTPUBh0). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E04LiveQandA.md).
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/2mUpbTPUBh0). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](qanda/S02E04LiveQandA.md).
 
 In this show, Microsoft's [Chris Reddington](https://www.linkedin.com/in/chrisreddington/) walked us through how to run Azure App Service, Functions, Logic Apps and more on an Azure Arc-enable Kubernetes cluster and these clusters can be run on-premises or hosted in a third-party cloud. We saw how this approach allows you to take advantage of App Service features while also maintaining corporate compliance by hosting apps on infrastructure you manage. This also allows you to buy applications to take advantage of Azure Application Services and run them in Azure and elsewhere which is great for business continuity or disaster recovery.
 
@@ -272,7 +283,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2021-08-12 - Series 2 - Episode 1: Modernising your CI/CD pipelines
 
-If you missed the live show you can catch the episode [on YouTube](https://youtu.be/OtQh-8mcc4g). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](S02E01LiveQandA.md).
+If you missed the live show you can catch the episode [on YouTube](https://youtu.be/OtQh-8mcc4g). The live segment Q&A is not included in this video, so if you'd like to see what was asked, along with answers, check out the [episode Q&A page](qanda/S02E01LiveQandA.md).
 
 [Anthony Borton](https://twitter.com/AnthonyBorton) from GitHub walked us through GitHub Actions triggered from a Pull Request (PR) and how Actions can be used to drive easier PR validation. We also saw how to add sophisticated security scanning that looks for both secrets and code vulnerabilities to our deployments to Azure (or any destination!)
 
