@@ -14,7 +14,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 ## 2023-02-16: Hey, GitHub! What’s new in the world of GitHub with Damian Brady
 
-If you missed the live show you can catch the episode on YouTube when it is published (we'll update here).
+If you missed the live show you can catch the episode on [YouTube](https://youtu.be/ZGJQ8V8nefM). 
 
 There were a lot of announcements at GitHub Universe 2022, from free Codespaces for everyone, a new GitHub Actions Importer tool, improved security tooling, better project planning tools, and event support for careers in open source!
 
