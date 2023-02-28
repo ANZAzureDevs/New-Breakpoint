@@ -35,7 +35,7 @@ Andrew shared some tips on purpose and "slicing the pie", here are some good lin
 
 Jacques covered a range of topics on Azure and Microsoft's startup benefits:
 
-- Microsoft for Startups: https://www.microsoft.com/en-us/startups
+- Microsoft for Startups: https://www.microsoft.com/startups
 - Azure Architecture guide: https://learn.microsoft.com/azure/architecture/
 - Azure API Management: 
   - Key concepts: https://learn.microsoft.com/azure/api-management/api-management-key-concepts
