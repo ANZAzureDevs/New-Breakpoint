@@ -10,6 +10,8 @@ You can watch all our episodes via playlists on Microsoft ANZ's YouTube Channel 
 
 We would like to acknowledge that we record the show on the traditional lands of the Gadigal people of the Eora nation, and have guests from around Australia who join us from the traditional lands of their local people. We pay our respects to Elders past, present and future.
 
+Season 3 starting soon...
+
 ***
 
 ## 2023-03-01: From concept to reality: Aussie social payments fintech HelpPay’s journey
