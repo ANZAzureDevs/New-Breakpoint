@@ -6,6 +6,9 @@ You can watch all our episodes via our playlists on Microsoft ANZ's YouTube Chan
 
 If you're looking for our more recent shows, you'll find them on the [main page](README.md).
 
+Or register to view the sessions on-demand through our [New Breakpoint Webpage](https://info.microsoft.com/AU-DevEngage-CATALOG-FY22-08Aug-18-New-Breakpoint-SRDEM82686_Catalog-Display-Page.html)
+
+
 ***
 
 
