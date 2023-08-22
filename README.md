@@ -44,4 +44,29 @@ Mish showed off some awesome [GitHub](https://github.com/) demos and content, he
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
 ***
+## 2023-10-12: Demystifying OpenAI and GPT with Graeme Foster
+
+You can catch this episode on our [YouTube Channel](https://aka.ms/new-breakpoint/s3). 
+
+Welcome to the second episode of New Breakpoint Season 3, where we're separating the hype from the actual use cases of OpenAI and GPT. They look, sound and function like magic, but are conceptually quite simple. But how do we cut through the hype to get to the code?
+In this episode Microsoft Developer Engagement Lead and host [Michelle Sandford](https://www.linkedin.com/in/michellesandford/) will talk to Technical Specialist [Graeme Foster](https://www.linkedin.com/in/graeme-foster-a23a14/) as he walks through what they are and how they work by building one for you from raw ingredients including Azure OpenAI, Cognitive Search, and a database. 
+
+There’s going to be code, code and more code with a grand finale that errs on the side of unexplainable black magic! Sit back, grab some popcorn, and enjoy the mysterious world of large language models.
+Graeme will discuss: 
+•	His personal journey on how he cut through the hype to get straight to the code and his tips and tricks on what to avoid and what to focus on
+•	How to rethink what’s possible with OpenAI by demonstrating shortcuts that will broaden your horizons. 
+•	A demonstration of GPT, LangChain, and Semantic Kernel and how they work by building one for you from raw ingredients including Azure OpenAI
+
+Graeme showed off some awesome code demos and content, here are some good links:
+
+- [Semantic Kernel]([https://github.blog/2023-08-15-release-radar-jul-23/](https://learn.microsoft.com/en-us/semantic-kernel/overview/))
+- [Integrate with LangChain]([https://github.blog/2023-07-25-game-bytes-july-2023/](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/how-to-integrate-with-langchain?view=azureml-api-2))
+- [Azure Cognitive Search and LangChain: A Seamless Integration for Enhanced Vector Search Capabilities](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/azure-cognitive-search-and-langchain-a-seamless-integration-for/ba-p/3901448)
+- [Build language model pipelines with memory](https://learn.microsoft.com/en-us/azure/architecture/guide/ai/language-model-pipelines)
+- [Generative AI Learning Paths](https://learn.microsoft.com/en-us/users/techgirlwa/collections/3o36updx3jmg75)
+
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+
+***
 
