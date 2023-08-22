@@ -13,7 +13,7 @@ We would like to acknowledge that we record the show on the traditional lands of
 Season 3 starting soon...
 
 [Season 1](https://learn.microsoft.com/en-us/users/techgirlwa/collections/3o36updx3jmg75)
-[Season 2](
+[Season 2](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-02.md)
 
 ***
 
