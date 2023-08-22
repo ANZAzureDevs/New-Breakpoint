@@ -1,4 +1,4 @@
-![new breakpoint logo](media/new-breakpoint.PNG 'new breakpoint logo')
+![new breakpoint logo](media/NewBreakpoint.png')
 
 New Breakpoint is a regular online show for Australian and New Zealand developers produced by local developers at Microsoft and in the community.
 
@@ -16,7 +16,7 @@ Season 3 starting soon...
 [Season 2](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-02.md)
 
 ***
-![new breakpoint episode 1](media/new-breakpoint.PNG 'new breakpoint logo')
+![new breakpoint logo](media/MicrosoftTeams-image (76).png')
 
 
 ## 2023-09-14: GitHub - Revolutionising the Developer Experience with Mish Mannering
@@ -50,6 +50,8 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ***
 ## 2023-10-12: Demystifying OpenAI and GPT with Graeme Foster
+
+![new breakpoint logo](media/MicrosoftTeams-image (77).png')
 
 You can catch this episode on our [YouTube Channel](https://aka.ms/new-breakpoint/s3). 
 
