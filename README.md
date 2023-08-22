@@ -59,8 +59,8 @@ Graeme will discuss:
 
 Graeme showed off some awesome code demos and content, here are some good links:
 
-- [Semantic Kernel]([https://github.blog/2023-08-15-release-radar-jul-23/](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
-- [Integrate with LangChain]([https://github.blog/2023-07-25-game-bytes-july-2023/](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/how-to-integrate-with-langchain?view=azureml-api-2)
+- [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+- [Integrate with LangChain](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/how-to-integrate-with-langchain?view=azureml-api-2)
 - [Azure Cognitive Search and LangChain: A Seamless Integration for Enhanced Vector Search Capabilities](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/azure-cognitive-search-and-langchain-a-seamless-integration-for/ba-p/3901448)
 - [Build language model pipelines with memory](https://learn.microsoft.com/en-us/azure/architecture/guide/ai/language-model-pipelines)
 - [Generative AI Learning Paths](https://learn.microsoft.com/en-us/users/techgirlwa/collections/3o36updx3jmg75)
