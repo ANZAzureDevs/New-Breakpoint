@@ -16,8 +16,7 @@ Season 3 starting soon...
 [Season 2](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-02.md)
 
 ***
-![new breakpoint logo](media/MicrosoftTeams-image (76).png)
-
+![new breakpoint logo](media/S3E1.png)
 
 ## 2023-09-14: GitHub - Revolutionising the Developer Experience with Mish Mannering
 
@@ -49,9 +48,9 @@ Mish showed off some awesome [GitHub](https://github.com/) demos and content, he
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
 
 ***
-## 2023-10-12: Demystifying OpenAI and GPT with Graeme Foster
+![new breakpoint logo](media/S3E2.png)
 
-![new breakpoint logo](media/MicrosoftTeams-image (77).png)
+## 2023-10-12: Demystifying OpenAI and GPT with Graeme Foster
 
 You can catch this episode on our [YouTube Channel](https://aka.ms/new-breakpoint/s3). 
 
