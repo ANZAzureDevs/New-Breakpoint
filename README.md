@@ -16,6 +16,8 @@ Season 3 starting soon...
 [Season 2](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-02.md)
 
 ***
+![new breakpoint episode 1](media/new-breakpoint.PNG 'new breakpoint logo')
+
 
 ## 2023-09-14: GitHub - Revolutionising the Developer Experience with Mish Mannering
 
