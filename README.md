@@ -1,4 +1,4 @@
-![new breakpoint logo](media/new-breakpoint.PNG)
+![new breakpoint logo](media/NewBreakpointBannerDraft.jpg)
 
 New Breakpoint is a regular online show for Australian and New Zealand developers produced by local developers at Microsoft and in the community.
 
