@@ -1,3 +1,11 @@
+New Breakpoint - Series 1
+The below shows make up our first series of New Breakpoint which ran from February - June 2021.
+
+You can watch all our episodes via our Twitter Moment, our playlists on Microsoft ANZ's YouTube Channel - Season 1 | Season 2 https://aka.ms/new-breakpoint/playlist), or join our ongoing conversation on Twitter @MicrosoftDevANZ.
+
+If you're looking for our more recent shows, you'll find them on the main page.
+
+
 ## 2023-03-01: From concept to reality: Aussie social payments fintech HelpPay’s journey
 
 You can catch this episode on our [YouTube Channel](https://aka.ms/new-breakpoint/s2). 
