@@ -12,6 +12,9 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 Season 3 starting soon...
 
+[Season 1](https://learn.microsoft.com/en-us/users/techgirlwa/collections/3o36updx3jmg75)
+[Season 2](
+
 ***
 
 ## 2023-09-14: GitHub - Revolutionising the Developer Experience with Mish Mannering
