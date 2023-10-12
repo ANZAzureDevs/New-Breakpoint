@@ -12,7 +12,7 @@ Or register to view the sessions on-demand through our [New Breakpoint Webpage](
 
 We would like to acknowledge that we record the show on the traditional lands of the Gadigal people of the Eora nation, and have guests from around Australia who join us from the traditional lands of their local people. We pay our respects to Elders past, present and future.
 
-Season 3 starting soon...
+Season 3 starting soon kicked off September 2023. You can find episodes 1 and 2 via the on-demand [Season 3](https://aka.ms/newbreakpoint3) registration link
 
 [Season 1](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-01.md)
 [Season 2](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-02.md)
