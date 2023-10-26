@@ -74,8 +74,29 @@ Graeme showed off some awesome code demos and content, here are some good links:
 - [Generative AI Learning Paths](https://learn.microsoft.com/en-us/users/techgirlwa/collections/3o36updx3jmg75)
 - [Build your own Langchain](https://github.com/graemefoster/buildyourownlangchain)
 
+## 2023-11-09: Discover the Power of Azure Cognitive Services with Lars Klint
 
-If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: https://aka.ms/DevNewsletterJoin
+You can catch this episode on our [YouTube Channel](https://aka.ms/new-breakpoint/s3). 
+
+Azure Cognitive Services brings a host of benefits that revolutionise the way we approach problems. A catalyst for career advancement, Azure can also be a source of fun.
+
+In this episode of our New Breakpoint Series, Microsoft Developer Engagement Lead and host Michelle Sandford talks to Principal Consultant at Arkahna, Lars Klint. Lars will delve into Azure Cognitive Services and talk to how it has not only enhanced his farm management but also developed his skills and career. He will show us the potential of Azure, transforming hobbies into lucrative ventures.
+
+Lars will discuss:
+
+The unexpected synergy between llamas and AI, illustrating the power and reach of modern technology.
+The transformative potential of hobby projects in your professional journey, demonstrating how personal interests can evolve into career-advancing opportunities.
+How leveraging AI can help upskill and progress your career, emphasising the role of Azure Cognitive Services in this evolution.
+The most interesting Open AI Projects Lars is actively involved with at Arkahna.
+
+[Register to watch on-demand](https://mktoevents.com/Microsoft+Event/413065/157-GQE-382?ocid=lp_pg292429_gdc_comm_mw)
+
+[Create Custom Vision Resources](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-cognitive-services/)
+[Create Azure Static Web Apps](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/)
+[Azure Live Streaming Best Practices](https://learn.microsoft.com/en-us/azure/media-services/latest/live-event-streaming-best-practices-guide)
+
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
 ***
 
