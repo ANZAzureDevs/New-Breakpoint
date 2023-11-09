@@ -92,14 +92,14 @@ The most interesting Open AI Projects Lars is actively involved with at Arkahna.
 
 [Register to watch on-demand](https://mktoevents.com/Microsoft+Event/413065/157-GQE-382?ocid=lp_pg292429_gdc_comm_mw)
 
-[Create Custom Vision Resources](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-cognitive-services/)
-[Create Azure Static Web Apps](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/)
-[Azure Live Streaming Best Practices](https://learn.microsoft.com/en-us/azure/media-services/latest/live-event-streaming-best-practices-guide)
-[Azure in Action Book](https://www.manning.com/books/microsoft-azure-in-action)
-[Lars Klint on YouTube](https://www.youtube.com/@LarsKlintTech)
-[Arkahna](https://arkahna.io/)
-[Microsoft Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
-[Azure Media Services Retirement Guide](https://learn.microsoft.com/en-us/azure/media-services/latest/azure-media-services-retirement)
+- [Create Custom Vision Resources](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-cognitive-services/)
+- [Create Azure Static Web Apps](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/)
+- [Azure Live Streaming Best Practices](https://learn.microsoft.com/en-us/azure/media-services/latest/live-event-streaming-best-practices-guide)
+- [Azure in Action Book](https://www.manning.com/books/microsoft-azure-in-action)
+- [Lars Klint on YouTube](https://www.youtube.com/@LarsKlintTech)
+- [Arkahna](https://arkahna.io/)
+- [Microsoft Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
+- [Azure Media Services Retirement Guide](https://learn.microsoft.com/en-us/azure/media-services/latest/azure-media-services-retirement)
 
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
