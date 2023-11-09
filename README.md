@@ -74,6 +74,7 @@ Graeme showed off some awesome code demos and content, here are some good links:
 - [Generative AI Learning Paths](https://learn.microsoft.com/en-us/users/techgirlwa/collections/3o36updx3jmg75)
 - [Build your own Langchain](https://github.com/graemefoster/buildyourownlangchain)
 
+![new breakpoint logo](media/Lars1698635289324.jpg)
 ## 2023-11-09: Discover the Power of Azure Cognitive Services with Lars Klint
 
 You can catch this episode on our [YouTube Channel](https://aka.ms/new-breakpoint/s3). 
