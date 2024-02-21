@@ -103,6 +103,23 @@ The most interesting Open AI Projects Lars is actively involved with at Arkahna.
 
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+***
+![Community Episode](media/Kate.jpg)
+
+## 2024-02-08: Unlock the Power of Community and Inclusivity in the Tech Industry
+
+Be inspired by the empowering journeys of WA Young Australian of the Year and She Codes Australia Founder Kate Kirwin and International Keynote Speaker and Principal FrontEnd Web #Developer Amy Kapernick
+ 
+Join our Microsoft Developer Engagement Lead Michelle Sandford to discover how these remarkable individuals are building #inclusive #communities and making a significant impact in the #tech industry.
+ 
+(Watch on-demand)[https://mktoevents.com/Microsoft+Event/420573/157-GQE-382]
+
+- [She Codes](https://shecodes.com.au)
+- [DDDPerth]([https://www.microsoft.com/en-us/ai/responsible-ai](https://dddperth.com/))
+- [NDC Conferences](https://ndcconferences.com/)
+- [YOW!Conferences](https://yowcon.com/)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ 
 
 ***
 ![Scott Hanselman Episode](media/Scott.jpg)
