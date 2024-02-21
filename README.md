@@ -105,4 +105,26 @@ The most interesting Open AI Projects Lars is actively involved with at Arkahna.
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
 ***
+![new breakpoint logo](media/scott.jpg)
 
+## 2024-03-14: Elevate your Windows development experience 📈 with Scott Hanselman
+
+Join one of the industry's foremost experts, Scott Hanselman, as he explores the latest tools and techniques in an exclusive episode of New Breakpoint.
+
+We will cover:
+✅ The art of terminal customisation
+✅ The hidden gems of PowerToys 
+✅ Integrating Visual Studio (VS) and Visual Studio Code (VS Code) 
+✅ Harnessing Azure Developer CLI capabilities
+✅ The powerful trio of Playwright, Docker, and command-line competence
+✅ The features and capabilities of DevBox
+
+Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id=3268704800)
+
+- [Scott Hanselman's Blog](http://hanselman.com)
+- [Hanselminutes Podcast](hanselminutes.com)
+- [Azure Friday](azurefriday.com)
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint
