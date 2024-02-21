@@ -105,7 +105,7 @@ The most interesting Open AI Projects Lars is actively involved with at Arkahna.
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
 ***
-![new breakpoint logo](media/scott.jpg)
+![Scott Hanselman Episode](media/Scott.jpg)
 
 ## 2024-03-14: Elevate your Windows development experience 📈 with Scott Hanselman
 
