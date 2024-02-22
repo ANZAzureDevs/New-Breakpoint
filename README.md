@@ -119,6 +119,8 @@ Join our Microsoft Developer Engagement Lead Michelle Sandford to discover how t
 - [NDC Conferences](https://ndcconferences.com/)
 - [YOW!Conferences](https://yowcon.com/)
 
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ 
 
 ***
