@@ -147,3 +147,34 @@ Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint
+
+***
+![April Edwards Episode](media/April.jpg)
+
+## 2024-03-14: DevOps on GitHub: The Secret Sauce to Successful Software Development with April Edwards
+
+Join one of alumni from The League of Extraordinary Advocates, April Edwards, as she explores the secret sauce of DevOps.
+
+We will cover:
+✅ What is Devops
+✅ Shifting Left
+✅ High Performing DevOps
+✅ Secure Software Development
+✅ GitHub Azure Integration
+✅ Security in the Development Lifecycle
+✅ Collaboration
+✅ Demo in GitHub Codespaces
+✅ Automating Pull Requests
+✅ Code scanning
+✅ Traceability
+✅ Test environments
+
+Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id=3268704800)
+
+[GitHub Learning](https://learn.microsoft.com/training/github)
+[GitHub Certifications](https://gh.io/gh-certs-guide)
+[15 Minutes to Merge on GitHub](https://gh.io/15MinutesToMerge)
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint
