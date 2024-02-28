@@ -177,4 +177,4 @@ Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
-#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
