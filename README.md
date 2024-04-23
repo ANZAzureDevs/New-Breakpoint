@@ -114,6 +114,7 @@ Join our Microsoft Developer Engagement Lead Michelle Sandford to discover how t
  
 (Watch on-demand)[https://mktoevents.com/Microsoft+Event/420573/157-GQE-382]
 
+### Episode Resources:
 - [She Codes](https://shecodes.com.au)
 - [DDDPerth]([https://www.microsoft.com/en-us/ai/responsible-ai](https://dddperth.com/))
 - [NDC Conferences](https://ndcconferences.com/)
@@ -140,6 +141,7 @@ We will cover:
 
 Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id=3268704800)
 
+### Episode Resources:
 - [Scott Hanselman's Blog](http://hanselman.com)
 - [Hanselminutes Podcast](hanselminutes.com)
 - [Azure Friday](azurefriday.com)
@@ -171,9 +173,10 @@ We will cover:
 
 Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id=3268704800)
 
-[GitHub Learning](https://learn.microsoft.com/training/github)
-[GitHub Certifications](https://gh.io/gh-certs-guide)
-[15 Minutes to Merge on GitHub](https://gh.io/15MinutesToMerge)
+### Episode Resources:
+- [GitHub Learning](https://learn.microsoft.com/training/github)
+- [GitHub Certifications](https://gh.io/gh-certs-guide)
+- [15 Minutes to Merge on GitHub](https://gh.io/15MinutesToMerge)
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
