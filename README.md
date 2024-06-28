@@ -145,6 +145,7 @@ Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id
 - [Scott Hanselman's Blog](http://hanselman.com)
 - [Hanselminutes Podcast](hanselminutes.com)
 - [Azure Friday](azurefriday.com)
+- [Funny promo video](https://youtu.be/OzP2P0MiAus)
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
