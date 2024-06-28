@@ -153,7 +153,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 ***
 ![April Edwards Episode](media/April.jpg)
 
-## 2024-03-14: DevOps on GitHub: The Secret Sauce to Successful Software Development with April Edwards
+## 2024-04-12: DevOps on GitHub: The Secret Sauce to Successful Software Development with April Edwards
 
 Join one of alumni from The League of Extraordinary Advocates, April Edwards, as she explores the secret sauce of DevOps.
 
@@ -181,3 +181,62 @@ Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
+
+***
+![RACWA Episode](media/RACWA.jpg)
+
+## 2024-05-09: New Breakpoint S3 Ep 20: Unlocking Innovation - Enhancing Developer Efficiency with RACWA
+
+Join us for an innovative episode of our New Breakpoint Series, led by Microsoft Developer Engagement Lead, Michelle Sandford. She'll be joined by Martin Taylor, Software Engineering Lead at RAC WA, who will demonstrate how to streamline the development lifecycle and improve collaboration among teams.
+
+We will cover:
+✅ Developer Productivity and Experience at RAC WA
+✅ What the DevX and Cloud teams been implementing
+✅ Container Apps v Kubernetes
+✅ Reusable pipelines and DevOps
+✅ Codespaces
+✅ PR’s, Actions and Deployments
+✅ Insights into the importance of certification and upskilling in Azure technologie
+
+Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id=1051978154)
+
+### Episode Resources:
+- [Container Apps v Kubernetes](https://learn.microsoft.com/en-us/azure/container-apps/compare-options)
+- [GitHub Certifications](https://gh.io/gh-certs-guide)
+- [GitHub Codespaces](https://learn.microsoft.com/en-us/training/modules/code-with-github-codespaces/)
+- [Introduction to Azure DevOps](https://learn.microsoft.com/en-us/training/modules/get-started-with-devops/)
+- [Microsoft Credentials and Applied Skills](https://learn.microsoft.com/en-us/credentials/)
+- [RAC WA Website](https://rac.com.au/)
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
+
+***
+
+![PatientNotes Episode](media/PatientNotes.jpg)
+
+## 2024-06-13: New Breakpoint S3 Ep 21: From Code to Clinic: Crafting Healthcare Solutions with AI
+
+Join us for an exclusive episode of our New Breakpoint Series, where Microsoft Developer Engagement Lead, Michelle Sandford, will lead a discussion with the minds behind Patient Notes. She'll be joined by the PatientNotes team, Jason Smale, CEO of PatientNotes, Sarah Moran, Head of Marketing and Darren Ross, Head of Customer.
+
+We will cover:
+✅ The power of AI and showcase Patient Notes' main features. From capturing and organising patient sessions to translating and dissecting medical information into clinical notes, a patient plan, and communicate with other medical professionals, all within minutes.
+✅ How they took a customer-centric approach to product development and utilised user input to continuously refine and enhance its features, ensuring maximum utility for all medical professionals. 
+✅ Their startup journey with insights about their experience with the Microsoft Founders Hub, GitHub Enterprise, Code Spaces, Azure Credits and Microsoft 365. Learn how being part of the Microsoft ecosystem accelerates growth and provides invaluable support for budding startups. 
+✅ Why Microsoft emerged as the preferred platform, facilitating a smooth journey for Patient Notes' development. 
+
+Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id=1051978154)
+
+### Episode Resources:
+- [Responsible Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/)
+- [Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-gb/training/paths/develop-ai-solutions-azure-openai/)
+- [Azure Content Safety](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/overview)
+- [Prompt Engineering](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
+- [Founders Hub](https://www.microsoft.com/en-au/startups)
+- [Patient Notes App](https://www.patientnotes.app/)
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
+
