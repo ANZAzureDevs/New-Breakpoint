@@ -16,7 +16,7 @@ Season 3 kicked off September 2023. You can access it via the on-demand [Season 
 
 [Season 1](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-01.md)
 [Season 2](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-02.md)
-[Season 3](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-03.md)
+[Latest Season](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/README.md)
 
 ***
 ![new breakpoint logo](media/S3E1.png)
