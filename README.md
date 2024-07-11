@@ -237,6 +237,30 @@ Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id
 - [Founders Hub](https://www.microsoft.com/en-au/startups)
 - [Patient Notes App](https://www.patientnotes.app/)
 
+***
+
+![Aspire Episode](media/ScottHunter.jpg)
+
+## 2024-07-11: New Breakpoint S4 Ep 22: Fireside chat with Scott Hunter on .NET Aspire
+
+Join Microsoft Developer Engagement Lead, Michelle Sandford as she chats to Scott Hunter, VP of Product for the Azure Developer Experience Team at Microsoft and learn how this new framework transforms .NET into a modern cloud native framework adding support for Observability, Resiliency, Scalability and Manageability. 
+
+We will cover:
+✅ Developer-Centric Insights: Gain valuable insights from Scott Hunter of the Azure developer experience team, as he shares his journey and the evolution of Azure's developer tools and services. 
+✅ Aspire Framework Introduction: Discover Aspire, the new cloud-native framework for .NET that simplifies the developer experience with built-in defaults for resiliency, health checks, and telemetry. 
+✅ Seamless Cloud Transition: Learn how Aspire enables a smooth transition for large enterprise applications to the cloud, enhancing existing features and providing a clear path forward for developers. 
+✅ Codespace and GitHub Copilot: Understand how Aspire seamlessly integrates with containers and AI to take away all your complications and speed your developer journey. 
+
+Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id=2397856278)
+
+### Episode Resources:
+- [.NET ASPIRE Overview](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)
+- [Introduction to .NET ASPIRE](https://learn.microsoft.com/en-us/training/modules/introduction-dotnet-aspire/)
+- [Build Distributed Apps with .NET ASPIRE](https://learn.microsoft.com/en-gb/training/paths/dotnet-aspire/)
+- [Tooling to generate AWS deploys from the manifest](https://www.nuget.org/packages/Aspire.Hosting.AWS)
+- [code samples using Aspire with OPenAI/Copilot](https://learn.microsoft.com/en-us/dotnet/aspire/azureai/azureai-search-document-component?tabs=dotnet-cli)
+- [Add .NET Aspire to an existing .NET App](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/add-aspire-existing-app?tabs=unix&pivots=visual-studio)
+
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
