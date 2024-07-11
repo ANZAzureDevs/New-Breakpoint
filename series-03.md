@@ -187,7 +187,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 ***
 ![RACWA Episode](media/RACWA.jpg)
 
-## 2024-05-09: New Breakpoint S3 Ep 20: Unlocking Innovation - Enhancing Developer Efficiency with RACWA
+## 2024-05-09: Unlocking Innovation - Enhancing Developer Efficiency with RACWA
 
 Join us for an innovative episode of our New Breakpoint Series, led by Microsoft Developer Engagement Lead, Michelle Sandford. She'll be joined by Martin Taylor, Software Engineering Lead at RAC WA, who will demonstrate how to streamline the development lifecycle and improve collaboration among teams.
 
@@ -218,7 +218,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ![PatientNotes Episode](media/PatientNotes.jpg)
 
-## 2024-06-13: New Breakpoint S3 Ep 21: From Code to Clinic: Crafting Healthcare Solutions with AI
+## 2024-06-13: From Code to Clinic: Crafting Healthcare Solutions with AI
 
 Join us for an exclusive episode of our New Breakpoint Series, where Microsoft Developer Engagement Lead, Michelle Sandford, will lead a discussion with the minds behind Patient Notes. She'll be joined by the PatientNotes team, Jason Smale, CEO of PatientNotes, Sarah Moran, Head of Marketing and Darren Ross, Head of Customer.
 
