@@ -21,7 +21,7 @@ Season 4 kicked off July 2024. You can access it via the on-demand [Season 4](ht
 ***
 ![Aspire Episode](media/ScottHunter.jpg)
 
-## 2024-07-11: New Breakpoint S4 Ep 22: Fireside chat with Scott Hunter on .NET Aspire
+## 2024-07-11: New Breakpoint S4 Ep 1: Fireside chat with Scott Hunter on .NET Aspire
 
 Join Microsoft Developer Engagement Lead, Michelle Sandford as she chats to Scott Hunter, VP of Product for the Azure Developer Experience Team at Microsoft and learn how this new framework transforms .NET into a modern cloud native framework adding support for Observability, Resiliency, Scalability and Manageability. 
 
