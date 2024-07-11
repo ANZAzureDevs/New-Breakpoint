@@ -246,10 +246,14 @@ Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id
 Join Microsoft Developer Engagement Lead, Michelle Sandford as she chats to Scott Hunter, VP of Product for the Azure Developer Experience Team at Microsoft and learn how this new framework transforms .NET into a modern cloud native framework adding support for Observability, Resiliency, Scalability and Manageability. 
 
 We will cover:
-✅ Developer-Centric Insights: Gain valuable insights from Scott Hunter of the Azure developer experience team, as he shares his journey and the evolution of Azure's developer tools and services. 
+✅ Developer-Centric Insights: Gain valuable insights from Scott Hunter of the Azure developer experience team, as he shares his journey and the evolution of Azure's developer tools and services.
+
 ✅ Aspire Framework Introduction: Discover Aspire, the new cloud-native framework for .NET that simplifies the developer experience with built-in defaults for resiliency, health checks, and telemetry. 
+
 ✅ Seamless Cloud Transition: Learn how Aspire enables a smooth transition for large enterprise applications to the cloud, enhancing existing features and providing a clear path forward for developers. 
+
 ✅ Codespace and GitHub Copilot: Understand how Aspire seamlessly integrates with containers and AI to take away all your complications and speed your developer journey. 
+
 
 Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id=2397856278)
 
