@@ -26,6 +26,7 @@ Season 4 kicked off July 2024. You can access it via the on-demand [Season 4](ht
 Join Microsoft Developer Engagement Lead, Michelle Sandford as she chats to Scott Hunter, VP of Product for the Azure Developer Experience Team at Microsoft and learn how this new framework transforms .NET into a modern cloud native framework adding support for Observability, Resiliency, Scalability and Manageability. 
 
 We will cover:
+
 ✅ Developer-Centric Insights: Gain valuable insights from Scott Hunter of the Azure developer experience team, as he shares his journey and the evolution of Azure's developer tools and services.
 
 ✅ Aspire Framework Introduction: Discover Aspire, the new cloud-native framework for .NET that simplifies the developer experience with built-in defaults for resiliency, health checks, and telemetry. 
