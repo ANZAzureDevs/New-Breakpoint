@@ -50,3 +50,40 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 
+
+***
+![AKS Episode](media/AKS.jpg)
+
+## 2024-08-08: New Breakpoint S4 Ep 2: Simplify cloud-native app deployment and scaling with AKS
+
+Join our host Michelle Sandford, Developer Engagement Lead, as she delves into Azure Kubernetes Service (AKS) with Manoj Ravikumar Nair, Microsoft Azure App Innovation Specialist.
+
+Manoj will show how you can use AKS features to simplify app deployment and automatically scale your applications.
+
+This session is your gateway to building resilient, manageable and scalable cloud-native applications. Discover how AKS facilitates the hosting of cloud-native applications and learn how to package and release your applications seamlessly.
+
+We will cover:
+
+✅ Fundamentals of Kubernetes, AKS and Azure Container Registry (ACR)
+
+✅ Deploying applications using Kubernetes Constructs and the Application Routing add-on
+
+✅ Implementing application updates and rollback strategies 
+
+✅ Scaling applications manually or automatically with Horizontal Pod Autoscaler (HPA) and Vertical Pod Autoscaler (VPA)
+
+
+Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id=526822164)
+
+### Episode Resources:
+- [Learn about Azure Kubernetes Service](https://learn.microsoft.com/en-gb/azure/aks/)
+- [Develop on Azure Kubernetes Service (AKS) with Helm](https://learn.microsoft.com/en-us/azure/aks/quickstart-helm?tabs=azure-cli)
+- [Cluster operator and developer best practices to build and manage applications on Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/best-practices)
+- [Use the cluster autoscaler in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/cluster-autoscaler?tabs=azure-cli)
+- [Upgrade an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-upgrade-cluster?tabs=azure-cli)
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
+
+
