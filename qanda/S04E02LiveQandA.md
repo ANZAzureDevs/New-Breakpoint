@@ -63,6 +63,48 @@ https://learn.microsoft.com/en-us/azure/aks/upgrade
 ## On what instances you use VPA vs HPA?
 In most cases, you will use HPA as cloud natives app prefer horizontal scaling vs vertical one... an example would be a database container that cant be sharded so needs to scale vertically instead of horizontally
 
+## Could you please add some insights on certificate management?
+AKS manages certificates required for Kubernetes internal services and authentication, for your App Services, you can integrate with LetsEncrypt / use secrets
+
+## When is the support to AKS Automate going to be available using Terraform?
+we are working on that capability as we speak, so hopefully in the next 6 months (no promises though!)
+
+## how does the rollback work of there are multiple interconnected services?
+For that, dont rollback just the service, use Helm charts
+
+## currently the AKS Automatic documentation is pretty sparse. can you expand on what "Enterprise ready" means in this context? would there be more documentation coming out any time soon?
+It comes will everything you need with policies, guardrails and capabilities that most enterprises need to start using AKS, with regards to docs, it is still a product in preview so I would expect more to come. Updates were made available on 2nd August, so if you haven't see those you might like these -
+[Quickstart: Deploy an Azure Kubernetes Service (AKS) Automatic cluster (preview)](https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-automatic-deploy?pivots=azure-portal) and [What is Azure Kubernetes Service (AKS) Automatic (preview)?](https://learn.microsoft.com/en-us/azure/aks/intro-aks-automatic)
+
+## what's your take on AGIC vs nginx? what should we consider when picking one over another?
+If you already use AGW, then AGIC would be easier especially with its WAF integration
+
+## rather than lift n shift lots of apps to IaaS ..... does this mean I can "conatinerise" my on-prem servers to AKS and I need less cores , etc as the cluster has less cores than individual legacy app server ?
+You containerize your apps and not the servers that host them, AKS then orchestrates the App for you depending on what you want it to do
+
+## I have 3 tier “app” so currently have 2 windows servers 4 cores each in different security zones, does this mean with containers I don’t have 3 windows servers of 4 cores (12 cores total) and the firewalls can be  microservices also running in AKS ?
+You package your apps into Containers and containers require less resources as compared to a VM, so you only need to spec how much your containers need and setup scaling rules to take care of load
+
+## How you differ aks with azure spring apps
+Spring Apps are primarily designed for Spring Boot / Apps while AKS is a container orchestrator giving you flexibility to choose what you want to run and host, its like Tanzu vs Kubernetes
+
+## 1. Is it possible to share - How to access/use AKS automatic service?
+https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-automatic-deploy?pivots=azure-portal
+
+## Is there a way to get the metric of traffic to going to both applications over a period of time? Not to check once via the browser or another pod.
+One of the things you can enable in AKS monitoring is Network Observability add-on. It helps you collect and analyse data about network traffic.
+
+## How much time before Scale up / Scale down happens ? Can the same be configured ?
+The stabilization window is a period during which the HPA waits before it scales down, to avoid rapid fluctuation in pod counts, by default its 300 seconds
+
+## is ingress controller same as application gateway in AKS? if not, which is better?
+Not quite - but they can work together. Ingress controller routes traffic based on rules defined in k8s ingress resources. App Gateway is a web traffic load balancer that enables you to manage traffic to your web app. We do have Application Gateway Ingress Controller that allows you to use App Gateway as the Ingress Controller for your clusters
+
+## how does it has 146% of CPU? did it add more CPU itself?
+When you see a CPU usage figure like 146% in the context of horizontal pod scaling in Kubernetes, it typically indicates that the CPU usage has exceeded the capacity of one CPU core.
+
+
+
 
 
 
