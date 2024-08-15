@@ -111,6 +111,7 @@ Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id
 
 ### Episode Resources:
 - [Green Software Foundation](https://greensoftware.foundation/)
+- [Green Software Foundation GitHub Page](https://github.com/Green-Software-Foundation)
 - [Sustainability from the datacenter to the cloud with Azure](https://www.microsoft.com/en-us/sustainability/azure)
 - [Well architected framework - Sustainable Workloads](https://learn.microsoft.com/en-us/azure/well-architected/sustainability/sustainability-get-started)
 - [How to architect software for a greener future](https://www.infoq.com/articles/architect-software-for-greener-future/)
