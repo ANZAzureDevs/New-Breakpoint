@@ -103,6 +103,11 @@ Not quite - but they can work together. Ingress controller routes traffic based 
 ## how does it has 146% of CPU? did it add more CPU itself?
 When you see a CPU usage figure like 146% in the context of horizontal pod scaling in Kubernetes, it typically indicates that the CPU usage has exceeded the capacity of one CPU core.
 
+## How long does it take for AKS to stand up an additional pod? Does the time depends on the size of CPU/Memory allocation/image size?
+The time to stand up an additional pod in AKS depends on node availability, image size, and resource requirements. Larger container images and the need for additional nodes due to resource constraints can significantly increase startup time, ranging from a few seconds to several minutes. Node autoscaling, if required, typically adds 3 to 7 minutes to the process.
+
+
+
 
 
 
