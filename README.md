@@ -88,4 +88,39 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 
+***
+![Green Software Episode](media/green.jpg)
+
+## 2024-08-08: New Breakpoint S4 Ep3 Code green: the intersection of software engineering and sustainability
+
+Join host Michelle Sandford, Developer Engagement Lead, as she investigates the emerging discipline of green software engineering with Sara Bergman, Senior Software Engineer at Microsoft Norway. 
+Sara is an advocate for green software practices, in her role at Microsoft as well as through contributions to the Green Software Foundation and as co-author of the book Building Green Software. 
+
+This episode highlights the importance of considering the environmental impact of software and how you can take steps to mitigate it through green software practices and sustainable development strategies. It provides insights into the intersection of software engineering and sustainability, along with practical tips to get you started:
+
+✅ How you can contribute to green software initiatives within your organisation and community.
+
+✅ The impact of software on hardware requirements and the importance of energy and hardware efficiency.
+
+✅ Practical steps software engineers can take in their work to design and build software with sustainability in mind.
+
+✅ How to engage in advocacy, education and thoughtful design as a practitioner of green software development.
+
+
+Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id=4006170917)
+
+### Episode Resources:
+- [Green Software Foundation](https://greensoftware.foundation/)
+- [Sustainability from the datacenter to the cloud with Azure](https://www.microsoft.com/en-us/sustainability/azure)
+- [Well architected framework - Sustainable Workloads](https://learn.microsoft.com/en-us/azure/well-architected/sustainability/sustainability-get-started)
+- [How to architect software for a greener future](https://www.infoq.com/articles/architect-software-for-greener-future/)
+- [Building Green Software O'Reilly Book](https://www.oreilly.com/library/view/building-green-software/9781098150617/)
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GreenSoftware #Sustainability #Azure #Rust
+
+
+
+
 
