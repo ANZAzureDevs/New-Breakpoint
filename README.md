@@ -91,7 +91,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 ***
 ![Green Software Episode](media/Green.jpg)
 
-## 2024-08-08: New Breakpoint S4 Ep3 Code green: the intersection of software engineering and sustainability
+## 2024-12-09: New Breakpoint S4 Ep3 Code green: the intersection of software engineering and sustainability
 
 Join host Michelle Sandford, Developer Engagement Lead, as she investigates the emerging discipline of green software engineering with Sara Bergman, Senior Software Engineer at Microsoft Norway. 
 Sara is an advocate for green software practices, in her role at Microsoft as well as through contributions to the Green Software Foundation and as co-author of the book Building Green Software. 
@@ -120,6 +120,27 @@ Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GreenSoftware #Sustainability #Azure #Rust
+
+![AI Sentry](media/AISentry.jpg)
+
+## 2024-10-10: New Breakpoint S4 Ep4 Scale smarter with AI-Sentry, a game-change for enterprise genAI
+
+In this episode, we dive under the hood of Microsoft’s open-sourced solution that helps enterprises scale their generative AI implementations. Microsoft AI Technical Specialist Rivaaj Jumna and Cloud Solution Architect Arian Nevjestic will demonstration how AI-Sentry is a game-changer for enterprises looking to securely scale genAI.
+
+✅ Configuration and setup of AI-Sentry
+
+✅ Scaling AI for Enterprise
+
+Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id=4006170917)
+
+### Episode Resources:
+- [AI Sentry]([https://greensoftware.foundation/](https://github.com/microsoft/ai-sentry))
+
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GreenSoftware #Sustainability #Azure #Rust
+
 
 
 
