@@ -89,7 +89,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 
 ***
-![Green Software Episode](media/green.jpg)
+![Green Software Episode](media/Green.jpg)
 
 ## 2024-08-08: New Breakpoint S4 Ep3 Code green: the intersection of software engineering and sustainability
 
