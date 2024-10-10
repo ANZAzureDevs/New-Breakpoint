@@ -121,7 +121,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GreenSoftware #Sustainability #Azure #Rust
 
-![AI Sentry](media/AISentry.jpg)
+![AI Sentry](media/AISentry.png)
 
 ## 2024-10-10: New Breakpoint S4 Ep4 Scale smarter with AI-Sentry, a game-change for enterprise genAI
 
@@ -134,7 +134,7 @@ In this episode, we dive under the hood of Microsoft’s open-sourced solution t
 Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id=4006170917)
 
 ### Episode Resources:
-- [AI Sentry]([https://greensoftware.foundation/](https://github.com/microsoft/ai-sentry))
+- [AI Sentry](https://github.com/microsoft/ai-sentry)
 
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
