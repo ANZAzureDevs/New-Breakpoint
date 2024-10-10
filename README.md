@@ -135,6 +135,7 @@ Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id
 
 ### Episode Resources:
 - [AI Sentry](https://github.com/microsoft/ai-sentry)
+- [APIM Management](https://learn.microsoft.com/en-us/azure/api-management/)
 
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
