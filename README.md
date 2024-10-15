@@ -165,6 +165,7 @@ Register to watch on demand: [On demand](https://aka.ma/New-Breakpoint)
 - [Microsoft GraphRAG Blog](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/?msockid=04eae7ff00416f3535a2f521011c6eb4)
 - [Microsoft GraphRAG on GitHub](https://github.com/microsoft/graphrag)
 - [GraphRAG Docs](https://microsoft.github.io/graphrag/)
+- [Microsoft GraphRAG Accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
