@@ -142,7 +142,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GreenSoftware #Sustainability #Azure #Rust
 
-![Beyond BaseRAG](media/RAG.jpg)
+![Beyond BaseRAG](media/GraphRAG.jpg)
 
 ## 2024-10-10: New Breakpoint S4 Ep5 SBeyond BaseRAG: using GraphRAG to get more from your GPT
 
