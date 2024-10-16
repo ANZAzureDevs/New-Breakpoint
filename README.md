@@ -146,18 +146,25 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2024-10-10: New Breakpoint S4 Ep5 SBeyond BaseRAG: using GraphRAG to get more from your GPT
 
-In this episode of New Breakpoint, Michelle Sandford and Graeme Foster delve deep into the world of RAG. Retrieval augmented generation (RAG) has emerged as a powerful technique for enhancing the capabilities of large language models (LLMs). By combining the strengths of traditional retrieval methods with the generative power of LLMs, RAG enables models to access and incorporate relevant information from external sources, leading to more accurate, informative and contextually relevant responses. But it has presented limitations. Enter GraphRAG. 
+In this episode of New Breakpoint, Michelle Sandford and Graeme Foster delve deep into the world of RAG. Retrieval augmented generation (RAG) has emerged as a powerful technique for enhancing the capabilities of large language models (LLMs). By combining the strengths of traditional retrieval methods with the generative power of LLMs, RAG enables models to access and incorporate relevant information from external sources, leading to more accurate, informative and contextually relevant responses. But it has presented limitations.
 
-Join us for a live demonstration of the transformative potential of GraphRAG. Witness its capabilities, learn how it can be applied to various use cases and discover the practical steps to implement this groundbreaking technology in your own projects.
+Enter GraphRAG. Join us for a live demonstration of the transformative potential of GraphRAG. Witness its capabilities, learn how it can be applied to various use cases and discover the practical steps to implement this groundbreaking technology in your own projects.
 
 Don’t miss this opportunity to learn:
 
 ✅	The challenges and limits of traditional RAG.
-✅	The power of knowledge graphs.
+
+✅	The power of knowledge graphs
+
 ✅	How GraphRAG leverages knowledge graphs to better understand the relationships between entities in a document, enhancing LLM responses.
+
 ✅	How to get started with GraphRAG using the Microsoft SDK.
 
+
 Whether you’re a seasoned developer or just starting out, this episode will equip you with the knowledge and tools to unlock the full potential of GraphRAG.
+
+Graeme will present insightful examples of how GraphRAG works taking you through its core building blocks. He’ll also provide an overview of the Microsoft SDK that makes it easier to implement GraphRAG.
+With pointers to additional resources and research, this engaging episode will get you off and running with a sound understanding of how to implement GraphRAG and what it can help your organisation achieve.
 
 Register to watch on demand: [On demand](https://aka.ma/New-Breakpoint)
 
