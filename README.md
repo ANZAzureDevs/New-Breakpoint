@@ -144,7 +144,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ![Beyond BaseRAG](media/GraphRAG.jpg)
 
-## 2024-10-10: New Breakpoint S4 Ep5 SBeyond BaseRAG: using GraphRAG to get more from your GPT
+## 2024-11-14: New Breakpoint S4 Ep5 SBeyond BaseRAG: using GraphRAG to get more from your GPT
 
 In this episode of New Breakpoint, Michelle Sandford and Graeme Foster delve deep into the world of RAG. Retrieval augmented generation (RAG) has emerged as a powerful technique for enhancing the capabilities of large language models (LLMs). By combining the strengths of traditional retrieval methods with the generative power of LLMs, RAG enables models to access and incorporate relevant information from external sources, leading to more accurate, informative and contextually relevant responses. But it has presented limitations.
 
