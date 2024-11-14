@@ -173,6 +173,7 @@ Register to watch on demand: [On demand](https://aka.ma/New-Breakpoint)
 - [Microsoft GraphRAG on GitHub](https://github.com/microsoft/graphrag)
 - [GraphRAG Docs](https://microsoft.github.io/graphrag/)
 - [Microsoft GraphRAG Accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
+- [Graeme Fosters GraphRAG Demo Repo](https://github.com/graemefoster/newbreakpoint-graphrag)
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
