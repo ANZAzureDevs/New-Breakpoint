@@ -179,6 +179,46 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GreenSoftware #Sustainability #Azure #Rust
 
+![Beyond BaseRAG](media/GraphRAG.jpg)
+
+## 2024-11-14: New Breakpoint S4 Ep5 Discover the exciting pawsibilities of PetAI – Petbarn’s new intelligent pet parent assistant
+
+In this episode, Michelle Sandford hosts a stellar panel who will delve into the birth of Petbarn's revolutionary AI-powered application. From the initial concept and Microsoft envisioning workshops to launch, explore the learnings derived from this innovative journey.
+ 
+This episode promises valuable tips along with a demo showcasing the future of AI within apps. Our expert guest panel is made up of Rory Watt, GM of Enterprise Product & Program for Greencross/Petbarn, Veli-Matti Vanamo from Insight and Jason Leong from Microsoft.
+ 
+Highlights include:
+
+✅ The inspiration behind Petbarn’s AI-powered app and what it will deliver for the business.
+
+✅ A deep dive into the proof-of-concept phase.
+
+✅ The technical build of the Petbarn app, highlighting crucial features and development challenges, the implementation and launch strategy, testing and learning, along with future scaling plans using Azure OpenAI to establish architecture for a multi-agent framework.
+
+✅ How your organisation can get involved with a Microsoft envisioning workshop.
+
+Don’t miss this episode that will bring you a practical vision for implementing and scaling in-app agent.
+
+Register to watch on demand: [Live Event](https://aka.ma/New-Breakpoint)
+Episode will appear on the Microsoft ANZ channel a few days after the event [New Breakpoint Season 4 on YouTube](https://youtube.com/playlist?list=PLz6RgUKX11CVjx1W8H_p3bnP90k2i7mBN&si=HjSM5VDO5cHlfZdk)
+
+### Episode Resources:
+- [Build AI Enabled Agents](https://learn.microsoft.com/en-us/azure/cosmos-db/ai-agents)
+- [Build Generative AI Solutions](https://learn.microsoft.com/en-us/azure/developer/ai/introduction-build-generative-ai-solutions)
+- [Develop AI Solutions with Azure OpenAI](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
+- [Step by Step guide to develop AI Multi-Agent system using Microsoft Semantic Kernel and GPT-4o](https://devblogs.microsoft.com/semantic-kernel/step-by-step-guide-to-develop-ai-multi-agent-system-using-microsoft-semantic-kernel-and-gpt-4o/)
+- [RAG Chat App with Azure AI Search](https://github.com/Azure-Samples/azure-search-openai-demo)
+- [Check out PetBarn Pet.AI on the website](https://www.petbarn.com.au/?gclid=ab3fb1f040aa178d14a8d6aa6967760a&utm_adgroupid=1143493776815590&msclkid=ab3fb1f040aa178d14a8d6aa6967760a&utm_source=bing&utm_medium=cpc&utm_campaign=Sparro%20%7C%20S%20%7C%20Petbarn%20Brand%20%7C%20Pure%20(new)&utm_term=petbarn&utm_content=Brand%20%7C%20Exact%20%7C%20Petbarn%20%7C%20Root)
+- [PetBarn Pet.ai app available in the Apple and Play store](https://www.petbarn.com.au/app?link=black_bar)
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GreenSoftware #Sustainability #Azure #Rust
+
+
+
+
+
 
 
 
