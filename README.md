@@ -179,7 +179,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GreenSoftware #Sustainability #Azure #Rust
 
-![Beyond BaseRAG](media/GraphRAG.jpg)
+![Pet.AI](media/petai.jfif)
 
 ## 2024-11-14: New Breakpoint S4 Ep5 Discover the exciting pawsibilities of PetAI – Petbarn’s new intelligent pet parent assistant
 
