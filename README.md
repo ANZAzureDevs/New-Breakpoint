@@ -140,7 +140,7 @@ Register to watch on demand: [On demand](https://msevents.microsoft.com/event?id
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
-#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GreenSoftware #Sustainability #Azure #Rust
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #Security #python #Azure #dotNET
 
 ![Beyond BaseRAG](media/GraphRAG.jpg)
 
@@ -177,7 +177,7 @@ Register to watch on demand: [On demand](https://aka.ma/New-Breakpoint)
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
-#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GreenSoftware #Sustainability #Azure #Rust
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GenAI #GraphRAG #Azure #Python
 
 ![Pet.AI](media/petai.jfif)
 
@@ -213,7 +213,7 @@ Episode will appear on the Microsoft ANZ channel a few days after the event [New
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
-#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GreenSoftware #Sustainability #Azure #Rust
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GenAI #Azure
 
 ![GitHub Productivity](https://github.com/ANZAzureDevs/New-Breakpoint/blob/7c04b7a2083aa805580f37dcfe6d4a0f0af48862/media/21346%20New%20Breakpoint_Ep6_GitHub_socials_V1.1_1080%20x%201080.jpg)
 
@@ -245,7 +245,9 @@ Don’t miss this opportunity to learn more about:
 [GitHub Spark](https://githubnext.com/projects/github-spark)
 [GitHub Spark User Manual](https://github.com/githubnext/github-spark-user-manual)
 
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #Productivity #Azure #GitHub
 
 
 
