@@ -181,7 +181,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ![Pet.AI](media/petai.jfif)
 
-## 2024-11-14: New Breakpoint S4 Ep5 Discover the exciting pawsibilities of PetAI – Petbarn’s new intelligent pet parent assistant
+## 2024-11-14: New Breakpoint S4 Ep6 Discover the exciting pawsibilities of PetAI – Petbarn’s new intelligent pet parent assistant
 
 In this episode, Michelle Sandford hosts a stellar panel who will delve into the birth of Petbarn's revolutionary AI-powered application. From the initial concept and Microsoft envisioning workshops to launch, explore the learnings derived from this innovative journey.
  
@@ -215,7 +215,26 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #GreenSoftware #Sustainability #Azure #Rust
 
+![GitHub Productivity](https://github.com/ANZAzureDevs/New-Breakpoint/blob/7c04b7a2083aa805580f37dcfe6d4a0f0af48862/media/21346%20New%20Breakpoint_Ep6_GitHub_socials_V1.1_1080%20x%201080.jpg)
 
+## 2025-02-14: New Breakpoint S4 Ep7 Embracing Developer Choice with GitHub’s Damian Brady
+
+This month's New Breakpoint episode with my special guest Damian Brady from GitHub on 13th Feb is a good way to keep up to date with all things GitHub Copilot
+
+Excitingly, we are broadcasting across Asia for the first time, airing at the following times:
+⌚ 9:00 AM - 10:00 AM (GMT +5:30) India
+⏰ 11:30 AM - 12:30 PM (GMT +8) Singapore
+⏲️ 4:30 PM - 5:30 PM (GMT+13:00) Auckland
+
+We will talk about how GitHub is embracing developer choice with Multi-Model Copilot, New App creation Tool GitHub Spark, and the AI-Native Developer Experience. From advancements to GitHub Copilot in VSCode to the next iteration of Copilot Workspace and GitHub Models, Damian will walk us through the AI-native and agentic developer experience powered by developer choice and control. 
+
+Don’t miss this opportunity to learn more about:
+✅ Multi-model GitHub Copilot
+⚡ GitHub Spark
+🧷 Copilot Autofix and security campaigns to fix vulnerabilities at scale
+🌻 Copilot Workspace
+
+### Episode Resources:
 
 
 
