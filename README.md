@@ -14,9 +14,9 @@ We would like to acknowledge that we record the show on the traditional lands of
 
 Season 4 kicked off July 2024. You can access it via the on-demand [Season 4](https://aka.ms/new-breakpoint) registration link
 
-[Season 1](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-01.md)
-[Season 2](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-02.md)
-[Season 3](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-03.md)
+- [Season 1](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-01.md)
+- [Season 2](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-02.md)
+- [Season 3](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-03.md)
 
 ***
 ![Aspire Episode](media/ScottHunter.jpg)
@@ -236,14 +236,14 @@ Don’t miss this opportunity to learn more about:
 
 ### Episode Resources:
 
-[GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
-[Developer use cases for AI with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/developer-use-cases-for-ai-with-github-copilot/)
-[5 tips and tricks when using GitHub Copilot Workspace](https://github.blog/ai-and-ml/github-copilot/5-tips-and-tricks-when-using-github-copilot-workspace/)
-[Multi-file editing, code review, custom instructions, and more](https://github.blog/changelog/2024-10-29-multi-file-editing-code-review-custom-instructions-and-more-for-github-copilot-in-vs-code-october-release-v0-22/)
-[GitHub Changelog - stay updated on all the new features](https://github.blog/changelog/)
-[GitHub Copilot Blog](https://github.blog/ai-and-ml/github-copilot/)
-[GitHub Spark](https://githubnext.com/projects/github-spark)
-[GitHub Spark User Manual](https://github.com/githubnext/github-spark-user-manual)
+- [GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
+- [Developer use cases for AI with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/developer-use-cases-for-ai-with-github-copilot/)
+- [5 tips and tricks when using GitHub Copilot Workspace](https://github.blog/ai-and-ml/github-copilot/5-tips-and-tricks-when-using-github-copilot-workspace/)
+- [Multi-file editing, code review, custom instructions, and more](https://github.blog/changelog/2024-10-29-multi-file-editing-code-review-custom-instructions-and-more-for-github-copilot-in-vs-code-october-release-v0-22/)
+- [GitHub Changelog - stay updated on all the new features](https://github.blog/changelog/)
+- [GitHub Copilot Blog](https://github.blog/ai-and-ml/github-copilot/)
+- [GitHub Spark](https://githubnext.com/projects/github-spark
+- [GitHub Spark User Manual](https://github.com/githubnext/github-spark-user-manual)
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
