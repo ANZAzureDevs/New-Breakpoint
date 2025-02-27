@@ -249,6 +249,39 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #Productivity #Azure #GitHub
 
+![Bicep with Meliisa Houghton](https://github.com/ANZAzureDevs/New-Breakpoint/blob/8f2963c5b7ec2b222a6aaae19a1112d0d7cb34aa/media/21346%20New%20Breakpoint_Ep7_Bicep_socials_V1.2_1200%20x%20627.jpg)
+
+## 2025-03-13: New Breakpoint S4 Ep8 Let Bicep do the heavy lifting for AI services to Azure
+
+This month's New Breakpoint episode with my special guest Damian Brady from GitHub on 13th Feb is a good way to keep up to date with all things GitHub Copilot
+
+Excitingly, we are broadcasting across Asia for the first time, airing at the following times:
+⌚ 9:00 AM - 10:00 AM (GMT +5:30) India
+⏰ 11:30 AM - 12:30 PM (GMT +8) Singapore
+⏲️ 4:30 PM - 5:30 PM (GMT+13:00) Auckland
+
+Developers, get ready to level up your Azure deployment skills with Bicep! Join us for an insightful session where Melissa Houghton, Microsoft MVP in Developer Technologies, teams up with our host Michelle Sandford to share her expertise on how Bicep can save you time and reduce stress. With its templated and reusable components and modules, Bicep enables repeatable, standardized deployment of your code and resources. 
+
+In this episode, Melissa will guide you through deploying AI services to Azure using Bicep. She’ll also help you troubleshoot any challenges you might encounter. With Melissa's step-by-step demos, you'll quickly build your deployment muscle. 
+
+Tune in for this on-screen demo of AI services provisioning with Bicep – from go to whoa. 
+
+Plus, you can ask Melissa questions live! Find out exactly what you need to know about Bicep and Azure AI deployment. It’s your chance to get tips and fixes that will save you time and your sanity. You’re welcome! 
+
+### Episode Resources:
+
+- [What is Bicep](https://aka.ms/azfr/734/01 )
+- [Create an Azure AI Services Resource using Bicep](https://learn.microsoft.com/en-us/azure/ai-services/create-account-bicep?tabs=CLI)
+- [Azure / bicep on GitHub](https://aka.ms/azfr/734/02)
+- [Frequently asked questions for Bicep](https://aka.ms/azfr/734/04 )
+- [Simple FastAPI AZD Template](https://github.com/Azure-Samples/azd-simple-fastapi-appservice)
+- [Simple Flask AZD Template](https://github.com/Azure-Samples/azd-simple-flask-appservice)
+- [Use Bicep to deploy your Azure](https://www.youtube.com/playlist?list=PLlrxD0HtieHjzqIRjPoERUGj49rve3rCM)
+- [Tips for writing Bicep Files for Azure Deployment](https://blog.pamelafox.org/2023/01/tips-for-writing-bicep-files-for-azure.html)
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #Productivity #Azure #GitHub
 
 
 
