@@ -253,7 +253,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 ## 2025-03-13: New Breakpoint S4 Ep8 Let Bicep do the heavy lifting for AI services to Azure
 
-This month's New Breakpoint episode with my special guest Damian Brady from GitHub on 13th Feb is a good way to keep up to date with all things GitHub Copilot
+This month's New Breakpoint episode with my special guest Melissa Houghton from MakerX on 13th March is a good way to keep up to date with all things Bicep
 
 Excitingly, we are broadcasting across Asia for the first time, airing at the following times:
 ⌚ 9:00 AM - 10:00 AM (GMT +5:30) India
@@ -283,6 +283,38 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #Productivity #Azure #GitHub
 
+![Explore the Power of GitHub Actions with Haimantika Mitra](https://github.com/ANZAzureDevs/New-Breakpoint/blob/f5d049419a18f67b412d5ead4843f482da01588f/media/21346%20New%20Breakpoint_Ep8_GitHub%20Actions_socials_V1.1_1200%20x%20627.png)
+
+## 2025-04-10: Explore the Power of GitHub Actions with Haimantika Mitra
+
+This month's New Breakpoint episode with my special guest Haimantika Mitra from Digital Ocean on 10th April is a good way to keep up to date with all things GitHub Actions
+
+Excitingly, we are broadcasting across Asia for the first time, airing at the following times:
+⌚ 9:00 AM - 10:00 AM (GMT +5:30) India
+⏰ 11:30 AM - 12:30 PM (GMT +8) Singapore
+⏲️ 4:30 PM - 5:30 PM (GMT+13:00) Auckland
+
+Keen to get in on the action? Microsoft MVP Haimantika Mitra is going to supercharge your workflows and opportunities with GitHub Actions and open-source contributions. 
+
+The next episode of New Breakpoint is your go-to guide to GitHub Actions, getting the most from open-source communities and how to ace Hacktoberfest for the biggest career boost. 
+
+And we’ll demo how to build your own AI to write up your technical documentation.
+
+
+### Episode Resources:
+
+- [Building an AI Article Reviewer using GenAI Platform and GitHub](https://www.digitalocean.com/community/tutorials/ai-article-reviewer-genai-platform-github)
+- [Create an Azure AI Services Resource using Bicep](https://learn.microsoft.com/en-us/azure/ai-services/create-account-bicep?tabs=CLI)
+- [Automate your workflow with GitHub Actions](https://learn.microsoft.com/en-us/training/paths/github-actions/)
+- [Introduction to GitHub Actions](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-actions/)
+- [GitHub Actions Certification Learning Path](https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5?WT.mc_id=academic-144571-cyzanon)
+- [Hacktoberfest](https://hacktoberfest.com/)
+- [Introduction to Open-Source](https://www.digitalocean.com/community/tutorial-series/an-introduction-to-open-source)
+- [Implement open-source software](https://learn.microsoft.com/en-us/training/modules/implement-open-source-software-azure/)
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #Productivity #Azure #GitHub
 
 
 
