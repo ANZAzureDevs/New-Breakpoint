@@ -316,7 +316,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #Productivity #Azure #GitHub
 
-![Championing inclusivity, fostering diversity, and building accessibility into your code](https://github.com/ANZAzureDevs/New-Breakpoint/blob/f5d049419a18f67b412d5ead4843f482da01588f/media/Ep9.jpj)
+![Championing inclusivity, fostering diversity, and building accessibility into your code](https://github.com/ANZAzureDevs/New-Breakpoint/blob/0076b69b79c2a873bb9f3617ee75b370e71cf8ca/media/Ep9.jpg)
 
 ## 2025-05-08: New Breakpoint S4 Ep 31: Championing inclusivity, fostering diversity, and building accessibility into your code
 
@@ -342,7 +342,7 @@ We’ll also dig into the benefits of accessibility – how it accommodates not 
 - [Accessibility Fundamentals Training](https://learn.microsoft.com/en-us/training/paths/accessibility-fundamental/)
 - [Introduction to Inclusive Design](https://learn.microsoft.com/en-us/training/paths/introduction-to-inclusive-design-practice/)
 - [Autism Academy](https://research.curtin.edu.au/research-infrastructure/autism-academy/)
-- [GOSH Hackathon]([https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5?WT.mc_id=academic-144571-cyzanon](https://www.goshackathon.au/)
+- [GOSH Hackathon](https://www.goshackathon.au/)
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
