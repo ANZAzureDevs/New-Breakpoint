@@ -316,5 +316,40 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #Productivity #Azure #GitHub
 
+![Championing inclusivity, fostering diversity, and building accessibility into your code](https://github.com/ANZAzureDevs/New-Breakpoint/blob/f5d049419a18f67b412d5ead4843f482da01588f/media/Ep9.jpj)
+
+## 2025-05-08: New Breakpoint S4 Ep 31: Championing inclusivity, fostering diversity, and building accessibility into your code
+
+This month's New Breakpoint episode with my special guest Haimantika Mitra from Digital Ocean on 10th April is a good way to keep up to date with all things GitHub Actions
+
+Excitingly, we are broadcasting across Asia for the first time, airing at the following times:
+⌚ 10:00 AM - 10:30 AM (GMT+5:30) India
+⏰ 12:30 PM - 01:30 PM (GMT+8:00) Singapore
+⏲️ 4:30 PM - 5:30 PM (GMT+12:00) Auckland
+
+To mark Global Accessibility Awareness Day, we’re devoting May’s episode to celebrating accessibility in the workplace and in our work. Host Michelle Sandford, Microsoft Developer Engagement Lead, ANZ & Asia, will lead a fascinating conversation with two guests who are helping people find success by encouraging them to learn and work in ways that best suit their abilities.
+
+We welcome Michelle Wong, the founder of CoderDojo code club for neurodivergent kids in Mandurah, Western Australia, and Sarah James, Director Insights and Data at Capgemini, who’s also a club mentor and board member of Autism Academy at Curtin University.
+
+We’ll shine a light on the personal and business value of creating an engaging and supportive environment that nurtures diverse skills. Michelle and Sarah will share their insights on the role of mentorship in these initiatives. They’ve encouraged successful technology careers among young people by creating places where they can explore and share their passions in ways that best suit them.
+
+We’ll also dig into the benefits of accessibility – how it accommodates not the few, but the many. Accessibility features, such as subtitles, initially designed for a small percentage of users, have proven to benefit broad audiences, making life easier and better for all. We’ll share approaches and resources that will help you build accessibility into your code from the ground up – saving you time in the long run and making your creations more useful to many more people.
+
+
+### Episode Resources:
+
+- [Prompting GitHub Copilot Chat to become your personal AI assistant for accessibility](https://github.blog/2023-10-09-prompting-github-copilot-chat-to-become-your-personal-ai-assistant-for-accessibility/)
+- [Accessibility Fundamentals Training](https://learn.microsoft.com/en-us/training/paths/accessibility-fundamental/)
+- [Introduction to Inclusive Design](https://learn.microsoft.com/en-us/training/paths/introduction-to-inclusive-design-practice/)
+- [Autism Academy](https://research.curtin.edu.au/research-infrastructure/autism-academy/)
+- [GOSH Hackathon]([https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5?WT.mc_id=academic-144571-cyzanon](https://www.goshackathon.au/)
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #Productivity #Azure #GitHub
+
+
+
+
 
 
