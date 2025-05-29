@@ -348,7 +348,7 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #Productivity #Azure #GitHub
 
-![Phi4 Small Language Models with Kinfey Lo](https://github.com/ANZAzureDevs/New-Breakpoint/blob/0076b69b79c2a873bb9f3617ee75b370e71cf8ca/media/phi4.jpg)
+![Phi4 Small Language Models with Kinfey Lo](https://github.com/ANZAzureDevs/New-Breakpoint/blob/ff0c63c5d7044e9aa7dd5c207320494af36da74c/media/phi4.jpg)
 
 ## 2025-05-08: New Breakpoint S4 Ep 32: Phi4 Small Language Models with Kinfey Lo
 
