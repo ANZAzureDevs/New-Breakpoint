@@ -348,6 +348,29 @@ If you enjoyed the episode and want more content like it? Try our monthly develo
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #Productivity #Azure #GitHub
 
+![Phi4 Small Language Models with Kinfey Lo](https://github.com/ANZAzureDevs/New-Breakpoint/blob/0076b69b79c2a873bb9f3617ee75b370e71cf8ca/media/phi4.jpg)
+
+## 2025-05-08: New Breakpoint S4 Ep 32: Phi4 Small Language Models with Kinfey Lo
+
+This month's New Breakpoint episode with my special guest Kinfey Lo Microsoft Senior Developer Advocate from China
+
+Excitingly, we are broadcasting across Asia, airing at the following times:
+⌚ 10:00 AM - 10:30 AM (GMT+5:30) India
+⏰ 12:30 PM - 01:30 PM (GMT+8:00) Singapore
+⏲️ 4:30 PM - 5:30 PM (GMT+12:00) Auckland
+
+
+- [AI Foundry](https://aka.ms/try-phi)
+- [Phi4 Cookbook](https://aka.ms/phicookbook)
+- [One Year of Phi](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/)
+- [Foundry Local](https://learn.microsoft.com/en-gb/azure/ai-foundry/foundry-local/)
+- [Azure MCP Server](https://github.com/Azure/azure-mcp/)
+- [Finetuning Workshop](https://github.com/microsoft/BUILD25-LAB329?ocid=Build25_githubrepo)
+- [Phi4 on Edge](https://aka.ms/PhiReasoningEdge)
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #Productivity #Azure #GitHub
 
 
 
