@@ -368,7 +368,9 @@ Excitingly, we are broadcasting across Asia, airing at the following times:
 - [Finetuning Workshop](https://github.com/microsoft/BUILD25-LAB329?ocid=Build25_githubrepo)
 - [Phi4 on Edge](https://aka.ms/PhiReasoningEdge)
 - [Onnx Runtime GenAI](https://github.com/microsoft/onnxruntime-genai)
+- [Finetune Models using standard deployments in AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/fine-tune-serverless?tabs=chat-completion&pivots=foundry-portal)
 - [Slides](https://github.com/ANZAzureDevs/New-Breakpoint/blob/9d5cf849410c695c5bce2c62eb5ccca5c4ce6cb6/media/phi-family%202.pdf)
+
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
