@@ -367,6 +367,8 @@ Excitingly, we are broadcasting across Asia, airing at the following times:
 - [Azure MCP Server](https://github.com/Azure/azure-mcp/)
 - [Finetuning Workshop](https://github.com/microsoft/BUILD25-LAB329?ocid=Build25_githubrepo)
 - [Phi4 on Edge](https://aka.ms/PhiReasoningEdge)
+- [Onnx Runtime GenAI](https://github.com/microsoft/onnxruntime-genai)
+- [Slides]()
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
