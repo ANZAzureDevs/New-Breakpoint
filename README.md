@@ -34,7 +34,7 @@ Discover the Agent-to-Agent (A2A) protocol, agent cards, secure messaging, and t
 Register to watch the broadcast: [Live Broadcast](https://msit.events.teams.microsoft.com/event/3eb9fde0-9384-467d-a564-c6dd4cf3e7d1@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 ### Episode Resources:
-- [A2A (Agent-to-Agent) Protocol](https://learn.microsoft.com/en-us/microsoftteams/platform/teams-ai-library/typescript/in-depth-guides/ai/a2a/overview)
+- [A2A (Agent-to-Agent) Protocol for Typescript - preview](https://learn.microsoft.com/en-us/microsoftteams/platform/teams-ai-library/typescript/in-depth-guides/ai/a2a/overview)
 - [Empowering multi-agent apps with the open Agent2Agent A2A protocol](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/05/07/empowering-multi-agent-apps-with-the-open-agent2agent-a2a-protocol/?msockid=25ceecc3938666823d16f909921a6792)
 - [Integrating Semantic Kernel Python with Google’s A2A Protocol](https://devblogs.microsoft.com/foundry/semantic-kernel-a2a-integration/)
 - [Azure AI Foundry Agent Service documentation](https://learn.microsoft.com/en-gb/azure/ai-foundry/agents/)
