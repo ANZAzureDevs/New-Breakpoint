@@ -40,6 +40,7 @@ Register to watch the broadcast: [Live Broadcast](https://msit.events.teams.micr
 - [Azure AI Foundry Agent Service documentation](https://learn.microsoft.com/en-gb/azure/ai-foundry/agents/)
 - [A2A protocol in Microsoft Azure](https://www.byteplus.com/en/topic/551578?title=a2a-protocol-in-microsoft-azure-implementation-guide)
 - [The A2A Project](https://a2aproject.github.io/A2A/latest/)
+- [The A2A Project on GitHub](https://github.com/a2aproject/A2A)
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
