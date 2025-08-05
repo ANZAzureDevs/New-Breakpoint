@@ -44,5 +44,31 @@ Register to watch the broadcast: [Live Broadcast](https://msit.events.teams.micr
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 
+![Agentic LEGO](https://github.com/ANZAzureDevs/New-Breakpoint/blob/7655068a367b37205ab79d210b04d5a15177c3ee/media/21346%20New%20Breakpoint_Ep10_Phi-4%20Models_V1.ai.png)
+
+## 2025-08-14: New Breakpoint S5 Ep 2: Agents with Purpose - GenAI Meets LEGO
+
+
+What happens when GenAI meets robotics? In this episode, Daniel Fang walks us through how large language models can be transformed into intelligent agents that understand user intent, generate Python code, and control LEGO Spike Prime robots in real time.
+🔍 Key takeaways for enterprise tech leaders:
+
+- Architecting agentic AI systems that plan, reason, and act
+- Integrating GPT with physical devices for real-world feedback loops
+- Building scalable, student-friendly AI apps on Azure
+- Inspiring the next generation of developers through hands-on learning
+
+💡 Whether you're exploring AI in education, edge computing, or human-machine interaction, this episode offers practical insights into building intelligent, responsive systems that bridge the digital and physical worlds.
+📅 Thursday 14th August 13:00 GMT+8
+
+Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.com/en-us/reactor/events/26158/)
+
+### Episode Resources:
+- [LEGO Agent Repo](https://github.com/qkfang/lego-agent)
+- [Microsoft Build: Scott and Mark Learn to...LIVE](https://build.microsoft.com/en-US/sessions/KEY040)
+- [Microsoft Build: Best practices for building agentic apps with Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK152)
+- [LEGO Education - Spike Prime 3](https://education.lego.com/en-au/)
+- [Create Agentic AI solutions by using Azure AI Foundry](https://learn.microsoft.com/en-us/plans/op8ugtzy32mz)
+- [AI Agents for Beginners](https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/)
+
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 
