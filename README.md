@@ -43,8 +43,9 @@ Register to watch the broadcast: [Live Broadcast](https://msit.events.teams.micr
 - [The A2A Project on GitHub](https://github.com/a2aproject/A2A)
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+***
 
-![Agentic LEGO](https://github.com/ANZAzureDevs/New-Breakpoint/blob/7655068a367b37205ab79d210b04d5a15177c3ee/media/21346%20New%20Breakpoint_Ep10_Phi-4%20Models_V1.ai.png)
+![Agentic LEGO](https://github.com/ANZAzureDevs/New-Breakpoint/blob/fe2b9a37a2bb389c9c41621b1eb296b5ccbbb486/media/Agents%20with%20purpose.png)
 
 ## 2025-08-14: New Breakpoint S5 Ep 2: Agents with Purpose - GenAI Meets LEGO
 
