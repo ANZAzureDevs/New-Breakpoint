@@ -70,6 +70,7 @@ Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.co
 - [LEGO Education - Spike Prime 3](https://education.lego.com/en-au/)
 - [Create Agentic AI solutions by using Azure AI Foundry](https://learn.microsoft.com/en-us/plans/op8ugtzy32mz)
 - [AI Agents for Beginners](https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/)
+- [Lego Robotics League](https://www.youtube.com/redirect?event=live_chat&redir_token=QUFFLUhqbXh0aTJJQ0ktejM4c2lVcWZfNmpxaTk1TzJnd3xBQ3Jtc0trUHdWX3V3MWlJeXRBSUgxbnhBQ1pPSzRDNXFKTHZJaEhjRDZjc29nX3duZWEtbm5zaHNkSk9GTWNja3BQRFBYejZQazBDT196bzNZUl81M0J6bHd2Q1ZlMG1iX3FGemNFSmlLOXpDaEoyT3YySWVLTQ&q=https%3A%2F%2Fwww.firstlegoleague.org%2F)
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 
