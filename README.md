@@ -95,10 +95,10 @@ Join host Michelle Sandford as she welcomes Randy Bias and Bharath Nallapeta fro
 
 ### Episode Resources:
 
-[Microsoft Learn Platform Engineering Resources](https://learn.microsoft.com/en-us/platform-engineering/)
-[Foundations of Platform Engineering](https://learn.microsoft.com/en-us/training/modules/foundations-platform-engineering/?source=recommendations)
-[DevOps Engineers Training Plan](https://learn.microsoft.com/en-us/plans/6ey7h68p2zk3j2?source=docs)
-[k0rdent GitHub Repo](https://github.com/k0rdent)
-[KCM](https://github.com/k0rdent/kcm)
-[k0rdent Catalogue](https://github.com/k0rdent/catalog) 
-[k0rdent Webpage](https://k0rdent.io/)
+- [Microsoft Learn Platform Engineering Resources](https://learn.microsoft.com/en-us/platform-engineering/)
+- [Foundations of Platform Engineering](https://learn.microsoft.com/en-us/training/modules/foundations-platform-engineering/?source=recommendations)
+- [DevOps Engineers Training Plan](https://learn.microsoft.com/en-us/plans/6ey7h68p2zk3j2?source=docs)
+- [k0rdent GitHub Repo](https://github.com/k0rdent)
+- [KCM](https://github.com/k0rdent/kcm)
+- [k0rdent Catalogue](https://github.com/k0rdent/catalog)
+- [k0rdent Webpage](https://k0rdent.io/)
