@@ -73,3 +73,24 @@ Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.co
 - [Lego Robotics League](https://www.firstlegoleague.org/)
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 
+
+![Platform Egineering](https://github.com/ANZAzureDevs/New-Breakpoint/blob/c087b113467bf288dc3c2b6cf376cff90e02a26e/media/1756422002021.jpg)
+
+## 2025-09-11: New Breakpoint S5 Ep 3: Agents with Purpose - GenAI Meets LEGO
+
+Kubernetes is the new normal—but what’s next?
+
+Join host Michelle Sandford as she welcomes Randy Bias and Bharath Nallapeta from Mirantis for a bold conversation on the evolution of platform engineering in the AI era.
+
+💡 From deploying GPU-enabled clusters on Azure to orchestrating AI workloads with open-source tools like Cordant, this episode is packed with insights and a live demo you won’t want to miss.
+
+🔍 Topics include:
+• The shift from DevOps to platform engineering
+• Balancing open-source innovation with enterprise reliability
+• How AI is transforming observability, automation, and developer experience
+
+💬 Live Q&A included — bring your questions!
+
+📍 Add to your calendar and join us live! https://msft.it/6042sw2I4
+
+### Episode Resources:
