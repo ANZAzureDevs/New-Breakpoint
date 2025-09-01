@@ -76,7 +76,7 @@ Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.co
 
 ![Platform Egineering](https://github.com/ANZAzureDevs/New-Breakpoint/blob/c087b113467bf288dc3c2b6cf376cff90e02a26e/media/1756422002021.jpg)
 
-## 2025-09-11: New Breakpoint S5 Ep 3: Agents with Purpose - GenAI Meets LEGO
+## 2025-09-11: New Breakpoint S5 Ep 3: Platform Engineering in the age of AI
 
 Kubernetes is the new normal—but what’s next?
 
