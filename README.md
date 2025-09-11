@@ -102,3 +102,4 @@ Join host Michelle Sandford as she welcomes Randy Bias and Bharath Nallapeta fro
 - [KCM](https://github.com/k0rdent/kcm)
 - [k0rdent Catalogue](https://github.com/k0rdent/catalog)
 - [k0rdent Webpage](https://k0rdent.io/)
+- [Azure SRE Agent](https://share.google/7QGFOsahmpWqBp97l)
