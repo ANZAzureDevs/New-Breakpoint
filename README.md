@@ -136,4 +136,13 @@ Join host Michelle Sandford in this episode of New Breakpoint, where we welcome 
 - [Create OpenAI powered Agents using MCP](https://learn.microsoft.com/en-us/azure/developer/ai/build-openai-mcp-server-dotnet)
 - [Introduction to AI agent orchestration patterns](https://learn.microsoft.com/en-us/training/modules/agent-orchestration-patterns/)
 - [uild a multiple-agent workflow automation solution with Semantic Kernel](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/multiple-agent-workflow-automation)
+- [AI Foundry Agent using MCP Tools](https://github.com/rakeshl4/aifoundryagent-mcp-tools)
+- [Samples - Azure AI Agents](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/ai/Azure.AI.Agents.Persistent/samples)
+- [MCP Documentation](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [MCP Servers](https://github.com/modelcontextprotocol/servers)
+- [AI Agent Workshop](https://binarytrails-ai.github.io/aiagent-workshop/)
+- [Binary Trails Blog](https://binarytrails.com/)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
+
 
