@@ -30,8 +30,9 @@ Discover the Agent-to-Agent (A2A) protocol, agent cards, secure messaging, and t
  
 🎯 Perfect for developers, architects, and tech enthusiasts ready to talk nerdy and think big.
 
-
 Register to watch the broadcast: [Live Broadcast](https://msit.events.teams.microsoft.com/event/3eb9fde0-9384-467d-a564-c6dd4cf3e7d1@72f988bf-86f1-41af-91ab-2d7cd011db47)
+
+[Watch it on demand on YouTube](https://youtu.be/bS2NJOqHwtI?si=vbtHpJOQ44yQfu8D)
 
 ### Episode Resources:
 - [A2A (Agent-to-Agent) Protocol for Typescript - preview](https://learn.microsoft.com/en-us/microsoftteams/platform/teams-ai-library/typescript/in-depth-guides/ai/a2a/overview)
@@ -62,6 +63,7 @@ What happens when GenAI meets robotics? In this episode, Daniel Fang walks us th
 📅 Thursday 14th August 13:00 GMT+8
 
 Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.com/en-us/reactor/events/26158/)
+[Watch it on demand on YouTube](https://www.youtube.com/live/zvhMV0pqP00?si=0m5rAqUic6cp_e70)
 
 ### Episode Resources:
 - [LEGO Agent Repo](https://github.com/qkfang/lego-agent)
@@ -92,6 +94,7 @@ Join host Michelle Sandford as she welcomes Randy Bias and Bharath Nallapeta fro
 💬 Live Q&A included — bring your questions!
 
 📍 Add to your calendar and join us live! https://msft.it/6042sw2I4
+[Watch it on demand on YouTube](https://www.youtube.com/live/AU9N1hIhXqA?si=_HZcW0vLawYCSs9w)
 
 ### Episode Resources:
 
@@ -102,5 +105,35 @@ Join host Michelle Sandford as she welcomes Randy Bias and Bharath Nallapeta fro
 - [KCM](https://github.com/k0rdent/kcm)
 - [k0rdent Catalogue](https://github.com/k0rdent/catalog)
 - [k0rdent Webpage](https://k0rdent.io/)
-- [Azure SRE Agent](https://share.google/7QGFOsahmpWqBp97l)
+- [Azure SRE Agent](https://share.google/7QGFOsahmpWqBp97l)  
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
+
+![AI Toolkit]()
+
+## 2025-10-09: New Breakpoint S5 Ep 4: Agents, Orchestration & MCP: Peeking Inside the AI Toolkit
+
+Join host Michelle Sandford in this episode of New Breakpoint, where we welcome Rakesh Lakshminarayana, Principal Architect at Agile Insights, to unpack the building blocks of intelligent applications. From model selection and prompt engineering to context management and multiagent orchestration, Rakesh walks us through the latest advancements in AI development. Discover how tools like MCP enhance model capabilities, explore best practices for testing and evaluation, and dive into a hands-on demo using Azure AI Foundry to build a custom AI assistant. Whether you're just starting out or looking to refine your approach, this session is packed with insights, resources, and practical guidance to help you build smarter, more effective AI solutions.  
+
+🔍 Topics include:
+• The building blocks for building Intelligent applications  
+• Context Model Management  
+• What problems does MCP solve?  
+• Testing and Evaluating Intelligent Apps  
+
+💬 Live Q&A included — bring your questions!
+
+📍 Add to your calendar and join us live! 
+[Watch it on demand on YouTube](https://youtube.com/playlist?list=PLmsFUfdnGr3ze8f8F1dx2yTm5Bwec5_X9&si=DT4viIpFBNInGLkS)
+
+### Episode Resources:
+
+- [Develop AI apps using Azure services](https://learn.microsoft.com/en-us/azure/developer/ai/azure-ai-for-developers)
+- [Build Agents using Model Context Protocol on Azure](https://learn.microsoft.com/en-us/azure/developer/ai/intro-agents-mcp)
+- [AI agent orchestration patterns](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/ai-agent-design-patterns)
+- [Secure your AI App with keyless authentication](https://learn.microsoft.com/en-us/azure/developer/ai/get-started-securing-your-ai-app)
+- [Evaluate your Chat App](https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-evaluations)
+- [Create OpenAI powered Agents using MCP](https://learn.microsoft.com/en-us/azure/developer/ai/build-openai-mcp-server-dotnet)
+- [Introduction to AI agent orchestration patterns](https://learn.microsoft.com/en-us/training/modules/agent-orchestration-patterns/)
+- [uild a multiple-agent workflow automation solution with Semantic Kernel](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/multiple-agent-workflow-automation)
 
