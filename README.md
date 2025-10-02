@@ -109,7 +109,7 @@ Join host Michelle Sandford as she welcomes Randy Bias and Bharath Nallapeta fro
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 
-![AI Toolkit]()
+![AI Toolkit](https://github.com/ANZAzureDevs/New-Breakpoint/blob/3f75863d9e6b97afd9b0d2c56606e4f01a3a1131/media/NB%20S5%20E4.jpg)
 
 ## 2025-10-09: New Breakpoint S5 Ep 4: Agents, Orchestration & MCP: Peeking Inside the AI Toolkit
 
