@@ -143,6 +143,7 @@ Join host Michelle Sandford in this episode of New Breakpoint, where we welcome 
 - [AI Agent Workshop](https://binarytrails-ai.github.io/aiagent-workshop/)
 - [Binary Trails Blog](https://binarytrails.com/)
 - [RAG Overview](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview?tabs=docs)
+- [RAG Grounding](https://learn.microsoft.com/en-us/azure/search/search-get-started-rag)
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 
