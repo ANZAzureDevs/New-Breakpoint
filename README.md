@@ -147,4 +147,28 @@ Join host Michelle Sandford in this episode of New Breakpoint, where we welcome 
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 
+![GitHub Copilot CLI](https://github.com/ANZAzureDevs/New-Breakpoint/blob/3f75863d9e6b97afd9b0d2c56606e4f01a3a1131/media/NB%20S5%20E4.jpg)
+
+## 2025-11-13: Breakpoint S5 Ep5 - Supercharging your terminal with GitHub Copilot CLI
+
+Join host Michelle Sandford in this episode of New Breakpoint, where we welcome Scott Holden, Developer Solution Engineer Lead, to show how GitHub Copilot has revolutionized how we code by bringing agent powered assistance directly into our editors. Now, that same magic is coming to your terminal unlocking a new level of speed, precision, and automation for command-line workflows. In this session we will take a deep dive into GitHub Copilot CLI, how to get the best use out of it from your terminal, how to unlock the power of MCPs from the CLI in a secure manner, and a peek at automating GitHub Copilot CLI via programmatic mode.  
+
+🔍 Topics include:
+• Guiding you through the common GitHub Copilot CLI commands  
+• Exploring configuration options enabling you to make the most of GitHub Copilot directly from your terminal  
+
+💬 Live Q&A included — bring your questions!
+
+📍 Add to your calendar and join us live! 
+[Watch it on demand on YouTube](https://youtube.com/playlist?list=PLmsFUfdnGr3ze8f8F1dx2yTm5Bwec5_X9&si=IXNldaFqmgqZ5wbh)
+
+### Episode Resources:
+
+- [GitHub Copilot Across Environments: IDE, Chat, GitHub.com, and Command Line Techniques](https://learn.microsoft.com/en-us/training/modules/github-copilot-across-environments/)
+- [GitHub Copilot CLI: How to get started](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/)
+- [About GitHub Copilot CLI](https://docs.github.com/en/copilot/concepts/agents/about-copilot-cli)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
+
+
 
