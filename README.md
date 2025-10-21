@@ -147,7 +147,7 @@ Join host Michelle Sandford in this episode of New Breakpoint, where we welcome 
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 
-![GitHub Copilot CLI](https://github.com/ANZAzureDevs/New-Breakpoint/blob/3f75863d9e6b97afd9b0d2c56606e4f01a3a1131/media/NB%20S5%20E4.jpg)
+![GitHub Copilot CLI](https://github.com/ANZAzureDevs/New-Breakpoint/blob/7b60b514508ec636cb2fb6d558d3a891d84086ef/media/GHCP%20CLI%201.webp)
 
 ## 2025-11-13: Breakpoint S5 Ep5 - Supercharging your terminal with GitHub Copilot CLI
 
