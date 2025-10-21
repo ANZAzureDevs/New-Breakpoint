@@ -153,7 +153,7 @@ Join host Michelle Sandford in this episode of New Breakpoint, where we welcome 
 
 Join host Michelle Sandford in this episode of New Breakpoint, where we welcome Scott Holden, Developer Solution Engineer Lead, to show how GitHub Copilot has revolutionized how we code by bringing agent powered assistance directly into our editors. Now, that same magic is coming to your terminal unlocking a new level of speed, precision, and automation for command-line workflows. In this session we will take a deep dive into GitHub Copilot CLI, how to get the best use out of it from your terminal, how to unlock the power of MCPs from the CLI in a secure manner, and a peek at automating GitHub Copilot CLI via programmatic mode.  
 
-🔍 Topics include:
+🔍 Topics include:  
 • Guiding you through the common GitHub Copilot CLI commands  
 • Exploring configuration options enabling you to make the most of GitHub Copilot directly from your terminal  
 
