@@ -171,4 +171,75 @@ Join host Michelle Sandford in this episode of New Breakpoint, where we welcome 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
 
 
+![Azure Static Web Apps for the Enterprise with Stacy Cashmore](https://github.com/ANZAzureDevs/New-Breakpoint/blob/294c43944bde01ed5420142f01dccad16a4bb477/media/1764741011991.jpg)
+
+## 2025-11-13: Breakpoint S5 Ep6 - Azure Static Web Apps for the Enterprise  
+
+Think Azure Static Web Apps are just for hobby sites? Not anymore.  
+
+Join Microsoft Microsoft Most Valuable Professional, Stacy Cashmore and Me! - Your host Michelle Sandford at Øredev Developers Conference as we show you how to:  
+
+• Automate deployments with Infrastructure as Code  
+• Customize pipelines for unit testing & multi-environment builds  
+• Implement Custom Authentication using Auth0 + Azure Functions  
+• Use GitHub Codespaces & Actions for enterprise-ready workflows  
+
+Packed with live demos, this session will help you build secure, scalable apps for real-world enterprise needs.  
+
+💬 Live Q&A included — bring your questions!  
+
+📍 Add to your calendar and join us live! 
+[Watch it on demand on YouTube](https://msft.it/6046tTLrY)
+
+### Episode Resources:
+
+- [Azure Static Web App Documentation](https://learn.microsoft.com/en-us/azure/static-web-apps/)
+- [az staticwebapp documentation](https://learn.microsoft.com/en-us/cli/azure/staticwebapp?view=azure-cli-latest)
+- [SWA CLI](https://azure.github.io/static-web-apps-cli/)
+
+- ## Examples
+
+### A Bit of Everything
+
+The example below shows the code for building both out of the box, and custom auth Azure static web apps using Blazor, .NET functions and authentication
+
+- [SWA Start to Finish](https://github.com/StacyCashTalks/swa-start-to-finish)
+
+### Making Realtime Application
+
+Example repos showing how to attach a WebPubSub service to Azure Static Web Apps using Blazor and .NET Functions. 
+
+#### Avengers Chat
+
+A simple application showing how to use WebPubSub to communicate between clients for point to point, group, and broadcast messages
+
+- [Avengers chat](https://github.com/StacyCashTalks/DynamicDemo-AvengersChat)
+
+#### Book Tracker (Coming soon)
+
+Taking the concept from the Avengers chat and joining it with real world auth an use cases to manage a library of books.
+
+- [Book tracker](https://github.com/StacyCashTalks/Dynamic-Book-Tracker)
+
+## About Stacy Cashmore
+
+I'm Stacy Cashmore, I have been playing with Azure Static Web Apps since they were in preview and have writen and given multiple talks on the resource.
+
+You can best me best here:
+
+- [BlueSky](https://bsky.app/profile/stacy-clouds.net)
+- [LinkedIn](www.linkedin.com/in/stacycash)
+- [WebSite](https://stacy-clouds.net)
+
+I am currently finishing the second edition of my book on getting started, which covers everything from the basics, through to making your own professional pipeline.
+
+- [Beginning Azure Static Web Apps by Stacy Cashmore](https://www.amazon.com/Beginning-Azure-Static-Web-Apps/dp/B0DTSZG89F)
+
+> Available from other bookstores, but this is the easiest to link to 
+
+- [YouTube](https://www.youtube.com/@StacyClouds)
+
+- [Watch this gist for more updates](https://gist.github.com/StacyCash/7cd3129c7984ba5513a0e35a5fbd2b0c)  
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
 
