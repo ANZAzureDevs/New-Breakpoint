@@ -237,7 +237,7 @@ I am currently finishing the second edition of my book on getting started, which
 
 > Available from other bookstores, but this is the easiest to link to 
 
-- [YouTube](https://www.youtube.com/@StacyClouds)
+- [YouTube](https://www.youtube.com/@StacyClouds)  
 
 
 ![Microsoft Agent Framework](https://github.com/ANZAzureDevs/New-Breakpoint/blob/66a92796bbd3f7ddeb4618550768e24bddea5b15/media/NewBreakpointJan.jpg)
