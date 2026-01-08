@@ -239,7 +239,8 @@ I am currently finishing the second edition of my book on getting started, which
 
 - [YouTube](https://www.youtube.com/@StacyClouds)
 
-- ![Microsoft Agent Framework](https://github.com/ANZAzureDevs/New-Breakpoint/blob/66a92796bbd3f7ddeb4618550768e24bddea5b15/media/NewBreakpointJan.jpg)
+
+![Microsoft Agent Framework](https://github.com/ANZAzureDevs/New-Breakpoint/blob/66a92796bbd3f7ddeb4618550768e24bddea5b15/media/NewBreakpointJan.jpg)
 
 ## 2026-01-08: New Breakpoint S5 Ep 7: Microsoft Agent Framework Explained: Smarter Workflows, Better Tools, Bigger Demo
 
