@@ -173,7 +173,7 @@ Join host Michelle Sandford in this episode of New Breakpoint, where we welcome 
 
 ![Azure Static Web Apps for the Enterprise with Stacy Cashmore](https://github.com/ANZAzureDevs/New-Breakpoint/blob/294c43944bde01ed5420142f01dccad16a4bb477/media/1764741011991.jpg)
 
-## 2025-11-13: Breakpoint S5 Ep6 - Azure Static Web Apps for the Enterprise  
+## 2025-12-13: Breakpoint S5 Ep6 - Azure Static Web Apps for the Enterprise  
 
 Think Azure Static Web Apps are just for hobby sites? Not anymore.  
 
@@ -239,7 +239,37 @@ I am currently finishing the second edition of my book on getting started, which
 
 - [YouTube](https://www.youtube.com/@StacyClouds)
 
-- [Watch this gist for more updates](https://gist.github.com/StacyCash/7cd3129c7984ba5513a0e35a5fbd2b0c)  
+- ![Microsoft Agent Framework](https://github.com/ANZAzureDevs/New-Breakpoint/blob/66a92796bbd3f7ddeb4618550768e24bddea5b15/media/NewBreakpointJan.jpg)
 
+## 2026-01-08: New Breakpoint S5 Ep 7: Microsoft Agent Framework Explained: Smarter Workflows, Better Tools, Bigger Demo
+
+In this episode we dive into the evolution from Azure AI Foundry-built agents to the newly upgraded Microsoft Agent Framework, using the refreshed Contoso Bike Store demo to spotlight what’s changed, what gaps are now filled, and how workflows, hosting, DevUI, and the new AG‑UI all come together to create production‑ready agent experiences. 
+
+We explore why workflows still matter even when agents can choose their own next step, how Foundry agents and the Framework complement each other, what new tooling exists for runtime observability, and the fastest path for developers to get started. 
+
+Join us for a practical, future‑focused tour of how Microsoft is redefining the agent development stack:
+
+🔍 Topics include:
+• The building blocks for building Intelligent applications  
+• Foundry Agents and the Microsoft Agent Framework 
+• What problems does Microsoft Agent Framework solve?  
+• AG-UI and Dev-UI
+
+💬 Live Q&A included — bring your questions!
+
+📍 Add to your calendar and join us live! 
+[Watch it on demand on YouTube](https://www.youtube.com/watch?v=kmsArgSWQ4k)
+
+### Episode Resources:
+
+- [𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐀𝐠𝐞𝐧𝐭 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧](https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview/)
+- [𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐀𝐠𝐞𝐧𝐭 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 - 𝐏𝐲𝐭𝐡𝐨𝐧 𝐒𝐚𝐦𝐩𝐥𝐞s](https://github.com/microsoft/agent-framework/tree/main/python/samples)
+- [𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐀𝐠𝐞𝐧𝐭 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 - .𝐍𝐄𝐓 𝐒𝐚𝐦𝐩𝐥𝐞𝐬](https://github.com/microsoft/agent-framework/tree/main/dotnet/samples)
+- [𝐀𝐠𝐞𝐧𝐭–𝐔𝐬𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧 𝐏𝐫𝐨𝐭𝐨𝐜𝐨𝐥 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧](https://docs.ag-ui.com/)
+- [𝐂𝐨𝐩𝐢𝐥𝐨𝐭𝐊𝐢𝐭 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧](https://docs.copilotkit.ai/)
+- [𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭 - 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐒𝐞𝐜𝐮𝐫𝐞 𝐀𝐩𝐩𝐫𝐨𝐯𝐚𝐥 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬 𝐰𝐢𝐭𝐡 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐀𝐠𝐞𝐧𝐭 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 𝐚𝐧𝐝 𝐀𝐆-𝐔𝐈](https://binarytrails.com/posts/2025/12/approval_workflow_using_maf)
+- [Episode Source Code](https://github.com/binarytrails-ai/maf-approval-workflow)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
 
