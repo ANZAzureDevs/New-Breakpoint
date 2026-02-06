@@ -6,7 +6,7 @@ This repository hosts useful follow ups, links and other information from each e
 
 We want everyone who comes along to feel welcome and safe. Please make sure to review our [Code of Conduct](https://learn.microsoft.com/legal/learnevents/codeofconduct) before joining in and contributing to our discussion.
 
-You can watch all our episodes via playlists on Microsoft ANZ's YouTube Channel - [Season 1](https://aka.ms/new-breakpoint/s1) | [Season 2](https://aka.ms/new-breakpoint/s2) | [Season 3](https://aka.ms/new-breakpoint/s3) | [Season 4](https://aka.ms/new-breakpoint/s4)
+You can watch all our episodes via playlists on Microsoft ANZ's YouTube Channel - [Season 1](https://aka.ms/new-breakpoint/s1) | [Season 2](https://aka.ms/new-breakpoint/s2) | [Season 3](https://aka.ms/new-breakpoint/s3) | [Season 4](https://aka.ms/new-breakpoint/s4) | [Season 5](https://youtube.com/playlist?list=PLhpOApnq4S2gmW4IINGMuTSiatkezM87S&si=RlknGbCoQlgoZV-V)
 
 You will be able to re-watch S5 on YouTube shortly
 
@@ -18,6 +18,7 @@ Season 5 kicked off July 2025. You will be able to register to watch the series 
 - [Season 2](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-02.md)
 - [Season 3](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-03.md)
 - [Season 4](https://github.com/ANZAzureDevs/New-Breakpoint/blob/main/series-04.md)
+- [Season 5](https://youtube.com/playlist?list=PLhpOApnq4S2gmW4IINGMuTSiatkezM87S&si=RlknGbCoQlgoZV-V)
 
 ***
 ![A2A](https://github.com/ANZAzureDevs/New-Breakpoint/blob/c370dc98366ea077959ab17244c26362660397f8/media/Agent%20to%20Agent.png)
