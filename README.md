@@ -274,3 +274,39 @@ Join us for a practical, future‑focused tour of how Microsoft is redefining th
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
 
+![Microsoft Agent Framework](https://github.com/ANZAzureDevs/New-Breakpoint/blob/66a92796bbd3f7ddeb4618550768e24bddea5b15/media/NewBreakpointJan.jpg)
+
+## 2026-02-12: New Breakpoint S5 Ep 8: Breaking the Build: Azure Dev Ops to GitHub Migration Unplugged
+
+Join Michelle Sandford and April Yoho for the newest episode of New Breapoint, Breaking the Build: Azure Dev Ops to GitHub Migration Unplugged” – a practical, no-fluff session designed for developers, architects, and engineering teams who want a clear path to migration.
+
+In this session, you’ll learn:
+✅ How feature parity between Azure DevOps and GitHub really looks
+✅ What’s better in GitHub right now (and why it matters for your workflow)
+✅ Who should migrate now – and who should wait
+✅ Which features are still on the roadmap
+✅ Actionable tips to avoid common migration pitfalls
+✅ How GitHub Copilot can support and accelerate your day-to-day development
+
+Whether you’re just considering a move or actively planning a migration in 2026, this is your hands-on guide to making the transition as seamless as possible.
+
+🎯 Perfect for:
+* Engineering & DevOps teams
+* Solution and software architects
+* Developers evaluating their next toolchain
+
+🔗 Save your spot & register here: https://msft.it/6041tCV2B
+
+### Episode Resources:
+
+- [Migrations Documentation](https://docs.github.com/en/migrations)
+- [Azure DevOps to GitHub migration Playbook](https://devblogs.microsoft.com/all-things-azure/azure-devops-to-github-migration-playbook-unlocking-agentic-devops/)
+- [ADO to GitHub Cloud](https://docs.github.com/en/migrations/ado/about-migrations-from-azure-devops-to-github-enterprise-cloud)
+- [Overview of a Migration](https://docs.github.com/en/migrations/ado/overview-of-a-migration-from-azure-devops-to-github-enterprise-cloud)
+- [Introduction to Migration on Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-to-ado-to-github-migration/)
+- [Well Archtected Migrations Guide](https://wellarchitected.github.com/library/scenarios/migrations/azure-devops-migration-guide/)
+- [GitHub Coding Agents](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent)
+
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
+
