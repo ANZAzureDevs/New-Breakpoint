@@ -274,7 +274,7 @@ Join us for a practical, future‑focused tour of how Microsoft is redefining th
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
 
-![Microsoft Agent Framework](https://github.com/ANZAzureDevs/New-Breakpoint/blob/66a92796bbd3f7ddeb4618550768e24bddea5b15/media/NewBreakpointJan.jpg)
+![Azure Dev Ops to GitHub Migration Unplugged](https://github.com/ANZAzureDevs/New-Breakpoint/blob/429b2711ea27de79cc6d684567b352f1d953a27b/media/NewBreakpointApril.jpg)
 
 ## 2026-02-12: New Breakpoint S5 Ep 8: Breaking the Build: Azure Dev Ops to GitHub Migration Unplugged
 
