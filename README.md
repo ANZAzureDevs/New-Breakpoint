@@ -277,7 +277,7 @@ Join us for a practical, future‑focused tour of how Microsoft is redefining th
 
 ![Azure Dev Ops to GitHub Migration Unplugged](https://github.com/ANZAzureDevs/New-Breakpoint/blob/429b2711ea27de79cc6d684567b352f1d953a27b/media/NewBreakpointApril.jpg)
 
-## 2026-02-12: New Breakpoint S5 Ep 8: Breaking the Build: Azure Dev Ops to GitHub Migration Unplugged
+## 2026-02-12: New Breakpoint S5 Ep X: Breaking the Build: Azure Dev Ops to GitHub Migration Unplugged
 
 Join Michelle Sandford and April Yoho for the newest episode of New Breapoint, Breaking the Build: Azure Dev Ops to GitHub Migration Unplugged” – a practical, no-fluff session designed for developers, architects, and engineering teams who want a clear path to migration.
 
@@ -307,6 +307,30 @@ Whether you’re just considering a move or actively planning a migration in 202
 - [Introduction to Migration on Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-to-ado-to-github-migration/)
 - [Well Archtected Migrations Guide](https://wellarchitected.github.com/library/scenarios/migrations/azure-devops-migration-guide/)
 - [GitHub Coding Agents](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent)
+
+![Write the spec. Let the agents build. Ship with confidence](https://github.com/ANZAzureDevs/New-Breakpoint/blob/410033b5e9c5227ff51841002313d2b70b99e1dc/media/SpecKitNB.jpg)
+
+## 2026-03-12: New Breakpoint S5 Ep 8: Write the spec. Let the agents build. Ship with confidence.
+
+Agent-powered development changes how we build - but clarity still starts with humans.
+In this upcoming New Breakpoint, Arnaud Lheureux joins me to share a practical playbook for treating the spec as the product and using agents to do the heavy lifting.
+
+🔍 You’ll learn:
+• What makes a spec implementable (outcomes, non-goals, edge cases & acceptance criteria)
+• How to translate specs into high-quality agent tasks
+• Prompting patterns and review checkpoints that actually work
+• How to avoid scope creep and “plausible but wrong” code
+• How teams operationalize this approach with GitHub Enterprise
+
+If you want a repeatable way to go from spec → merged PR with less toil and fewer surprises, this session is for you.
+👉 Secure your spot now! https://msft.it/6044QZHQe
+
+### Episode Resources:
+- [GitHub Spec Kit](https://github.com/github/spec-kit)
+- [Implement spec-driven development using the GitHub Spec Kit - Microsoft Learn Path](https://learn.microsoft.com/en-us/training/modules/spec-driven-development-github-spec-kit-enterprise-developers/)
+- 
+
+
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
