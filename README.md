@@ -328,7 +328,7 @@ If you want a repeatable way to go from spec → merged PR with less toil and fe
 ### Episode Resources:
 - [GitHub Spec Kit](https://github.com/github/spec-kit)
 - [Implement spec-driven development using the GitHub Spec Kit - Microsoft Learn Path](https://learn.microsoft.com/en-us/training/modules/spec-driven-development-github-spec-kit-enterprise-developers/)
-- 
+- [Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
 
 
 
