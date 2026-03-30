@@ -348,9 +348,11 @@ If you want a repeatable way to go from spec → merged PR with less toil and fe
 👉 Secure your spot now! https://developer.microsoft.com/en-us/reactor/series/s-1565/
 
 ### Episode Resources:
-- [GitHub Copilot SDK](https://github.com/github/spec-kit)
-- [Awesome Copilot](https://learn.microsoft.com/en-us/training/modules/spec-driven-development-github-spec-kit-enterprise-developers/)
-- [Microsoft Learn](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
+- [GitHub Copilot SDK]([https://github.com/github/spec-kit](https://github.com/github/copilot-sdk))
+- [Awesome Copilot](https://github.com/github/awesome-copilot)
+- [Build an agent into any app with the GitHub Copilot SDK](https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/)
+- [GitHub Copilot SDK Docs](https://docs.github.com/en/copilot/how-tos/copilot-sdk)
+- [Develop AI-enabled apps using the GitHub Copilot SDK](https://learn.microsoft.com/en-us/training/modules/develop-ai-enabled-apps-using-github-copilot-sdk/)
 
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
