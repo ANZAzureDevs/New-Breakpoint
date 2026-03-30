@@ -348,7 +348,7 @@ If you want a repeatable way to go from spec → merged PR with less toil and fe
 👉 Secure your spot now! https://developer.microsoft.com/en-us/reactor/series/s-1565/
 
 ### Episode Resources:
-- [GitHub Copilot SDK]([https://github.com/github/spec-kit](https://github.com/github/copilot-sdk))
+- [GitHub Copilot SDK](https://github.com/github/copilot-sdk)
 - [Awesome Copilot](https://github.com/github/awesome-copilot)
 - [Build an agent into any app with the GitHub Copilot SDK](https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/)
 - [GitHub Copilot SDK Docs](https://docs.github.com/en/copilot/how-tos/copilot-sdk)
