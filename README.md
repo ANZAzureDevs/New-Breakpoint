@@ -330,6 +330,27 @@ If you want a repeatable way to go from spec → merged PR with less toil and fe
 - [Implement spec-driven development using the GitHub Spec Kit - Microsoft Learn Path](https://learn.microsoft.com/en-us/training/modules/spec-driven-development-github-spec-kit-enterprise-developers/)
 - [Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
 
+![AddAgentsToAnything](https://github.com/ANZAzureDevs/New-Breakpoint/blob/61685411bab42c79b06f1d54712c4dbf636a0bac/media/addagents.jpg)
+## 2026-03-12: New Breakpoint S5 Ep 9: Add agents to anything with Copilot SDK with Aaron Powell
+
+GitHub Copilot is great in the editor, but what if you want Copilot inside your product or workflow? Let us introduce you to the Copilot SDK!
+
+In this episode, Aaron Powell joins host Michelle Sandford to explore the GitHub Copilot SDK, the building blocks you need to create custom Copilot powered experiences, and the real world gotchas that show up after the demo works.
+
+Expect clear explanations, practical examples, and a roadmap for going from idea to shipped feature.
+
+🔍 You’ll learn:
+• How to add Agents to Anything
+• The GitHub Copilot SDK
+• Awesome Copilot Repo
+
+If you want a repeatable way to go from spec → merged PR with less toil and fewer surprises, this session is for you.
+👉 Secure your spot now! https://developer.microsoft.com/en-us/reactor/series/s-1565/
+
+### Episode Resources:
+- [GitHub Copilot SDK](https://github.com/github/spec-kit)
+- [Awesome Copilot](https://learn.microsoft.com/en-us/training/modules/spec-driven-development-github-spec-kit-enterprise-developers/)
+- [Microsoft Learn](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
 
 
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
