@@ -354,8 +354,9 @@ If you want a repeatable way to go from spec → merged PR with less toil and fe
 - [Build an agent into any app with the GitHub Copilot SDK](https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/)
 - [GitHub Copilot SDK Docs](https://docs.github.com/en/copilot/how-tos/copilot-sdk)
 - [Develop AI-enabled apps using the GitHub Copilot SDK](https://learn.microsoft.com/en-us/training/modules/develop-ai-enabled-apps-using-github-copilot-sdk/)
-
-
+- [Home Assistant Helper Demo](https://github.com/aaronpowell/home-assistant-helper)
+- [Copilot SDK Web App](https://github.com/aaronpowell/copilot-sdk-web-app)
+  
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
 
