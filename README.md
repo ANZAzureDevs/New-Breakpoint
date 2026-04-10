@@ -350,7 +350,7 @@ If you want a repeatable way to go from spec → merged PR with less toil and fe
 ### Episode Resources:
 - [GitHub Copilot SDK](https://github.com/github/copilot-sdk)
 - [Really Awesome GHCP CLI Course](https://awesome-copilot.github.com/learning-hub/cli-for-beginners/)
-- [Awesome Copilot](https://github.com/github/awesome-copilot)
+- [Awesome Copilot Repository - Agents, Hooks, Skills, Instructions, Plugins, Agentic Workflows, Cookbook and more](https://github.com/github/awesome-copilot)
 - [Build an agent into any app with the GitHub Copilot SDK](https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/)
 - [GitHub Copilot SDK Docs](https://docs.github.com/en/copilot/how-tos/copilot-sdk)
 - [Develop AI-enabled apps using the GitHub Copilot SDK](https://learn.microsoft.com/en-us/training/modules/develop-ai-enabled-apps-using-github-copilot-sdk/)
