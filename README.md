@@ -360,3 +360,30 @@ If you want a repeatable way to go from spec → merged PR with less toil and fe
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
 
+![AddAgentsToAnything](https://github.com/ANZAzureDevs/New-Breakpoint/blob/61685411bab42c79b06f1d54712c4dbf636a0bac/media/addagents.jpg)
+## 2026-04-14: New Breakpoint S5 Ep 10: From Git to GitHub Foundations with Ayodeji Ayodele
+
+🎙️ Michelle Sandford is joined by Ayodeji Ayodele (GitHub Senior Customer Success Architect, author of the GitHub Foundations Certification Guide) to cover what developers actually need:
+
+• Git vs GitHub (what matters in practice)
+• Cleaner repos & faster collaboration
+• Pull requests that speed teams up
+•Quick wins with GitHub Actions
+•Security basics: dependency, secret & code scanning
+• Using GitHub Copilot responsibly
+• First steps into open source
+
+👉 Watch it on YouTube here and level up your GitHub foundations! https://www.youtube.com/watch?v=W86EkkBdquo
+
+### Episode Resources:
+- [GitHub Copilot SDK](https://github.com/github/copilot-sdk)
+- [Really Awesome GHCP CLI Course](https://awesome-copilot.github.com/learning-hub/cli-for-beginners/)
+- [Awesome Copilot Repository - Agents, Hooks, Skills, Instructions, Plugins, Agentic Workflows, Cookbook and more](https://github.com/github/awesome-copilot)
+- [Build an agent into any app with the GitHub Copilot SDK](https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/)
+- [GitHub Copilot SDK Docs](https://docs.github.com/en/copilot/how-tos/copilot-sdk)
+- [Develop AI-enabled apps using the GitHub Copilot SDK](https://learn.microsoft.com/en-us/training/modules/develop-ai-enabled-apps-using-github-copilot-sdk/)
+- [GitHub Foundations Certification Guide on Amazon](https://www.amazon.com.au/GitHub-Foundations-Certification-Guide-real-world/dp/1836206054/)
+
+  
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
