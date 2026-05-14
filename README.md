@@ -376,14 +376,15 @@ If you want a repeatable way to go from spec → merged PR with less toil and fe
 👉 Watch it on YouTube here and level up your GitHub foundations! https://www.youtube.com/watch?v=W86EkkBdquo
 
 ### Episode Resources:
+- [GitHub Copilot Certification Learning Path](https://learn.microsoft.com/en-us/training/courses/gh-300t00)
+- [GitHub Foundations Certification Learning Path](https://learn.microsoft.com/en-us/training/courses/gh-900t00)
+- [GitHub Foundations Certification Guide on Amazon](https://www.amazon.com.au/GitHub-Foundations-Certification-Guide-real-world/dp/1836206054/)
 - [GitHub Copilot SDK](https://github.com/github/copilot-sdk)
 - [Really Awesome GHCP CLI Course](https://awesome-copilot.github.com/learning-hub/cli-for-beginners/)
 - [Awesome Copilot Repository - Agents, Hooks, Skills, Instructions, Plugins, Agentic Workflows, Cookbook and more](https://github.com/github/awesome-copilot)
 - [Build an agent into any app with the GitHub Copilot SDK](https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/)
 - [GitHub Copilot SDK Docs](https://docs.github.com/en/copilot/how-tos/copilot-sdk)
 - [Develop AI-enabled apps using the GitHub Copilot SDK](https://learn.microsoft.com/en-us/training/modules/develop-ai-enabled-apps-using-github-copilot-sdk/)
-- [GitHub Foundations Certification Guide on Amazon](https://www.amazon.com.au/GitHub-Foundations-Certification-Guide-real-world/dp/1836206054/)
-
   
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
