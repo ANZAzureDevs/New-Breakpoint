@@ -360,7 +360,7 @@ If you want a repeatable way to go from spec → merged PR with less toil and fe
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
 
-![AddAgentsToAnything](https://github.com/ANZAzureDevs/New-Breakpoint/blob/61685411bab42c79b06f1d54712c4dbf636a0bac/media/addagents.jpg)
+![Git to GitHub](https://github.com/ANZAzureDevs/New-Breakpoint/blob/fe441b51b30a2058fad627f0421ed25be08f4967/media/NEW%20BREAKPOINT%2014.5%20(1).jpg)
 ## 2026-04-14: New Breakpoint S5 Ep 10: From Git to GitHub Foundations with Ayodeji Ayodele
 
 🎙️ Michelle Sandford is joined by Ayodeji Ayodele (GitHub Senior Customer Success Architect, author of the GitHub Foundations Certification Guide) to cover what developers actually need:
