@@ -389,7 +389,7 @@ If you want a repeatable way to go from spec → merged PR with less toil and fe
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
 
-![Agentic Platform Engineering](placeholder)
+![Agentic Platform Engineering](https://github.com/ANZAzureDevs/New-Breakpoint/blob/4a50a2b2e970ac6f8b2d0c9847eb52237bbd2305/media/Git-APE.png)
 ## 2026-06-11: New Breakpoint S5 Ep 11: Platform Engineering Rewritten: From Pipelines to Prompts with Arnaud Lheureux.
 
 Platform engineering has always been about turning intent into secure, compliant infrastructure but it has come at the cost of complexity, time, and endless templates.
