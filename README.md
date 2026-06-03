@@ -388,3 +388,28 @@ If you want a repeatable way to go from spec → merged PR with less toil and fe
   
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
 #MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
+
+![Agentic Platform Engineering](placeholder)
+## 2026-06-11: New Breakpoint S5 Ep 11: Platform Engineering Rewritten: From Pipelines to Prompts with Arnaud Lheureux.
+
+Platform engineering has always been about turning intent into secure, compliant infrastructure but it has come at the cost of complexity, time, and endless templates.
+
+🎙️In this episode of New Breakpoint, Michelle Sandford is joined by Arnaud Lheureux to explore how agentic AI is redefining that model. Instead of manually stitching together infrastructure components, what if agents could orchestrate everything for you - safely, transparently, and in minutes instead of weeks?
+
+Through a live demo of GitApe, we see how teams can go from a simple prompt to a fully deployed, policy-compliant architecture, complete with validation, cost insights, documentation, and traceability. But this isn’t about replacing engineers. It’s about elevating them. As automation takes over repetitive tasks, platform teams shift towards designing guardrails, shaping context, and making better-informed decisions.
+
+If you’re building, operating, or evolving platforms in the age of AI, this episode will challenge how you think about speed, responsibility, and what it really means to engineer at scale.
+
+👉 Register here and level up your Agentic Platform Engineering skills https://developer.microsoft.com/en-us/reactor/events/27318/?wt.mc_id=linkedin_27318_social_reactor
+
+### Episode Resources:
+- [Git Ape Website](https://azure.github.io/git-ape/)
+- [Git-Ape Repository on GitHub](https://github.com/Azure/git-ape)
+- [Git-Ape on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Git-ApeTeam.git-ape)
+- [Platform Engineering on Microsoft Learn](https://learn.microsoft.com/en-us/platform-engineering/)
+- [Really Awesome GHCP CLI Course](https://awesome-copilot.github.com/learning-hub/cli-for-beginners/)
+- [Awesome Copilot Repository - Agents, Hooks, Skills, Instructions, Plugins, Agentic Workflows, Cookbook and more](https://github.com/github/awesome-copilot)
+
+  
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub
+#MicrosoftAustralia #MicrosoftNZ #MSDeveloperANZ #NewBreakpoint #DevOps #DevSecOps #Azure #GitHub #CLI #Copilot #GHCP  
