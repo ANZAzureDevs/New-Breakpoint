@@ -56,3 +56,25 @@ Register to watch the broadcast: [Live Broadcast](https://aka.ms/NewBreakpoint30
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 ***
+***
+![Secure by Design](https://github.com/ANZAzureDevs/New-Breakpoint/blob/611e380cc4f593e4140d470ceb8d4bd7f635799e/media/s6%20Ep2%20Secure%20by%20Design.png)
+
+## 2026-08-13: New Breakpoint S6 Ep 2: Secure by Design: Building Security into Every Commit with GitHub Copilot
+
+Security isn't someone else's job anymore. In this episode of New Breakpoint, Michelle Sandford (She/Her) sits down with George Coldham, Cloud Solution Architect at Microsoft, to explore how developers can use GitHub and GitHub Copilot to make security a natural part of their everyday workflow. Through a live demo, George shows how to identify exposed secrets, detect vulnerable dependencies, improve code quality, and leverage AI-powered tools to address issues before they reach production. Whether you're an experienced developer or just getting started, you'll learn practical ways to build more secure applications while maintaining speed and productivity, and why human accountability remains critical in the age of AI-assisted development.
+
+Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.com/en-us/reactor/series/s-1565/)
+
+[Watch it on demand on YouTube](https://www.youtube.com/playlist?list=PLQBhiTre3qRQ)
+
+### Episode Resources:
+- [GitHub Repository](anothergeorgecoldham/feedback-wall)
+- [GitHub Advanced Security](https://learn.microsoft.com/en-us/training/courses/gh-500t00)
+- [Resolve GitHub Secret Scanning alerts using GitHub Copilot Agent](https://learn.microsoft.com/en-us/training/modules/resolve-github-secret-scanning-alerts-github-copilot-agent/)
+- [Introduction to GitHub Advanced Security](https://learn.microsoft.com/en-us/training/modules/introduction-github-advanced-security/)
+- [Secure development best practices on Azure](https://learn.microsoft.com/en-us/azure/security/develop/secure-dev-overview)
+- [Accelerate AI-assisted development by using GitHub Copilot](https://learn.microsoft.com/en-us/credentials/applied-skills/accelerate-app-development-by-using-github-copilot/)
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+***
+
