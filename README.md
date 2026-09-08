@@ -77,4 +77,55 @@ Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.co
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 ***
+![App Mod](https://github.com/ANZAzureDevs/New-Breakpoint/blob/170706b36208dd0dd183aeb0b4f9dc9ec50d45a1/media/AppMod.png)
 
+## 2026-09-10: New Breakpoint S6 Ep 3: Azure SRE Agent and App Modernisation with GitHub Copilot
+
+In this episode of New Breakpoint, Michelle Sandford sits down with Nirmal Thewarathanthri to explore how Azure SRE Agent thinking can help teams move beyond application migration and into reliable, governed operations.
+
+Together, they discuss how agent-first workflows can support application modernisation by tackling common operational challenges such as reliability debt, configuration drift, security and compliance requirements, unclear ownership, remediation processes, and human-approved change management.
+
+The episode explores:
+
+Why app modernisation extends beyond code migration
+Applying SRE practices to day-2 operations
+Detecting and remediating operational drift
+Building policy-aware, auditable workflows
+Keeping humans in the loop for critical approvals
+Enabling collaboration across platform, application, and SRE teams
+If you're looking to understand how Azure SRE Agent can support modern application operations at scale, this episode is a practical place to start.
+
+Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.com/en-us/reactor/series/s-1565/)
+
+[Watch it on demand on YouTube](https://youtu.be/kxEsD9osBuU?si=WXA-uvzI3jBNysAF)
+
+### Episode Resources:
+- [GitHub App Modernisation](https://github.com/solutions/use-case/app-modernization)
+- [GitHub Copilot modernization](https://learn.microsoft.com/en-us/azure/developer/github-copilot-app-modernization/overview)
+- [GitHub Copilot Modernisation Agent](https://learn.microsoft.com/en-us/azure/developer/github-copilot-app-modernization/modernization-agent/overview)
+- [Modernizing Java applications with GitHub Copilot](https://docs.github.com/en/copilot/tutorials/modernize-java-applications)
+
+![Agent Harness](https://github.com/ANZAzureDevs/New-Breakpoint/blob/170706b36208dd0dd183aeb0b4f9dc9ec50d45a1/media/S6Ep4.png)
+
+## 2026-10-8: New Breakpoint S6 Ep 4: The Agent Harness: From GitHub Copilot to Production AI
+
+What if the secret to building better AI agents isn't a bigger model, but a better harness?
+
+In this episode of New Breakpoint, Graeme Foster explores the GitHub Copilot SDK and the emerging "agent harness" pattern that's powering a new generation of AI experiences. Discover how planning, tool use, code execution and reasoning come together to help agents solve real-world problems, and learn how these capabilities can be extended beyond the IDE into hosted, governed and enterprise-ready solutions.
+
+Key takeaways:
+- Understand the agent harness pattern and why modern AI systems are about more than just models, combining tools, planning, execution and orchestration to achieve complex goals.
+- Explore the GitHub Copilot SDK in action, including how agents can analyse data, execute code, interact with files and leverage external tools to complete end-to-end workflows.
+- Learn how to take agents into production with hosted experiences, identity, governance and integration with Foundry, enabling scalable and enterprise-ready AI solutions
+
+Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.com/en-us/reactor/series/s-1565/)
+
+[Watch it on demand on YouTube](https://youtube.com/playlist?list=PLQBhiTre3qRQ&si=kXDMkdhnlqOdoh64)
+
+### Episode Resources:
+- [Building a Hosted Agent with GitHub Copilot and Microsoft Foundry](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/quickstart-hosted-agent?pivots=azd)
+- [Quickstart: Deploy your first hosted agent](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/quickstart-hosted-agent?pivots=azd)
+- [Quickstart: Deploy your own code as a hosted agent](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/quickstart-deploy-own-code?tabs=responses)
+
+If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
+***
