@@ -123,10 +123,13 @@ Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.co
 [Watch it on demand on YouTube](https://youtube.com/playlist?list=PLQBhiTre3qRQ&si=kXDMkdhnlqOdoh64)
 
 ### Episode Resources:
+- [Agents powered by the GitHub Copilot Harness: An overview](https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/overview)
+- [Access standard harness agents and agent flows](https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/switch-experiences?source=recommendations)
+- [Understanding Agent Harnesses](https://learn.microsoft.com/en-us/agent-framework/concepts/harness?pivots=programming-language-python)
 - [Building a Hosted Agent with GitHub Copilot and Microsoft Foundry](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/quickstart-hosted-agent?pivots=azd)
 - [Quickstart: Deploy your first hosted agent](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/quickstart-hosted-agent?pivots=azd)
 - [Quickstart: Deploy your own code as a hosted agent](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/quickstart-deploy-own-code?tabs=responses)
-- [Understanding Agent Harnesses](https://learn.microsoft.com/en-us/agent-framework/concepts/harness?pivots=programming-language-python)
+
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 ***
