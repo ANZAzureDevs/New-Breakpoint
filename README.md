@@ -126,6 +126,7 @@ Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.co
 - [Building a Hosted Agent with GitHub Copilot and Microsoft Foundry](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/quickstart-hosted-agent?pivots=azd)
 - [Quickstart: Deploy your first hosted agent](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/quickstart-hosted-agent?pivots=azd)
 - [Quickstart: Deploy your own code as a hosted agent](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/quickstart-deploy-own-code?tabs=responses)
+- [Understanding Agent Harnesses](https://learn.microsoft.com/en-us/agent-framework/concepts/harness?pivots=programming-language-python)
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 ***
