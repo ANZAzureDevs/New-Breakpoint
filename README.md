@@ -130,6 +130,7 @@ Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.co
 - [Quickstart: Deploy your first hosted agent](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/quickstart-hosted-agent?pivots=azd)
 - [Quickstart: Deploy your own code as a hosted agent](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/quickstart-deploy-own-code?tabs=responses)
 
+![GHCP Budgeting](https://github.com/ANZAzureDevs/New-Breakpoint/blob/2348de913522f9ba1e0ded93aef62ac610839d1b/media/Budgets.png)
 
 ## 2026-11-12: New Breakpoint S6 Ep 5: GitHub Copilot Budgets and Tokenomics: Room to Build, No Bill Shock
 
