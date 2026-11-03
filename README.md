@@ -159,6 +159,11 @@ Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.co
 - [GitHub Copilot Billing Docs](https://docs.github.com/en/billing/concepts/product-billing/github-copilot-billing)
 - [GitHub Copilot Billing and Usage](https://docs.github.com/en/copilot/concepts/billing-and-usage)
 - [What's changing with GitHub Enterprise and Copilot Billing](https://docs.github.com/en/copilot/get-started/whats-changing-with-github-enterprise-and-copilot)
+- [GitHub Copilot Impact Dashboard Docs](https://docs.github.com/en/copilot/how-tos/administer-copilot/view-impact-dashboard)
+- [From code completions to agents: what AI adoption is really worth](https://github.com/resources/insights/copilot-impact-dashboard)
+- [Change log: New Copilot usage metrics impact dashboard](https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard/)
+- [Copilot impact dashboard adds a return on investment section](https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section/)
+- [GitHub Copilot usage metrics](https://docs.github.com/en/copilot/concepts/billing-and-usage/copilot-usage-metrics/copilot-metrics)
 
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
