@@ -131,5 +131,34 @@ Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.co
 - [Quickstart: Deploy your own code as a hosted agent](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/quickstart-deploy-own-code?tabs=responses)
 
 
+## 2026-11-12: New Breakpoint S6 Ep 5: GitHub Copilot Budgets and Tokenomics: Room to Build, No Bill Shock
+
+GitHub Copilot has grown from an assistant in your editor into a set of agents that can work through multi-step tasks across your repositories, and the bill has changed to match. Copilot is now billed on what you actually use, measured in AI credits and driven by tokens. The models your developers choose, how much context they send and how long their agents run all show up on the invoice.
+
+In this New Breakpoint episode, host Michelle Sandford is joined by Scott Holden from Microsoft Australia to explain Copilot tokenomics. Scott will walk through how the shared credit pool works and what actually drives cost. He'll also show how to set up budgets so they really cap spending instead of just sending alerts. Live in the GitHub billing settings, you'll see user, cost centre and enterprise budgets side by side, along with how to spot runaway agent usage early. Scott will also cover what developers see when they reach a limit.
+
+Whether you're a developer, an engineering leader, a GitHub admin or the person finance asks about the Copilot bill, you'll leave knowing how to give your teams room to build without any surprises at the end of the month.
+
+In this session you'll learn:
+- How usage-based billing and AI credits work, and what still comes free with every Copilot seat
+- Copilot tokenomics: why model choice, context size and agent sessions change what you pay
+- How to set budgets that cap spending, and the default settings worth checking today
+- How to monitor usage, find spikes and give power users more room without blowing the budget
+- How to talk about Copilot spend and value with finance
+
+Join us live Post your questions in the chat. Michelle and Scott will answer them during the show 
+
+Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.com/en-us/reactor/series/s-1565/)
+
+[Watch it on demand on YouTube](https://youtube.com/playlist?list=PLQBhiTre3qRQ&si=kXDMkdhnlqOdoh64)
+
+### Episode Resources:
+- [GitHub change log](https://github.blog/changelog/)
+- [GitHub Universe Recap](https://github.com/events/universe/recap)
+- [GitHub Copilot Billing Docs](https://docs.github.com/en/billing/concepts/product-billing/github-copilot-billing)
+- [GitHub Copilot Billing and Usage](https://docs.github.com/en/copilot/concepts/billing-and-usage)
+
+
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
 ***
+
