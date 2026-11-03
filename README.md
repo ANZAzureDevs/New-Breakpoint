@@ -158,6 +158,7 @@ Register to watch the broadcast: [Live Broadcast](https://developer.microsoft.co
 - [GitHub Universe Recap](https://github.com/events/universe/recap)
 - [GitHub Copilot Billing Docs](https://docs.github.com/en/billing/concepts/product-billing/github-copilot-billing)
 - [GitHub Copilot Billing and Usage](https://docs.github.com/en/copilot/concepts/billing-and-usage)
+- [What's changing with GitHub Enterprise and Copilot Billing](https://docs.github.com/en/copilot/get-started/whats-changing-with-github-enterprise-and-copilot)
 
 
 If you enjoyed the episode and want more content like it? Try our monthly developer newsletter: [Microsoft Source](https://aka.ms/DevNewsletterJoin)
